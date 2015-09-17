@@ -45,7 +45,7 @@ def main():
 
     if not os.path.isdir('lectures'):
         os.mkdir('lectures')
-    filename = 'lectures/' + lecture_name
+    filename = 'lectures/' + lecture_name + '.txt'
     f = open(filename, 'w')
     f.write(''.join(page_texts))
     print 'Successfully processed lecture and created file at ' + filename

@@ -1,0 +1,459 @@
+
+Geo I 
+Humanity and the Earth: An Overview of Everything
+What is Geology?
+Originally (14th Century):
+"Non-astrological Law"
+Commonly:
+"Study of the Earth"
+Practically:
+"Study of Natural Phenomena Related to the Earth and Other Planets"
+(beyond Earth and Rocks: Planets, magnetic and electric fields).
+For purposes of conveying Geology to newcomers, we often make a distinction
+between
+Processes at the Earth's Surface (GeoII)
+Processes within the Earth's Interior (GeoI)
+But of course these are related - the division is only for convenience.
+
+Geo I 
+Why study Geology?
+Big reason #1:
+Stewardship of the Planet and Responsible Management of Natural Resources:
+Growing population on a finite planet. How do we
+get "stuff" and how to we go about it in a sustainable way? How do we live on the
+Earth and keep it habitable?
+Big reason #2:
+Understanding the causes and effects of Natural Hazards
+Earthquakes, Volcanoes, Floods, Tornados, Tsunamis, etc.
+Big reason #3:
+Understanding how the Earth "works".
+How did things get to be the way they are?
+Can we understand this complex system by viewing it over a long 
+time?
+Big reason #4:
+It's always challenging, and not only intellectually.
+Multidisciplinary:  Physics, Chemistry, Biology, Math, Computer Science, 
+English
+Venues ranging from an office cubicle to the wilds of Central Asia.
+Geology is a very young science.  Most of what we understand was
+learned within the last 30 years.
+
+Geo I 
+Let's back up a bit and have a look at a general philosophical question:
+How do we "know" or "understand" things? And what exactly does that mean, 
+anyway?
+This is a question that has plagued a number of philosophical types for many 
+years.  I suggest to you that everything you need to know is based on a simple 
+concept called 
+The Scientific Method
+Despite its importance and simplicity, the scientific method is not 
+understood by a lot of people, even some who claim to be scientists.
+Here are the steps in the scientific method as it is commonly described:
+Observe some phenomenon. 
+Invent a tentative description of cause and effect, 
+called a hypothesis, that is consistent with what you have 
+observed (i.e., the cause you propose is likely to have some connection to the effect you observed). 
+Use the hypothesis to make predictions.   
+Test those predictions by experiments or further observations and modify the hypothesis in 
+light of your results.  
+Repeat steps 3 and 4 until there are no significant discrepancies between theory and 
+experiment and/or observation.
+
+Geo I 
+Why does this work so well in practice?  Because hidden in here (in step #3 - using the hypothesis
+to make predictions - in 
+particular) is an answer
+to the question of what reality is:  Reality is what happens next.
+Why is that?  Because we live in an infinitesimally short moment of time we call 
+the present, and the present is continously becoming the past.  We cannot stop 
+this from happening, we cannot slow it down, and we cannot reverse the process.
+Neither do we have any ability to see with absolute certainty what will happen 
+in the future, even in the most immediate future.  All we can do is extrapolate 
+from the past.   Because the future is always arriving, it is a great advantage 
+to be able to predict what will happen next. Trying to predict what will happen 
+next is arguably the most important thing we do, and is the basis for most of 
+science, philosophy, religion and virtually every arena of human thought.
+So, science is about figureing out what happens next.
+We "know" or "understand" something to the extent that we can make
+successful predictions about it.  Explanations about anything that have
+no predictive qualities are useless in this regard because it is
+possible to fabricate multiple explanations for past events.   It is
+only when we successfully test our explanations against the passage of 
+time that we can say that we understand something.
+
+Geo I 
+Note also that it isn't useful to make predictions that would be true even if the
+hypothesis was false.  A valid test of a hypothesis must include conditions
+under which it will fail.
+Examples of practically useless hypotheses and predictions:  
+If there is snow in November, there will be Christmas in December.
+There once were people who lived on Neptune centuries ago, but they
+disappeared without a trace.  This hypothesis predicts that I should see no trace of civilization on Neptune.
+If I wear this medallion, no elephants will appear in my office.
+If a woman can drown, she is not a witch. (Not a clever test for witches for obvious reasons, but also
+note that in order for this to be useful, one would have to
+have to observe a correlation between women who can not drown and women who are witches.)
+The best hypotheses make predictions about phenomena that have not yet been observed.
+Examples:  
+Relativity and the dependence of time on gravitational acceleration.
+Newton's law of gravity and the existence of planets not yet observed predicted by orbital perturbations to
+other planets.
+Rates of plate motion deduced from magnetic stripes in the ocean floor.
+
+Geo I 
+It is the goal of science to look for the "rules" we can use to make 
+predictions.  To the extent that they work, they become our best guess at what 
+reality is.  
+Of course, we apply these same rules ourselves in many "common sense"
+applications.  We often take a general rule as "truth", and use it as
+long as it makes successful predictions.
+Finally, note that just because something worked today doesn't mean it's
+going to work tomorrow.  There is no guarantee.  But putting your faith in 
+experiential rules is arguably the best you can do.
+
+Geo I
+An important concept:
+"A finite amount of observations can be explained in an infinite
+number of ways"
+We always have "A finite amount of observations".
+With the exception of tautologies (truisms), all knowledge is probabilistic.
+In other words, we can't know anything exactly, we can only estimate how
+probable something is. The more observations we explain with a theory, the
+more probable it is.
+HOWEVER, note that the probability is never 1, which means there is
+always some chance that the model, no matter how used to it we are, could
+be wrong.
+Thus, in a sense, "scientific fact" is an oxymoron.
+ This is one example of how imprecise use of words can get us into big trouble.
+
+Geo I
+So given an infinite number of explanations, what can you do? 
+Because there are an infinite number of probable explanations for an
+observation, we generally follow the rule that "the simplest explanation
+is the most probable" where "simplest" typically means "the explanation
+that is the closest to what we already think we know". 
+A technical term
+for this process is known as Occam's razor.
+Thus, we typically are conservative and stick to a model until reliable
+observations force us to do otherwise. 
+This philosophy prevents improbable
+models from gaining a foothold. Of course, we are glad to jettison old
+models if they are no longer feasible, and welcome those that are.
+The following terms apply to models with decreasing probability:
+Fact (Observation)
+Law
+Theory
+Hypothesis
+Belief (hypothesis tested only by intuition)
+Guess (untested hypothesis)
+People who are not familiar with these ideas create the image of "scientific
+mavericks" who are squelched by the "establishment" and look for conspiracies
+in the retention of older models.
+
+Geo I
+Ok, let's go back over the BIG REASONS again:
+Big Reason #1:
+Responsible Management of Natural Resources
+Society has always been very strongly effected by the availability of natural
+resources. When populations were low, the biggest question was how to increase
+supply. We became good at this, and populations grew. Now the big question
+is how to sustain our use of these resources.
+On the supply side:
+Locating and exploiting new sources of energy, building materials, agricultural
+materials (soil and fertilizer), and fresh water.
+Figuring out what to do with waste.
+On the demand side:
+Growing demand from developing societies;  Growing populations.
+We'll discuss the "supply side" of this equation at some length later
+in this course (and in greater depth in GeoII). Let's review some ideas
+about the "demand" side.
+
+Geo I
+Population: The Demand Side of the Equation
+How fast does population grow, what controls it, and what
+are the effects?
+NB: For the moment we will presume that everyone has the same requirements for
+resources, which is typically governed by the "standard of living".
+Natural populations tend to grow exponentially (the rate of change is
+proportional to the number of individuals, or, the more people there are,
+the faster the population grows).
+There are a number of ways one could think about to characterize an
+exponential rate. Let's discuss some of the more useful ways:
+Generally, the rate of population growth is the difference between the
+birth rate (BR = number of births per year) and the death rate (DR = number
+of deaths per year).
+GR = BR - DR
+Because the number of births and deaths in a population can be expected
+to be proportional to the number of people in the population, the growth
+rate is proportional to that number as well, and thus we can talk about
+GR as a percentage (%/yr) or a fractional percentage (just %/100).
+
+Geo I
+Calculating Population Growth
+Calculating the population over a number of years is then exactly like
+calculating compound interest. For example:
+Say the initial population is P0, and the population in 1
+year is P1 , and so on, then if we consider GR to be a fractional
+increase, we have:
+P1 = P0(1 + GR)
+P2 = P1(1 + GR) = P0(1 +
+GR)2
+. . .
+Pn = P0(1 + GR)n
+
+For example, say the percentage growth rate is 2%, then the fractional
+growth rate (GR) is 0.02, and
+Pn = P0(1.02)n
+Thus, at this rate, in 5 years time:
+P5 /P0 = (1.02)5 = 1.10
+and in 50 years time:
+P50 /P0 = (1.02)50 = 2.69
+
+Geo I/
+We often use as a benchmark the number of years it takes for a population
+to double (the Doubling Time)
+Pn/P0 = 2 = (1 + GR)n
+Solving for n:
+
+ln(2) = (n)*ln(1 + GR)
+n = ln(2) / ln(1 + GR)
+If GR << 1 then ln(1 + GR) ~ GR
+n ~ ln(2)/GR = 0.6931/GR (*100/100) ~ 70/(GR%).
+This is the so-called "rule of 70".
+Thus, if
+GR = 1%, n ~ 70 years
+GR = 2%, n ~ 35 years
+Population growth at a given rate thus follows what is called a "J" curve.
+
+Geo I
+A Short History of Human Population Growth
+
+In the Beginning
+People have been around for about 106 years, living originally
+in hunter/gatherer types of communities until about 8000 BC. 
+The population
+at that time is estimated to be about 8,000,000.
+To go from 2 to 8,000,000 requires about 23 doublings ( = ln(8x106)/ln(2)),
+so on average the population doubled about once every 43000 years. 
+The
+average growth rate over this time period would be
+70/43000 = 0.0016% per year
+which is pretty meager.
+
+Geo I/
+The Agricultural Revolution
+With the introduction of agriculture at about 8000 BC, food supplies
+stabilized and the death rate went down significantly. 
+From 8000 BC to
+about 1750, the population grew to about 600 million, or another 6 doublings.
+The average doubling time would be about 1600 years, and the growth rate
+would be
+70/1600 = 0.044%
+a rate increase of about 20 times.
+
+Geo I
+The Industrial Revolution:
+The period since the Industrial Revolution has witnessed dramatic changes
+in health care and food production, further reducing the death rate. 
+Since
+about 1750, the population has grown to about 6 billion, or about 3 doublings
+in 250 years. 
+The average doubling time is 80 years, and the growth rate
+is
+70/80 = 0.875%
+or nearly 1% a year!
+
+Geo I/Planet Earth I
+Recent Past
+World population growth rates peaked in the 1960's at about 2%, and
+have since dropped to about 1.7%. 
+The current doubling time is thus 70/1.7
+= 41 years.
+
+Important point: Most of our population growth has taken place
+in the last century or so, and a great part of it just within the past
+2-3 decades. 
+This creates a far greater demand on Earth resources than
+has ever before existed.
+
+Geo I
+A few more details about why and how the population has exploded
+in the last 100 years.
+
+A useful demographic model to describe population dynamics goes in "stages"
+as follows:
+
+Stage 1. (Pre-Industrial)
+Birth rate is high, but so is the death rate, so the net growth rate remains
+small.
+
+Geo I
+Stage 2. (Transitional)
+Birth rate remains high, but death rate drops, so growth rate increases
+dramatically. Reasons for the death rate to fall:
+
+1. Increased food availability
+Improved agriculture
+
+Better distribution of food
+
+Better nutrition
+
+2. Reduced incidence of disease
+
+Better sanitation; clean water and better waste management so diseases
+like typhus, diphtheria, cholera, dysentery are no longer a big problem.
+
+Better personal hygiene
+
+Better medical technology (immunizations, other health care)
+
+
+Geo I
+Stage 3. (Industrial)
+Birth Rate begins to drop, causing a declining GR. Reasons:
+
+Economic motivation - with urbanization children are no longer needed
+for farm labor. Large families can cause an economic hardship instead of
+a source of cheap labor.
+Medical - birth control/contraception
+Social - general acceptance of childless couples; women put off having
+children until they are late into child bearing years.
+
+Geo I
+Stage 4. (Post Industrial)
+Low birth and death rates (both < 2%) so that GR continues to decrease.
+Continued lowering of birth rate make GR <= 0.
+
+Geo I
+In terms of where they fit into this model, the world today can be divided
+into two general groups:
+
+More Developed Countries (MDC): those in stage 3 or 4
+
+Examples: US, Japan, and France are in stage 3 with < 1% GR
+
+Sweden, Denmark, and Germany are in stage 4 with 0 or negative GR.
+
+Less Developed Countries (LDC): those in stage 2: DR has dropped
+but BR remains high.
+AN IMPORTANT CONSEQUENCE: 90% of the future world population growth will
+be in LDC.
+
+Geo I
+POPULATION PROJECTIONS
+
+Based on achieving a TFR (Total Fertility Rate) of 2.5 for the world (i.e. the rate required for a stable 
+population), here are some
+projections on when total world population would become stable:
+
+Year that TFR of 2.5 is reached
+Year a stable population is reached
+Total pop
+2005
+2040
+8 billion
+2025
+2110
+10.5 billion
+2045
+2130
+14.2 billion
+The population today is about 7 billion.  The World's population presently increases
+at a rate of about 6 million persons per month.
+Under the middle scenario, (TFR of 2.5 in 2025), MDC would stabilize
+in 2080 with a total population of 1.4 billion, and LDC would stabilize
+in 2110 with a total population of 9.2 billion.
+Best current guess: the world population will continue to increase
+until about 2100 when a stable population 2-3x larger than today's will
+be achieved.
+Here are a few graphs summarizing the best estimates of the US Census Bureau:
+Note: the dip in the growth rate from 1959-1960 was due to the "Great Leap Forward" in China. 
+During that time, both natural disasters and decreased agricultural output in the wake of 
+massive social reorganization caused China's death rate to rise sharply and its fertility rate to fall by almost half.
+Estimates of the total number of deaths in China during this period are as high as 45 million. For comparison,
+about 50 million people died worldwide as a result of WWII.
+The entire human population accounts for roughly 340 billion kilograms. That, according to 
+Harvard biologist E.O. Wilson, 
+is more than 100 times the biomass of any large animal that has ever walked the Earth.  We have been extraordinarily
+successful as a species.
+
+Geo I
+Big reason #2.
+Understanding the causes and effects of Natural Hazards
+As forces in the universe go, humans, and many of their artifices, are
+pretty puny.
+Moreover, we are recent additions to the universe, so in a way we haven't
+really stood the test of time.
+Our activities and our shear numbers perturb a complex system about
+which we have only rudimentary understanding. So far, our approach has,
+for the most part, been to ignore the consequences. We often appeal to
+the "good old days", but in fact we are so recent there are not really
+any comparable times in human history.
+Geologic hazards:
+Floods
+Landslides
+Earthquakes
+Storms (tornados, hurricanes, typhoons)
+Volcanic eruptions
+Tsunamis (tidal waves)
+
+Geo I/Planet Earth I
+By understanding Geology, we hope to determine
+Where events can or will occur
+How often
+How to provide an early warning
+Prevention or mitigation procedures
+Problems that evolve when people don't bother learning how the earth works:
+Over control of rivers
+Irrigation that depletes ground water
+Beach and harbor control projects.
+And those are the relatively minor ones.   Don't get me started on climate change.
+Note that basically these problems arize because of our unwillingness to
+accept the dynamism of natural phenomena. We can put nature in a box for
+only a short amount of time, but inevitably there is a price to pay.
+By understanding geologic processes, we have a much better idea of the
+cost/benefit ratio. These lead to informed decisions that avoid long term
+costs for short term benefits.
+Are there times when it is better not to exploit a natural resourse?  
+Only relatively recently did we begin to understand that sometimes the answer is "YES", the costs
+may far outweigh the benefits.
+
+Geo I
+Big reason #3:
+Understanding How the Earth "Works"
+Things to understand:
+How do landscapes evolve? What causes a valley to be a certain shape?
+Why are there mountains or volcanoes in some areas and not others? What
+causes those weird landforms in the western US?
+What is the history of the Earth? How did we get where we are now?
+Can we learn lessons from our planet's long past?
+What does the interior of the Earth look like? What's under the surface?
+The questions have a lot of implications beyond the academic realm.  We have occupied the
+Earth for only a very brief time and we have yet to understand what Nature is capable of doing
+on our planet.
+
+Geo I
+A note on JARGON
+We begin to understand things by naming them.  Examples:  Garden of Eden, Linneaus.
+However, occasionally this gets out of hand.
+JARGON, n.,
+Incoherent speech, gibberish
+the specialized vocabulary and idioms of those in the same work or way
+of life; a somewhat derogatory term implying unintelligibility (slang).
+a colorless or smoky variety of zircon.
+When is Jargon ok?
+Historical reasons; usage is already well established, even if it tends
+to obfuscate.
+It leads to a clearer understanding of a subject than does "normal" or
+"established" language.
+When is Jargon just pain in the butt?
+When it is used for purposes of exclusivity (like a password).
+Geology probably has more JARGON than any other academic field (even the
+word jargon has a special geological meaning). Geologic dictionaries are
+easily as thick as those of formal languages. At times, this can be aggravating.
+The principal reason for this is that people have used the materials that Geology 
+investigates for as long as there have been people; many observations
+entered the vernacular before the underlying principals and connectivity
+were revealed. Something like having separate names for the different sides
+of a mountain.

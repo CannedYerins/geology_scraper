@@ -1,0 +1,499 @@
+===== overview_01.html =====
+
+
+GeoI Lecture Notes: Overview of the Earth
+Geo I
+An Overview of the Earth
+Two principal classifications of what we need to discuss:
+Materials and Processes
+or
+Stuff and What happens to it.
+For the most part, the "stuff" is ROCK
+
+What is Rock?
+A generic definition: any naturally formed, firm, and coherent aggregate
+mass of solid matter that constitutes part of a planet.
+humm...what does this mean? Note this is trying to define something
+more by saying what it isn't than what it is.
+Naturally formed -> not man made
+firm/coherent? -> not soil or sand (loose stuff)
+aggregate mass of solid matter -> trying to exclude living things, but
+note that organic material can be termed "rock" (like coal)
+Part of a planet? -> not sure about this one; what about comets/meteors/
+asteroids?
+Is wood a rock? Why not?
+Stone: A "small rock" or a "small piece of a rock"
+
+
+===== overview_02.html =====
+
+
+GeoI Lecture Notes: Overview of the Earth
+The Internal Stucture of the Earth
+To first order, the Earth is layered (radially symmetric)
+ Large cutaway of Earth
+ Current Image Earth Interior
+ Current Ideas about Earth Interior
+Why should this be? Two reasons:
+Gravity / Density tends to stratify material
+Convection  tends to homogenize
+There are several depths within the Earth where material properties change
+significantly over a short distance. These boundaries divide the Earth
+into distinct zones. The most important of these are:
+Crust: Upper few 10's of km
+Mantle: ~2900 km depth
+Core: to the center ~ 6371 km
+
+
+===== overview_03.html =====
+
+
+GeoI Lecture Notes: Overview of the Earth
+About the Crust:
+Extremely heterogeneous (because we can see it?)
+Well, maybe, but cold temperatures retard any mixing.
+Basically two types:
+Continental:
+Light ( ~2.7 g/cm3)
+Thick (10-70 km)
+Can be very old (~ 4 Gyrs)
+VERY COMPLICATED
+Oceanic:
+Heavy ( ~ 3 g/cm3)
+Thin (6-10 km)
+Young (0 - 200 My)
+Quite simple (layered)
+
+
+===== overview_04.html =====
+
+
+GeoI Lecture Notes: Overview of the Earth
+Main reasons for this difference have to do with plate tectonics:
+Oceanic crust, being heavy and thin, is easily recycled into mantle
+Continental crust, being thick an light, stays at the surface like scum
+on a pond. Also, begin somewhat weak, it cruches up easily, which can lead
+to big complications.
+Note that the first geologists to find quantitative evidence for plate
+tectonics were those who worked in the oceans.
+The holdouts were all continental types.
+
+
+===== overview_05.html =====
+
+
+GeoI Lecture Notes: Overview of the Earth
+About the Mantle:
+A significantly different chemical composition from the crust. The boundary
+between the crust and mantle is often very sharp and is called the Mohorovicic
+Discontinuity (or Moho for short).
+
+Density (upper part) ~ 3.3 g/cm3
+
+Much of the mantle CONVECTS because of the increase of temperature
+with depth (like boiling water), which is why it is more homogeneous than
+the crust.
+
+
+===== overview_06.html =====
+
+
+GeoI Lecture Notes: Overview of the Earth
+About the Core:
+Mostly nickel and iron. Density (upper part) ~ 10 g/cm3
+
+The boudary between the Core and Mantle (the CMB) is mostly spherical
+but deviations as large as 20 km appear to exist (i.e., it is bumpy)
+We divide the Core into an Outer part, known to be molten, and in Inner
+part, known to be solid. The boundary between the inner and outer core
+is at ~ 5140 km depth.
+Recently, we have determined that the Inner Core of the Earth rotates
+at a different rate than the rest of the Earth.
+How do we know this?
+
+
+===== overview_07.html =====
+
+
+GeoI Lecture Notes: Overview of the Earth
+Note the above classifications are based mostly on changes in composition.
+A different, and equally important classification is made based on PHYSICAL
+properties (e.g., how strong the materials are).
+The main divisions are:
+Lithosphere ~ 0 - 100 km depth
+Asthenosphere ~ 100 - 350 km detph
+Mesosphere ~ 350 ~ 2900 km depth
+Outer Core ~ 2900 - 5140 km depth
+Inner Core ~ 5140 - 6371 km depth (the center).
+These properties are governed in large part by increases in temperature
+and pressure within the Earth.
+Closeup of surface
+
+
+===== overview_08.html =====
+
+
+GeoI Lecture Notes: Overview of the Earth
+Lithosphere -
+The "rock" (lithos) sphere - Strong rocks, approaching rigidity, deforming
+brittley if at all. These are the "plates" of plate tectonics.
+
+Note that the lithosphere include the crust and upper mantle.
+As temperature increasese, the rocks start to loose strength and deform
+plastically. When these happens we've reach the
+Asthenosphere -
+astheno = a - without + sthenos - strength.
+
+This is the weak substrat upon which the plates ride.
+Mesophere - Mostly a name for the rest of the mantle.
+Outer Core -
+molten
+Inner Core -
+Solid (because of great pressure, but this is also where the liquid outer core precipitates, so it is like a giant
+crystal.)
+
+Note that because of the uneven distribution of density, most of the
+Earth's mass is within the Core! (We can deduce this from gross estimates
+of the Earth's mass and volume).
+
+
+===== overview_09.html =====
+
+
+GeoI Lecture Notes: Overview of the Earth
+Shape of the Earth
+Question: What do do we mean by the Earth's "Shape"?
+Related Question: Which way is up, and why?
+The Earth's shape is governed for the most part by
+Gravity, which pulls things in and
+"Centrifugal force" which pushes things out
+In the absence of other forces, a minimum energy configuration for a body
+formed by gravity is a sphere.
+The Earth is approximately spherical, but is flattened by rotation
+Radius at poles: 6357 km
+Radius at equator: 6378 km
+Other factors influencing shape are from heterogeneities in the mantle.
+These account for deviations on the order of 10's of meters or so.
+
+
+===== overview_10.html =====
+
+
+GeoI Lecture Notes: Overview of the Earth
+What's wrong with this statement:
+"A man who weighs 90 kg at the equator weighs 90.5 kg at the North Pole"
+The following could also be misunderstood:
+"The ellipsoidal shape of the Earth corresponds approximately to the
+surface of sea level. Indeed, if it is possible to calculate that if the
+entire Earth were composed of water, it would be an ellipsoid of almost
+identical shape".
+Notes:
+"Sea Level" corresponds to a surface called the GEOID, which is what scientists
+use to define the "surface".
+"if it is possible to calculate"? YES, IT IS POSSIBLE! Moreover, this was
+done 200 years ago, and it was found that in fact the earth is flatter
+than it would be if rocks had no shear strength!
+Question: Is this surprising?
+Consequences:
+Rocks flow at low rates of strain
+The Earth used to spin faster than it does today.
+
+
+===== overview_11.html =====
+
+
+GeoI Lecture Notes: Overview of the Earth
+The Upper 100 Km (or so)
+Distribution of Continental and Oceanic Crust
+Generally, oceanic crust is beneath the ocean, and continental crust
+isn't, BUT a fair amount of continental crust is below sea level.
+Note the distribution of elevation of continental and oceanic crust.
+Two things to note in particular:
+Continental crust is at the higher elevations
+There are two peaks in the distribution.
+
+
+===== overview_12.html =====
+
+
+GeoI Lecture Notes: Overview of the Earth
+Why do you suppose this is?
+Some numbers:
+Oceans cover 71% of the Earth's surface
+Oceanic crust covers about 60%
+The remaining 11% of underwater crust is continental.
+NOTE: In terms of the crust, the ocean doesn't begin at water's edge, but
+at a few 100 km away from shore. Just off shore is the
+Continental Shelf, a nearly flat platform, which leads to the
+Continental Slope, a more steeply dipping region, which leads to the
+Continental Rise, a more gently dipping region where the ocean meets the
+continent.
+The Rise part is mostly ocean at depth, but is covered with sediments derived
+from the shelf and slope.
+Generic Shelf : Surface
+Generic Shelf : Section
+Monterey Bay: Vertical view
+Monterey Bay: Oblique view
+Monterey Bay: Shaded Relief view
+
+
+===== overview_13.html =====
+
+
+GeoI Lecture Notes: Overview of the Earth
+The main parts of the ocean floor are:
+Oceanic Ridge: High, long, ridges
+Abyssal Plains: Very flat, huge areas of ocean floor
+Trenches: Narrow, deep, arcuate basins.
+Each of these parts are a direct consequence of plate tectonics.
+The Pacific Sea Floor
+The Atlantic Sea Floor
+The Ocean Bottom from the Surface
+The Ocean Bottom from Space
+ Measuring the Ocean Bottom from Space
+
+
+===== overview_14.html =====
+
+
+GeoI Lecture Notes: Overview of the Earth
+So what is Plate Tectonics?
+The current Geologic Paradigm for "How the World Works"
+The basic idea: The Earth's surface is divided into a relatively small
+number of "plates" that move laterally without suffering much internal
+deformation.
+
+
+===== overview_15.html =====
+
+
+GeoI Lecture Notes: Overview of the Earth
+How did we get here? A brief history:
+100 years ago, the prevailing theory about how the Earth evolved was
+that the Earth was shrinking. Basic ideas:
+Lord Kelvin and the cooling Earth (cold things contract)
+Alpine Geologists and massive folded structures
+Oceanic and continental crust was the same. Oceans formed when parts of
+the crust caved in. (Land bridges were left so animals could wander from
+place to place.
+Some holes:
+Western US Geologists (e.g., J.W. Powell) observe the crust going up over
+time (e.g. Grand Canyon) and a lot of "extensional" geology.
+NYC Geologists (Ewing) determine that oceanic crust is very different from
+continental.
+Nevertheless, most, if not all, geology was "vertical".
+In the meantime, there was this guy Alfred Wegener who proposed "Continental
+Drift". 
+Why?
+Similarity of coastlines of South America and Africa
+Similarities in fossil record of different continents
+Nobody bought it. No physics! Just how do you expect the continents to
+plow through the oceans?!!
+THEN during WWII, a lot of US navy in the Pacific. Harry Hess starts
+mapping the large scale bathymetry of the oceans and takes note of the
+ridge/plain/trench system, as well as the progressive evolution of seamounts.
+He suggests that the oceans move laterally.
+In the 60's, an explosion of research, all of which confirms this basic
+idea of large scale lateral motion. Geology becomes "horizontal".
+Evidence has always been indirect, so there have always been arguments
+against this idea, especially from geologists who work on continents. Indeed,
+the "rigid plate" idea doesn't work well at all in this type of environment.
+However, today, with satellite navigation, we can measure horizontal
+motion in real time! There is no doubt that large scale lateral motion
+is real.
+
+
+===== overview_16.html =====
+
+
+GeoI Lecture Notes: Overview of the Earth
+What did Wegener miss?
+The idea that continents are passive riders on larger plates. The plates
+do not "plow around" each other but are created and consumed at ridges
+and trenches. The Earth's crust recycles in the mantle!
+The "plate" concept means that all of the slipping and deformation takes
+place at the boundary between the plates. The interior is rigid. This idea
+works pretty well for oceans but not so well for continents.
+
+
+===== overview_17.html =====
+
+
+GeoI Lecture Notes: Overview of the Earth
+The life of a plate:
+Plate are created at "ridges" or "spreading centers". As plates move apart,
+MAGMA (molten rock) from the mantle comes to the surface, cools, and makes
+new plate.
+As the plate cools, it gets thicker and more dense, and becomes deeper.
+Because of convection the plate doesn't get any thicker than about 100
+km, and so the oceans tend to "bottom out" at about 5 km depth.
+Because oceanic plates are essentially just a colder version of the mantle
+below, they are denser than the mantle and want to sink. Eventually they
+do, and the boundary where the plate plunges back into the mantle is a
+trench (or "subduction zone").
+As it heats up, the cold oceanic plate is absorbed back into the mantle.
+
+
+===== overview_18.html =====
+
+
+GeoI Lecture Notes: Overview of the Earth
+What happens to continental crust?
+Because it is less dense, continental crust is more difficult to subduct.
+Some will reenter the mantle, but a lot of it will stay at the surface.
+This is why the oldest rocks are continental.
+When two continents come together, neither will subduct and the result
+is a massive "collision" with the result being the formation of mountains.
+The geologic term for this process is OROGENY.
+
+
+===== overview_19.html =====
+
+
+GeoI Lecture Notes: Overview of the Earth
+About boundaries: Plates can either
+Pull apart or diverge (examples: ocean ridges, continental rifts)
+View a Flash Movie about Plate Divergence.
+Collide of converge 
+(examples: trenches, 
+Himalaya)
+View a Flash Movie about Plate Convergence.
+Slide past each other or "transform" (examples: San Andreas fault, Anatolian
+fault, Mid Ocean transforms).
+RATES: Typically a few cm/year. The Atlantic is spreading apart
+at about the same rate as your fingernails grow.
+View a Flash Movie about the history of Plate Motions.
+
+
+===== overview_20.html =====
+
+
+GeoI Lecture Notes: Overview of the Earth
+Why is plate tectonics important?
+It provides a quantitative framework for a large variety of Geologic
+Observations. It shows how things are "tied together" and allows us to
+make predictions about what will happen in the future.
+It was so very successful that early practitioners were sure that we
+would soon be able to do things like predict earthquakes. Not everything
+is so easy, however.
+
+
+===== overview_21.html =====
+
+
+GeoI Lecture Notes: Overview of the Earth
+Spheres of Influence
+
+Hydrosphere
+oceans, lakes, streams, groundwater, snow, ice, glaciers (cryosphere)
+Atmosphere
+air
+Regolith
+"blanket rock" ; the broken up bits of rock that lie on top of the
+"bedrock". Transported regolith is "sediment". When bedrock pocks through
+the regolith, it is called an exposure or "outcrop" (note the verb is "crops
+out" NOT "outcrops")
+Biosphere
+All the organic stuff.
+
+
+===== overview_22.html =====
+
+
+GeoI Lecture Notes: Overview of the Earth
+Cycles in the Spheres
+Cycle - a sequence of recurring events. It really applies to
+anything that is not linear, but repetitive. It does not have to mean something
+circular, or even sequential (which makes the graphics a bit more difficult).
+There are a LOT of cycles that are of importance in Earth Science. One
+of the most important is (can you guess?) the
+ROCK Cycle
+ Tectonic Rock Cycle 
+Basically, it's a balance between creation (tectonism) and destruction
+(erosion). Here's how it works.
+Take a rock, any rock.
+Despite how durable rock looks, it eventually will wear down. Bits and
+pieces of it will break off and wash away, becoming sediment.
+When you accumulate a thick enough pile of sediment, heat and pressure
+will solidify (or lithify or indurate) so it becomes massive enough. If
+you don't melt the rock and don't mess with it too much, you wind up with
+a sedimentary rock like sandstone, shale, or limestone.
+If you bury it some more and really heat it and squeeze it the individual
+grains will stretch and flow and you get a metamorphic rock.
+If you go so far as to actually melt the rock, when it cools down again
+you'll wind up with igneous rock. Of course, you can stretch igneous rock
+so you wind up with different kinds of metamorphic rock.
+Because of tectonism, all 3 types might eventually return to the surface,
+where it will undergo the erosional process again.
+So, no rock is forever, even diamonds. They all get recycled.
+Rates? Extremely variable, but average age of continental rocks is 650
+my, while for oceanic it is only 60 my.
+
+
+===== overview_23.html =====
+
+
+GeoI Lecture Notes: Overview of the Earth
+Note that cycles exist for practically all materials. We pay closest
+attention to the ones that are important for life. Here are a couple:
+The Carbon Cycle
+Four reservoirs:
+Atmosphere (CO2)
+Biosphere (organic compounds)
+Hydrosphere (dissolved CO2 - like a soda!)
+Rocks (limestone, coal, petroleum - hydrocarbons).
+Some important actions for transferring from one reservoir to another:
+Water -> dissolves CO2
+Live Plants -> Take CO2 from atmosphere
+Dead Plants -> Return it to the atmosphere or become part of rock
+Animals -> Eat plant or use CO2 in water to make shells.
+Rocks-> made from shells or from plants return CO2 to atmosphere
+when they are eroded or burned.
+The worry about the greenhouse effect and global warming is a consequence
+of our taking enormous quantities of carbon out of the rock reservoir and
+returning it to the Atmospheric reservoir.
+
+
+===== overview_24.html =====
+
+
+GeoI Lecture Notes: Overview of the Earth
+The Phosphorus Cycle
+Typically, phosphorus is in limited supply but is essential for plant
+growth. By introducing more phosphorus into the system, some plants like
+algae can start to take off at the expense of other organisms. This is
+the phenomenon of "eutorphication".
+Other cycles of fundamental importance: Nitrogen, Oxygen, Water, Pop,
+Motor.
+Being aware of the cyclical nature of most phenomena is an important
+step to understanding the balance of the environment.
+Problem: These cycles may have periods that are far greater than our
+ability to record directly. Others may have rates that vary over time,
+or may be very sensitive to our own activities.
+
+
+===== overview_25.html =====
+
+
+GeoI Lecture Notes: Overview of the Earth
+When Hutton Talks, People Listen
+The recognition of very long term cycles was the major contribution
+of James Hutton, sometimes called "the Father of Modern Geology". Basically
+Hutton observed:
+Marine fossils at high elevations (and at great distance from the sea)
+Erosion taking its toll on the soil of his farm
+Roman ruins that hadn't had much happen to them in several hundred years.
+Hadrian's Wall
+He concluded, if soil erodes, new soil must come from somewhere. Since
+it doesn't rain soil, it must come from rock at higher elevations. The
+rock at higher elevations appeared to have once been under water. Since
+it takes so long for rock to decay, we must be looking at enormously long
+periods of cycling.
+Another big clue came from abrupt changes in sedimentary rocks:
+Hutton's Unconformity
+A central assumption to all this is UNIFORMITY; that the processes
+in the past are pretty much like they are now. This is a good first order
+guess, and has led to some important insights, but is not a "law". There
+are a lot of exceptions to this (e.g., CO2 in atmosphere).
+
+

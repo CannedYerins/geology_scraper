@@ -1,0 +1,1766 @@
+===== igneous_outline.html =====
+
+
+GeoI Lecture Notes: Igneous Rocks
+Geology I
+Igneous Rocks: Lecture Outline
+Introduction
+Magmas
+
+Partial Melting
+What Causes Rocks to Melt?
+Heat
+Pressure
+Water
+Composition of Magma
+Viscosity of Magma
+Silica Content
+Cations
+Temperature
+Volatiles
+Relative Abundance of Igneous Rock Types
+
+What Happens When the Magma Cools?
+
+Bowen's Reaction Series
+Discontinuous Reaction Series
+Continuous Reaction Series: Crystallisation of Plagioclase
+Plagioclase Zoning
+Varieties of Magma
+Source Rocks
+Partial Melting
+Fractional Crystallisation
+Magma Mixing
+Assimilation
+Igneous Textures
+Grain Size
+Effect of Cooling Rate
+Plutonic/Intrusive rocks
+Volcanic/Extrusive rocks
+Hypabyssal rocks
+Phaneritic vs Aphanitic
+Degree of Crystallinity
+Effect of Volatiles
+Grain Size Variations
+PORPHYRY
+Grain Shape
+Summary of Igneous Structures
+interlocking grains
+massive
+phenocrysts
+xenoliths
+vesicles
+amygdules
+miarolytic cavities
+zoned crystals
+flow structure
+volcanic glass
+aplites
+pegmatites
+graphic granite
+The Classification of Igneous Rocks
+
+A More Complete Overview of Classification
+Plutonic Rocks
+Acid Plutonic Rocks
+Intermediate Plutonic Rocks
+Basic Plutonic Rocks
+Ultrabasic Plutonic Rocks
+Hypabyssal Rocks (Minor Intrusives)
+Volcanic Rocks
+Acid Volcanic Rocks
+Intermediate Volcanic Rocks
+Basic Volcanic Rocks
+Ultrabasic Volcanic Rocks
+Pyroclastic Rocks
+Fragment Size
+Fragment Type
+Composition
+Ignimbrites
+Where Does Magma Come From?
+
+The Origin of Basaltic Magma
+Oceanic Basalts
+Continental Basalts
+The Origin of Andesitic Magma
+The Origin of Rhyolitic Magma
+Intrusive Landforms
+
+Major (Plutonic) Intrusions
+Batholiths
+Stocks
+Laccoliths
+Lopoliths
+Minor (Hypabyssal) Intrusions
+Dykes
+Sills
+Volcanic Necks / Plugs
+Ring Dykes
+Cone Sheets
+Eruption of Magma & Volcanic Hazards
+
+Basaltic Eruptions
+Basaltic Volcanoes
+Shield Volcanoes
+Cinder Cones
+Diatremes
+Maars
+Features of Basaltic Lava Flows
+Pahoehoe
+Aa
+Pillow Lava
+Columnar Jointing
+Lava Rise
+Lava Tubes
+Tree Casts
+Spatter Cones
+Flood Basalts
+Hazards associated with Basaltic Eruptions
+Lava flows
+Gaseous escape
+Climate change
+Andesitic Eruptions
+Andesitic Volcanoes
+Stratovolcanoes
+Calderas
+Lava domes
+Hazards Associated With Andesitic Eruptions
+Pyroclastic Flows / Nue Ardentes (Glowing Ash Clouds)
+Lahars
+Tsunamis
+Rhyolitic Eruptions
+Summary of Some Key Ideas About Volcanoes
+Important factors in Understanding Volcano Behavior
+What controls Viscosity?
+Patterns of Volcanism
+Mitigation/Prediction?
+Some Benefits of Volcanoes
+
+
+===== igneous_01.html =====
+
+
+GeoI Lecture Notes: Igneous Rocks
+Geo I
+Igneous Rocks
+Fire and Ice
+ Igneous rocks are by far the most abundant of the major rock types.  The other two
+(sedimentary and metamorphic) are found only near the surface.  Dig deep enough and you will
+eventually hit an igneous rock.
+Igneous rocks form by solidifying from a melt.  Thus, to understand them we have to 
+understand what makes rocks melt, what the properties of melted rock are, and what happens
+when the melt solidifies.
+A lot of cooling takes place deep below the surface, but a significant fraction happens at
+the surface. Sometimes their appearance is accompanied by one of the great hazards of  nature,
+volcanic eruptions.  We will see that an understanding of the properties of melted rock will
+help us to figure out why some volcanoes erupt violently and others rather gently.
+Even if they cool underground, the implacement of igneous rocks can have profound effects
+on the landscape, and we will discuss what those are.
+Finaly, we will discuss all the important types of igneous rocks, what
+their distinguishing characteristics are, and how to identify them in the field.
+Let's start with what a general discussion of MAGMA, defined as molton rock
+under the ground, which is the ultimate source for igneous rock...
+
+
+===== igneous_02.html =====
+
+
+GeoI Lecture Notes: Igneous Rocks
+Magmas
+Igneous rocks are rocks that have solidified from a molten source, called magma. 
+The term "magma" refers to molten rock, together with any suspended mineral grains
+and dissolved gases. 
+When molten rock erupts at the Earth's surface and flows from a volcano, it is called lava.
+What Causes Rocks to Melt?
+Well, heat (temperature) obviously, but other factors like pressure and water content play a major role.
+Heat
+Temperatures in the Earth increase with depth, at a rate called the
+geothermal gradient. Temperatures rise rapidly from the surface (at about 30oC/km) and
+reach around 1000C at a depth of just over 100 km. The
+geothermal gradient is lower, about 1.5-2oC/km, beyond 100 km and temperatures don't reach
+1500 until around 500 km depth.
+The important sources of heat are:
+heat left over from the accretion of the planet more than 4.5 billion years ago and still emanating from the Earth's core 
+heat released by the continuous decay of radioactive minerals 
+frictional heat generated by fault planes and the movement of plates over the asthenosphere.
+Magmas rising from greater depths are a form of extra heat and can
+produce melting in the rocks that they intrude. Such a situation may
+occur at subduction zones, where magma generated in the mantle rises to
+the base of the crust and penetrates into the crust.
+Pressure
+Pressure increases with depth in a fairly predictable way (lithostatic)
+due to the rocks piled on top. The rate depends on the density profile of the
+Earth; near the surface it is about 30 kbars/100 km.
+For dry melts, the temperature required to commence melting becomes higher as pressure increases. High pressure holds the atoms closer together and it takes greater heat
+energy in order to vibrate, weaken and break their bonds. It is for this reason that the mantle is still solid, rather than liquid.
+The region where mantle temperatures and
+pressures get closest to the melting point of mantle rocks is the asthenosphere.
+If the pressure is reduced, therefore, a rock may start to melt even if its temperature remains the same. Such a situation occurs at divergent margins, where pressure is
+reduced as the overlying crust is stretched and thinned. Mantle plumes may also undergo melting as they rise towards the surface. This is known as decompressional
+melting.
+Water
+If water is present, even in small amounts, the temperature at which a rock will melt will be considerably lowered. The dipole nature of the water molecule weakens the
+minerals bonds, allowing lower temperatures to vibrate and break the bonds. 
+Consequently, hydrous minerals, that is, those that contain (OH) in their structure, melt at
+lower temperatures. 
+Furthermore, whereas dry rocks require greater temperatures to melt with an increase in pressure, wet rocks initially become less resistant to melting at
+higher pressures. This is because high pressure increases the bond-breaking ability of water. An increase in pressure will also allow a greater amount of water to be
+dissolved in the melt, decreasing the temperature at which the onset of melting occurs.
+At subduction zones, the dehydration of the subducting plate allows water to ascend into the overlying mantle and producing melting.
+COMPOSITION
+Most igneous rocks are made of combinations of only 6
+different minerals, with 9 different elements.
+These guys are:
+Olivine, Pyroxene, Amphibole, Mica (1 and 2D SiO2 polymers)
+Quartz, Feldspar (3D SiO2 polymers)
+The elements are:
+O, Si, Al, Ca, Na, K, Fe, Mg, H
+As we mentioned before, SiO2 is the most important compound,
+and is what controls the properties of the magma.
+Rocks that contain
+       less than 45% SiO2 are termed ultrabasic 
+       between 45% and 52% SiO2 are termed basic 
+       between 52% and 66% SiO2 are termed intermediate 
+       more than 66% SiO2 are termed acidic. 
+As the minerals that are formed depends on the chemical composition of the magma, a related terminology is based on the minerals present. The above categories are thus
+also known as
+       ultramafic (mafic derives from Magnesium and Iron (Fe)) 
+       mafic 
+       intermediate 
+       felsic (felsic derives from Feldspar and Silica) 
+Three distinct magma types are most common: basaltic, andesitic, and rhyolitic. Volcanic rocks formed from these three magmas are called basalt, andesite and rhyolite, and
+are examples of basic, intermediate and acidic rock types respectively.
+As a first approximation, these three magmas have the following characteristics:
+VISCOSITY
+The VISCOSITY of the magma (that
+is, how easily it flows) is goverened by the silica content, the presence of cations, temperature, and the amount of volitiles present.
+Silica Content
+Like minerals, the structure of magma is dominated by SiO4 tetrahedra groups that polymerise by sharing oxygens. Unlike minerals,
+the polymers in magmas are irregular groupings of chains, sheets and networks. 
+The higher the silica content, the larger the polymerised groups and
+the more viscous the magma. 
+Cations
+The Si-O-Si bonds have strong, rigid
+geometry, but if there are substantial numbers of "network modifier"
+cations bridging the SiO4 groups, i.e. Si-O-cation-O-Si, the
+bonds are more flexible and the viscosity decreases. 
+Basic lavas have a
+greater percentage of network modifier cations, such as Mg, Fe, Ca and
+Mn, and so are less viscous.
+Basic and ultrabasic lavas are the most fluid, with flow rates measured in metres per hour or metres per day. In exceptional cases, such as on steep slopes, lava flowing at up
+to 16 km/h have been recorded. Acidic lavas can be tens of thousands of times more viscous than basic lavas.
+Temperature
+Viscosity increases as magma cools, therefore lavas tend to slow their advance further from the volcano. 
+Volatiles
+A small amount of volatiles, particularly H2O, in solution will lead to a significant decline in viscosity. 
+As a result of all these factors, flows with similar compositions can have quite different
+surface appearances. We will discuss these in detail later on.
+The ability to flow also affects the ability of the magma to release
+gasses. The greater the viscosity, the harder it is for gas to escape.
+Thus, violent eruptions generally are more likely with high silica magmas.
+Partial Melting
+Rocks do not melt at a specific temperature. This is because rocks are not homogeneous, but are comprised of an aggregate of different minerals. 
+The minerals with the
+lowest melting point starts to melt first. For example, in a rock comprised of plagioclase + pyroxene + olivine, the pyroxene and the Na-rich (albite) component of the
+plagioclase will melt first, leaving an unmelted mixture of olivine and Ca-rich (anorthite) plagioclase. 
+If the melt fraction is separated from the unmelted residue, the
+resulting magma and the solid residue will be of different compositions and different from that of the original source rock. This process of forming a magma of different
+composition to the original rock is called magmatic differentiation by partial melting. 
+Relative Abundance of Igneous Rock Types
+The density of the of the crust is around 2.7 gm/cm3 for continental crust and 3.0 gm/cm3 for oceanic crust, increasing slightly with depth due to pressure increase. 
+The
+density of all rocks is somewhat higher for all rocks than for the melts that they produce. This leads to a natural buoyancy and a tendency for melts to rise to the surface.
+The rising magma follows natural weaknesses and may reach the surface where it erupts as volcanic extrusions. Other magmas solidify many kilometres beneath the
+surface, forming large plutonic intrusions.
+Erosion may later exposes these plutonic intrusions at the surface. Whether a magma solidifies under the surface or erupts and
+solidifies on the surface is controlled to a major extent by its chemical composition.
+The graph below shows the relative abundances of rocks of various compositions that solidify under plutonic or volcanic conditions.
+It can be seen that the great majority of plutonic rocks are of acid composition, whereas volcanic rocks tend to be of a basic composition. The reason for this is twofold.
+Acid magmas are highly viscous, making it difficult for them to rise quickly through fracture systems to erupt at the surface. In contrast, basic magma is relatively
+fluid and can rise through a fracture or conduit system without losing much heat and so can erupt onto the surface.
+The liquidus and solidus characteristics for the two compositions are different. The liquidus is the temperature at which crystals start to form in a melt. The
+solidus is the temperature at which the melt has completely solidified. These temperatures are dependent on pressure.
+At "typical" H2O contents, the difference between the liquidus and solidus for an acid magma is relatively small and the magma will intersect the solidus as it rises towards
+the surface (see diagram below). That is, as the magma is rising slowly (because of its viscosity) and cooling, it encounters solidification temperatures and completely
+crystallises while still below the surface. The crystallisation path of drier melts will be to the right of the path shown. The liquidus curve is for water-saturated melt. The
+best conditions for the eruption of acid magma is as explosive eruptions from shallow magma, or from very dry melts.
+For basaltic melts, there is a temperature difference of some 200oC between the liquidus and the solidus. Therefore, although the liquidus is intersected below the surface,
+and crystals start to grow, the solidus is generally not intersected and the magma is erupted as liquid plus crystals (see diagram below).
+
+
+===== igneous_03a.html =====
+
+
+GeoI Lecture Notes: Igneous Rocks
+What Happens When the Magma Cools?
+Just as rocks melt over a range of temperatures, so too do minerals
+crystallise at different temperatures. Solidification of a magma is the
+opposite of partial melting. 
+If the melt fraction and the crystal
+fraction of a magma become separated, both the melt and the solid
+fraction will have different compositions from each other and from the
+that of the original magma. 
+The crystal and melt fractions can become
+separated by pressure forcing the melt fraction out along grain
+boundaries, leaving the crystal residue, or by crystals settling out of
+the melt by gravity. This separation into rocks of different
+composition is called magmatic differentiation by fractional
+crystallisation.
+
+
+===== igneous_03b.html =====
+
+
+GeoI Lecture Notes: Igneous Rocks
+Bowen's Reaction Series
+Back in the early 1900's, N. L. Bowen and others at the Geophysical
+Laboratories in Washington D.C. began experimental studies into the
+order of crystallization of the common silicate minerals from a magma.
+Norman Bowen
+The idealized progression which they determined is still accepted as
+the general model for the evolution of magmas during the cooling
+process. As with everything else in geology, there are exceptions to
+this rule, but for the most part it works.
+Discontinuous Reaction Series
+As a basaltic melt cools, the earliest common mineral to form is
+olivine. As olivine contains about 40 wt % SiO2, and basaltic magma
+contains around 50 wt % SiO2, as olivine crystallises, the remaining
+melt becomes more silica rich. Eventually, the amount of silica in the
+melt builds up until it reacts with the olivine and produces pyroxene.
+Chemically,
+        (Mg,Fe)2SiO4  +  SiO2    =>   2[(Mg,Fe)SiO3]
+           olivine    +  quartz  =>   pyroxene
+In turn, the pyroxene may later react to form amphibole and amphibole
+may later react to form biotite. 
+The final minerals to crystallise are
+quartz + potassium feldspar + muscovite. This is why these minerals are
+common in rocks that represent the residual melt of an almost
+crystallised granitoid such as aplites and pegmatites. 
+This series of
+reactions, involving new mineral phases at each step, is called a
+discontinuous reaction series.
+With continued crystallisation, the composition of the remaining melt
+becomes progressively more siliceous, from basaltic to andesitic to
+rhyolitic. Theoretically, therefore, it is possible to produce
+rhyolitic magma bodies by magmatic differentiation. 
+Practically,
+however, this is not feasible for large magma bodies, as it would take
+an enormous volume of basaltic magma to produce a granitic pluton, and
+the lack of rhyolites in regions of oceanic crust, where basaltic rock
+types are most abundant, indicates that this is not how rhyolitic magma
+is produced. 
+Minor quantities of rhyolitic magma can be produced in
+very thick sills, where the settling of early formed crystals
+effectively removes them from the melt, leaving a progressively more
+siliceous melt. This occurred in the Palisades Sill, in New Jersey,
+U.S.A., a dolerite sill which contains a base layer of olivine-rich
+dolerite (a coarse grained basalt), and an upper layer of quartz dolerite, with thin lenses of
+quartz + alkali feldspar + pyroxene. The chilled margins of the sill
+are basalt.
+Continuous Reaction Series: Crystallisation of Plagioclase
+As plagioclase forms a continuous solid solution between albite
+(NaAlSi3O8) and anorthite (CaAl2Si2O8), the temperature of
+crystallisation varies. Anorthite (Ca-rich) has the higher
+crystallisation temperature, so the early formed plagioclase crystals
+are Ca-rich. As Ca is used up in the melt, the crystallising
+plagioclase becomes progressively more Na-rich. The last plagioclase
+crystals to form will be the most sodic. As there is a change in
+composition, but not in the crystal structure, this is a continuous
+reaction series.
+Plagioclase Zoning
+The speed at which the plagioclase changes composition is controlled by
+the rate of diffusion of the four ions (Na+, Ca2+, Al3+ and Si4+).
+These diffusion rates are very slow, and chemical equilibrium is rarely
+achieved. A typical plagioclase crystal will therefore have an
+anorthite rich core and an albite rich outer zone.
+Even for this zonation to occur, however, the atoms must be supplied to
+the crystal face. But growth of the crystal depletes the melt adjacent
+to the crystal of these elements.  Continued growth depends on
+diffusion of atoms through this depleted zone from the "fresh" melt
+further away. 
+Eventually, the crystal switches from crystallising a
+Ca-rich plagioclase to a Na-rich plagioclase until the Na-rich zone is
+used up and the zone surrounding the crystal becomes progressively more
+Ca-rich. 
+The crystal then switches back to crystallising a Ca-rich
+plagioclase, and the process continues, leading to alternating layers
+of Ca-rich and Na-rich bands. 
+Overall, however, there will be a gradual
+change from a more calcic core to a more sodic outer region.
+
+
+===== igneous_03c.html =====
+
+
+GeoI Lecture Notes: Igneous Rocks
+Varieties of Magma
+There is a wide and continuous range in the composition of magmas. This
+variety is due to the nature of the rocks that the magma was produced
+from and the processes involved in its production. Variability in
+magmas can be caused by the following factors:
+Source Rocks
+Because magmas are formed from pre-existing rocks, the composition of
+the magma will obviously vary with the composition of the parent rock.
+A magma derived from the mantle, rich in magnesium and iron (mafic
+composition) will be very different from a magma derived from the
+continental crust, rich in silica and aluminium. 
+Similarly, granites
+derived from sedimentary rocks are distinctly different from those
+derived from igneous rocks.
+Partial Melting
+As previously noted, rocks at a specific pressure do not melt at a
+given temperature, but over a range of temperatures spanning several
+hundred degrees. 
+Rocks are aggregates of minerals, each of which has a
+different melting point. Relatively low temperatures will result in
+small degrees of partial melting. 
+Such magmas will be enriched in
+components that melt at low temperatures, and depleted in the elements
+that remain in the solid residual rock. 
+Thus although magmas reflect
+the composition of the source rock to some degree, they are different
+from their source rocks. 
+It is rare for a rock to be completely melted
+before the magma separates from residue.
+Fractional Crystallisation
+As noted above, crystallisation also occurs over a range of
+temperatures. The crystallisation of early, high temperature minerals
+makes the residual melt richer in SiO2.  Early formed crystals may be
+separated from the residual melt by processes such as
+settling of early formed crystals to the bottom of a magma chamber 
+growth of crystals on the walls of a magma chamber 
+filtering out of large, early formed crystals as the melt migrates
+through narrow fractures.
+Magma Mixing
+Where two different magmas are formed, one magma may intrude into and
+mix with the other, Where the mixing is complete, a magma of
+intermediate composition between the two original magmas may be
+produced. 
+Frequently, however, the mixing is incomplete and blocks of
+rock of one composition can be seen mixed in with rocks of the other.
+Assimilation
+As magmas migrate through the crust, blocks of rocks from the roof and
+walls of the magma chamber may break off and become incorporated into
+the magma. 
+The blocks may be partially or completely assimilated into the
+magma, thus changing the magma's composition.
+
+
+===== igneous_03d.html =====
+
+
+GeoI Lecture Notes: Igneous Rocks
+Igneous Textures
+The texture of a rock refers to the size, shape and arrangement of the
+mineral grains in the rock that give the rock its overall appearance.
+The most important, but not only, factor that controls the grain size
+of a rock is its cooling history.
+Grain Size
+Grain size tells us much about the crystallisation of an igneous rock. It is also the most noticeable feature and thus provides our first criterion for classification.
+Effect of Cooling Rate
+When a large magma body remains underground, it is insulated from heat loss and cools and solidifies very slowly. 
+Crystals that grow for thousands of years have ample
+time to grow large enough to be easily seen. 
+In contrast, a rock that is erupted onto the Earth's surface will cool swiftly, leading to a fine-grained or glassy rock.
+Classifications
+Plutonic/Intrusive rocks are large bodies that solidify deep within the earth and are medium to coarse grained (> 1 mm).
+Volcanic/Extrusive  rocks solidify at the earth's surface and are glassy to fine grained (
+Hypabyssal rocks solidify within the earth, but at shallow depths or as small or thin bodies (~ 1 mm).
+Crystallisation of a magma is largely the result of decreasing
+temperature as heat is lost to the surroundings. 
+If a magma is exposed
+to the atmosphere, as happens during volcanic eruptions, cooling and
+crystallisation is rapid. During rapid cooling, many nuclei are formed
+in a short time and many crystals begin to grow so that many small
+crystals rather than fewer large ones are formed. The resulting rock is
+fine-grained. 
+If cooling is very rapid, crystals may not form at all
+and glass results. 
+Where a magma remains at depth within the earth,
+heat loss is relatively slow. Crystal nucleation and growth is slower
+so that large crystals develop, forming a coarse-grained rock.
+The average diameter of the constituent mineral grains determines whether a rock is -
+coarse-grained: > 5 mm average diameter 
+medium-grained: 1-5 mm average diameter 
+fine-grained: very fine grained glassy no crystals formed 
+For fine grained rocks, a further distinction may be given.
+Phaneritic: applies to grain size comfortably evident to the unaided eye. 
+Aphanitic: indicates the mineral grains (unless the rock is glass) can only be seen with the use of a lens or microscope. 
+Plutonic rocks are obviously phaneritic. Glassy rocks must be volcanic.
+Degree of Crystallinity
+There are three divisions.
+Holocrystalline - composed wholly of crystals 
+Hemicrystalline - composed partly of crystals and partly of glass 
+Holohyaline - composed wholly of glass. 
+Effect of Volatiles
+Water, and other volatiles, as well as many rare elements such as
+lithium, beryllium, boron and some heavy metals, are not readily
+incorporated into the common, early formed minerals that crystallise
+from the magma. The late, residual melt will therefore be rich in these
+materials. 
+An increase in the amount of water and other volatiles
+affects many properties of the melt which, in turn, affect crystal
+growth. 
+Viscosity is reduced with an increase in water content, which
+counteracts the effects of increasing silica content and lowering
+temperature of the residual magma. 
+Density is lowered, as is the
+solidus temperature (the temperature that the entire magma solidifies)
+and nucleation rates, whereas rates of chemical diffusion are raised.
+These factors allow the residual melt to penetrate into the earlier
+formed rock. From this water-rich residual melt or out of an exolved
+aqueous phase, large crystals may form. These are called pegmatites. 
+Pegmatites often are economically viable sources of minerals like micas
+and various gemstones.  Below is the Hamlin necklace in the Harvard
+collection. The gem tourmalines are from the famous Hamlin 1820 find on
+Mount Mica, Maine, which started America's Gem Industry.
+If
+water is lost from theses late stage magmas, crystal growth is slower
+as nucleation rates increase and chemical diffusion is lower, and a
+sugary-grained rock develops, known as an aplite.
+Left: Specimens of aplite; Right: Dike of Aplite in Granite
+Grain Size Variations
+Other factors apart from depth may also influence grain size. 
+The slow cooling process at depth may be interrupted before all the magma is used up and the magma,
+containing scattered large crystals, may move rapidly towards the surface where it is chilled. 
+The remaining melt gives rise to a groundmass or matrix of finer-grained
+interlocking crystals, or even glass, containing the larger crystals, or phenocrysts. 
+Igneous rock that contains minerals of two distinct sizes are said to be porphyritic.
+DIORITE PORPHYRY
+Volcanic rocks of this type are sometimes known as porphyries, with the phenocrysts used as a modifier (e.g. quartz porphyry).
+Below are porphyritic dacites (a & b), pumice (c) and andesite (d) from the Mt Lassen, CA eruption of 1915:
+ 
+When determining whether a rock is plutonic, hypabyssal or volcanic, it is the size of the groundmass that is critical, as the groundmass shows the environment of the final
+crystallisation.
+A rock may be -
+Equigranular: -constituent mineral grains roughly uniform in size 
+Porphyritic: -containing relatively large crystals (phenocrysts) in a finer-grained matrix (groundmass). 
+Seriate: -constituent mineral grains show a gradation in grain size from the groundmass to the phenocrysts,
+	(i.e. size distribution is not bi-modal despite large
+       contrast in grainsize from smallest to largest grains). 
+Grain Shape
+Three terms are used to describe grain shapes, based on the degree of crystal face development.
+Euhedral - grain displaying fully developed crystal form 
+Subhedral - grain showing some trace of a crystal form. 
+Anhedral - grain showing no development of crystal form whatsoever. 
+Euhedral grains develop where the mineral is unimpeded by the growth of
+neighbouring crystals. 
+Thus, euhedral grains are best developed by
+early formed crystals, or by crystals that grow into free space such as
+an open fracture or into vughs, or cavities, in the rock.
+
+
+===== igneous_03e.html =====
+
+
+GeoI Lecture Notes: Igneous Rocks
+Summary of Igneous Structures
+Some characteristic igneous structures include:
+interlocking grains
+a characteristic of all igneous rocks, but most easily seen in the coarse-grained rocks e.g. granites. 
+massive
+uniform in appearance 
+phenocrysts
+large crystals in a matrix of smaller crystals. A rock with abundant phenocrysts is said to be "porphyritic". Such a rock is often simply called a porphyry, with a
+modifying name of the major phenocryst(s), e.g a quartz-feldspar porphyry. 
+xenoliths
+fragments of rock accidentally included into the igneous rock. If these fragments are crystals, the term applied is "xenocrysts". Xenocrysts are very much less
+common than phenocrysts and there must be some evidence of the foreign nature of the crystal before it is termed a xenocryst. 
+Xenoliths: Inclusions in Granite, Donner Summit, CA.
+vesicles
+spherical to oval gas cavities in volcanic rocks. Extremely vesicular rocks of basaltic composition are called "scoria". The acid, or rhyolitic, equivalents are called
+"pumice". 
+SCORIA
+PUMICE
+amygdules (amygdales)
+vesicles filled with secondary minerals.  Below is Thomsonite, a complex hydrous alumino-silicate of calcium and sodium that occurs as amygdules in the basaltic lava flows about 5 miles southwest of Grand Marais, Minnesota.
+miarolytic cavities
+irregularly shaped gas cavities formed in the melt of plutonic rocks due to decreased pressure as the melt rises. Euhedral crystals grow into the cavity. Rare minerals are sometimes found in these cavities as trace elements get concentrated in the late fractions of the melt.  An example is shown below from the Crystal Peak Mining District of Colorado.
+zoned crystals
+normally only visible under the microscope. The zoning reflects changes in the composition of the melt during crystallisation. 
+Zoned Feldspar
+flow structure
+alignment of elongate or platy crystals, xenoliths, vesicles, or amygdales due to flow of the molten rock. Some lavas have flow structure as fine layers. 
+volcanic glass
+gives a glassy appearance to the rock and a conchoidal fracture. A glassy acidic rock is termed obsidian. The basaltic equivalent is called tachylite, but is very
+much rarer. 
+aplite
+light coloured, relatively fine grained. They are formed from residual magmas low in volatiles, promoting the characteristic sugary texture. Aplite dykes are quite
+common in granitic rocks. 
+pegmatite
+very large interlocking crystals, usually exceeding 1 cm in diameter. Pegmatite dykes are formed from residual magmas rich in volatiles. 
+graphic granite
+an intergrowth of quartz and alkali feldspar resulting from the simultaneous crystallisation of the two minerals, usually from a eutectic mixture (the minerals are in
+equilibrium and co-exist stably). 
+Image of a 1" (25 mm) core of graphic granite. Light areas are potassium feldspar, and darker areas are quartz. Although these minerals have nearly identical densities,
+divergence in their x-ray attenuation behavior caused by their different atomic constituents allows them to be easily distinguished on a sub-millimeter scale.
+Optimizing the scanning and reconstruction conditions to bring out the division between these two phases causes micas and oxides to appear as pure white. (Sample
+provided by Dr. Robert Reed, University of Texas at Austin).
+
+
+===== igneous_04a.html =====
+
+
+GeoI Lecture Notes: Igneous Rocks
+The Classification of Igneous Rocks
+Igneous rocks have a two-fold classification scheme, based on the
+mineralogy of the rock and its paragenesis, i.e. how the rock
+formed.
+In many introductory texts, igneous rocks are divided into 6 major groups -
+3 intrusive (granite, diorite, and gabbro) and 3 extrusive (rhyolite, andesite,
+and basalt) - based on the following scheme:
+The important variable in the above chart is mineral composition.  Note the similarity
+in the progression of minerals to Bowen's reaction series.   Note also that to
+first order, a rhyolite is a rapidly cooled granite, and a gabbro is a slowly cooled
+basalt.
+The problem is that this chart barely scratches the surface of the types of
+igneous rocks that geologists need to be familiar with.  Thus, a more complete
+discussion appears here.
+
+
+===== igneous_04b.html =====
+
+
+GeoI Lecture Notes: Igneous Rocks
+A More Complete Overview of Classification
+Minerals found in igneous rocks are divided into 5 groups for
+classification purposes:
+Q - quartz
+   
+   P - plagioclase
+A - alkali (K) feldspars
+F - feldspathoids (feldspars deficient in silica)
+M - mafic and other minerals
+It is vital to understand the origin of an igneous rock, so the
+mineralogy is only taken into account after first determining under
+what conditions the rock was formed. That is, it is necessary to
+determine whether the rock is
+plutonic - coarse grained, deep seated, major
+   intrusions
+volcanic - fine grained, extrusive lava
+   flows
+hypabyssal - medium to fine grained, shallow,
+   minor intrusions
+pyroclastic - volcanic rocks formed from
+   air-fall deposits
+This is done by looking at the grain size and texture of the rock.
+Note that the conditions under which the rock finally solidified is
+determined by the grain size of the groundmass,
+rather than the size of any earlier formed phenocrysts.
+
+
+===== igneous_04c.html =====
+
+
+GeoI Lecture Notes: Igneous Rocks
+Plutonic Rocks
+As plutonic rocks form deep under the earth's surface in large
+magma chambers, it cools slowly and, initially, relatively few
+nucleation centres form, so the crystals are free to grow, unhindered
+by the growth of neighbouring crystals. 
+The key aspect for the
+recognition of plutonic rocks, therefore, is a coarse (>5 mm) to
+medium (1 mm to 5 mm) grain size.
+Plutonic rocks that have less than 90% mafic minerals, and no
+feldspathoids (the vast bulk of all plutonic rocks) are classified
+according to the relative percentages of quartz, alkali feldspar and
+plagioclase. 
+Acid Plutonic Rocks
+The most abundant plutonic rock is the rock commonly called
+granite. 
+Granites are predominantly composed of feldspar and
+quartz, with quartz comprising 20% or more of the total amount of
+feldspar + quartz. 
+These felsic rocks are subdivided according
+to the ratio of alkali feldspar to plagioclase. 
+Granites are formed
+from relatively water-rich magmas, so contain minor amounts of
+hydrous minerals such as biotite and hornblende.
+Granites with only, or predominantly, alkali feldspar to the relative
+or complete exclusion of plagioclase are called alkali feldspar
+granite. The higher percentage of K in these granites results in
+the mica being muscovite as well as, or instead of, biotite.
+Where the proportion of alkali feldspar to plagioclase is between 2:1
+and 9:1, the rock is a syenogranite. 
+Where the proportions of
+alkali feldspar and plagioclase are relatively even (neither one
+being more than twice the amount of the other) it is a
+monzogranite. 
+Where the proportion of alkali feldspar to
+plagioclase is between 1:2 and 1:9, the rock is a
+granodiorite. 
+A granitic rock comprised of quartz and
+plagioclase, to the virtual exclusion of alkali feldspar, is known as
+a tonalite. 
+Tonalite
+The plagioclase in granitic rocks is higher in Na
+than Ca, and is of albite to oligoclase composition.
+Acidic rocks, with a relative abundance of greater than 20%
+quartz, shown in yellow on the diagram below, are the most abundant
+of plutonic rocks.
+Note that the mineral percentages need to be recalculated to 100%
+and are not simply the modal percentages contained in the rock. For
+example, a rock with 20% quartz, 25% alkali feldspar and 35%
+plagioclase (with 20% mafic minerals), would be recalculated so
+that
+Q = 20 / (20+25+35) % = 25%,
+   
+   A = 25 / (20+25+35) % = 31.25%
+P = 35 / (20+25+35) % = 43.75%
+and would plot in the Granodiorite field.
+Intermediate and mafic rocks with high plagioclase content are
+subdivided according to the composition of the plagioclase. "An"
+refers to the anorthite content of the plagioclase. A plagioclase
+consisting of a mixture of 60% anorthite and 40% albite is therefore
+An60. A rock consisting of over 90% plagioclase (therefore less than
+10% mafic minerals) is an "Anorthosite". Anorthorsite is very common in the
+Adirondacks and in the lunar highlands.
+ANORTHOSITE
+Where the feldspar is predominantly alkali feldspar rather than
+plagioclase, the rock is a syenite. Syenite is generally less
+mafic than diorite. 
+SYENITE
+Where there are approximately equal proportions
+of alkali feldspar and plagioclase, the rock is called a
+monzonite.
+MONZONITE
+(Note: As a help for remembering, from alkali feldspar
+dominant to plagioclase dominant, the rocks are syenite,
+monzonite and diorite. Note the similarity to the acid
+plutonic rock, syenogranite, monzogranite and
+granodiorite.)
+Intermediate Plutonic Rocks
+The most common intermediate plutonic rock is diorite. This
+is similar to granite, but is dominated by plagioclase, with quartz
+only a minor constituent. Hornblende and/or pyroxene
+(both dark coloured minerals) are major constituents, giving the rock
+a mottled black and white appearance. The plagioclase is of
+andesine composition, having slightly greater percentage of Na
+than Ca.
+Basic Plutonic Rocks
+A magma with the same composition as basalt, but crystallising
+under plutonic conditions, forms gabbro. Gabbros are composed
+of plagioclase and pyroxene, with lesser
+olivine. These are all anhydrous minerals and reflect dry
+melting conditions in the source region. The plagioclase is
+Ca-rich.
+Ultrabasic Plutonic Rocks
+Plutonic rocks with over 90% mafic minerals (M>90) are
+classified according to their mafic minerals and are not plotted on
+the above diagram. The following rocks represents the main categories
+of ultramafic rocks.
+dunite - over 90% olivine with minor
+   pyroxene
+peridotite - olivine and pyroxene, with over
+   40% olivine
+Peridotite: the distinctive green color is due to its being composed almost entirely of olivine.
+Black flecks within the samples shown above are pyroxene grains.
+pyroxenite - < 40% olivine and pyroxene
+   > hornblende
+hornblendite - < 40% olivine and
+   hornblende > pyroxene
+If any of the above rocks become hydrated and essentially turned
+into serpentine, the resulting rock is termed a
+serpentinite.
+Serpentinite is California's state rock. This 1-1/2 meter boulder sits in a place of honor in the roof garden of the Oakland Museum of California, its polished surface gleaming blue and jade-green.
+
+
+===== igneous_04d.html =====
+
+
+GeoI Lecture Notes: Igneous Rocks
+Hypabyssal Rocks (Minor Intrusives)
+Hypabyssal rocks form in minor intrusive bodies such as dykes,
+sills and volcanic plugs. They have a groundmass grain size in the
+fine to medium range. Hypabyssal rocks can be broadly subdivided into
+equigranular rocks and porphyritic rocks.
+If the rock is equigranular, it is given the same name as its
+plutonic equivalent, with the prefix "micro" added. A dyke with a
+composition the same as a monzonite, but with a finer (around 1 mm)
+grain size, is termed a micromonzonite. The exception is a
+dolerite which is the hypabyssal equivalent of a
+gabbro (plutonic) or a basalt (volcanic).
+Inclined Dolerite Sheet cutting across strata in South Africa
+A porphyritic hypabyssal rock is generally called
+porphyry , with a modifier added that indicates
+either the rock composition, or the types of phenocrysts present.
+Thus a porphyry with a rhyolitic groundmass and quartz and feldspar
+phenocrysts may be termed a granite porphyry, or a quartz - feldspar
+porphyry. Alternatively, it may be termed a porphyritic rhyolite.
+
+
+===== igneous_04e.html =====
+
+
+GeoI Lecture Notes: Igneous Rocks
+Volcanic Rocks
+Volcanic rocks are formed from magma that has erupted onto the
+earth's surface. Consequently, they cool quickly and many nucleation
+centres form, resulting in a fine grained rock. If the grains are
+large enough to be seen with the naked eye, the rock is said to have
+a phaneritic texture, otherwise, it is said to be
+aphanitic .
+The fine grain size means that definite classifications of hand
+specimens is generally not possible, so a working, or field name is
+generally applied until further work can be done. The acidic rocks
+tend to be lighter coloured than basic rocks, although the colour
+commonly becomes darker with finer grain size. Acidic glass, called
+obsidian, for example, is black. On this basis,
+light coloured volcanic rocks are generally called rhyolite
+and dark coloured volcanic rocks are generally assumed to be
+basalt.
+Generally, a good indication of the overall mineralogy of the rock
+can be obtained by identifying the phenocrysts. Acidic rocks may have
+quartz phenocrysts, along with feldspars. Phenocrysts of the hydrous
+minerals such as biotite and hornblende also suggest an acidic
+composition. Phenocrysts of olivine is diagnostic of a basic
+composition. Pyroxene is also indicative of a basic composition.
+Acid Volcanic Rocks
+Acid volcanic rocks are the same composition as granites, and so
+have the same mineralogy. They commonly have phenocrysts of quartz
+and feldspar,with minor hornblende and mica, but there are usually
+not sufficient phenocrysts for the rock to be termed porphyritic. The
+abundance of quartz and feldspar, both as phenocrysts and in the
+groundmass, gives the rock a light colour. Where the feldspars are
+dominantly alkali feldspars, the rock is a rhyolite and often
+has a reddish to pinkish colour. 
+RHYOLITE
+Where the feldspars are dominantly
+plagioclase, it is a dacite.
+DACITE
+Intermediate Volcanic Rocks
+Volcanic rock with an intermediate composition is andesite.
+They are generally intermediate in colour between rhyolite and
+basalt, but can resemble basalt, being a medium to dark grey. They
+may contain hornblende, along with plagioclase and pyroxene
+and may also contain minor quartz. They are named after the Andes
+mountains, where they are common. 
+ANDESITE
+Basic Volcanic Rocks
+The most abundant volcanic rock is basalt. It is dark grey
+to black, but weathers to a lighter grey. It is composed of
+plagioclase and pyroxene with lesser olivine. Olivine is the most
+commonly seen phenocryst, being a high temperature, early
+crystallising mineral, but light, rectangular plagioclase and black
+pyroxene may also be seen in phaneritic samples.
+BASALT
+The large majority of volcanic rocks are in the andesite / basalt
+field. The distinction between these two is on the wt% of
+SiO2 with basalt (the most common volcanic rock) having
+less than 52% SiO2. As this criteria can not be used for
+classifying hand specimens, the percentage of mafic minerals may be
+used, with basalt having greater than 35% mafic minerals by volume.
+This distinction is also rather unsatisfactory in most cases, due to
+the fine grain size of samples, so a tentative field name of basalt
+is generally applied in most cases, with andesite being suggested if
+the rock shows characteristics such as a lighter overall colour, a
+greenish colour or if it is known to be associated with other, higher
+silica rocks.
+Ultrabasic Volcanic Rocks
+These are very rare, ancient rocks known as komatiite that
+do not erupt today. They consist of long phenocrysts of olivine, with
+fine pyroxene and rare plagioclase. Komatiites are evidence of a
+period of Earth's history when temperatures in the upper mantle were
+hot enough to produce melting of the upper mantle to a degree
+sufficient to produce ultramafic magma.
+Barberton olivine spinifex komatiite. Top of photo is within 10 cm of chill margin. Bladed olivine spinifex crystals show up as dark shadows revealed by differential
+weathering of the serpentine that replaced olivine. The maximum length of the olivine blades is 200 mm. Resistant weathering material is pyroxene and spinel
+that crystallized later and filled in between the olivine blades. Thermobarometry of this pyroxene indicated emplacement conditions of less than 1400 degrees C,
+200 MPa and dissolved magmatic H2O contents of 4-6 wt %. Camera cap in photo is 55 mm in diameter. 
+Volcanic rocks that have less than 90% mafic minerals, and no
+feldspathoids (the great majority of all volcanic rocks) are
+classified according to the relative percentages of quartz, alkali
+feldspar and plagioclase, as shown below.
+Note that the mineral percentages need to be recalculated to 100%
+and are not simply the modal percentages contained in the rock.
+
+
+===== igneous_04f.html =====
+
+
+GeoI Lecture Notes: Igneous Rocks
+Pyroclastic Rocks
+These consist of fragmental volcanic rocks that have been
+explosively ejected from a vent. The fragments can consist either of
+glass (vitric fragments), crystals, or rock (lithic) fragments.
+Unconsolidated deposits are known as "tephra". Large fragments
+(> 64 mm) are called blocks if they are angular,
+or bombs if they are rounded. Blocks are chunks of
+solid rock that were blasted out during the eruption, whereas bombs
+are large blobs of magma that solidify in flight. Bombs frequently
+show tapering that developed as they cooled and solidified in
+flight.
+Volcanic Block
+Volcanic Bomb
+Naming pyroclastics is based on the fragment size. However,
+whereas the grain size of other igneous rocks is based on that of the
+finer groundmass, for pyroclastic rocks the classification is based
+on the larger fragments. It is these fragments that give some
+indication as to the power of the eruption, whereas the finer
+fragments are nearly ubiquitous.
+Pyroclastic rocks are classified according to
+Fragment Size
+< 1/16 mm Fine tuff
+1/16 - 2 mm Coarse tuff
+2 -64 mm Lapilli tuff
+> 64 mm Agglomerate (rounded fragments)
+> 64 mm Pyroclastic breccia (angular fragments)
+Volcanic Breccia
+Fragment Type
+Note the presence of glass, crystals, rock fragments, pumice,
+   ash, etc. What are their relative percentages?
+   
+   A tuff with predominantly rock fragments is known as a
+   lithic tuff.
+   A tuff with predominantly pumice and glass fragments is
+   known as a vitric tuff.
+   A tuff with predominantly crystal fragments is known as a
+   crystal tuff.
+Volcanic Tuff at Katmai, Alaska
+Composition
+Rhyolitic, andesitic, basaltic, etc.
+Ignimbrites
+Some pyroclastic material produce flows known as
+   nue ardentes, or "glowing ash clouds". These
+   particularly dangerous and destructive flows travel at high speed
+   and at temperatures of around 600C. When the particles come
+   to rest, they may be hot enough to weld together to form a hard
+   rock, known as a welded tuff, or ignimbrite.
+   Ignimbrites can often be distinguished by having shards of
+   flattened glass incorporated into them, formed when the hot,
+   ductile material solidified to rock. Ignimbrites are produced by
+   andesitic to rhyolitic eruptions.
+This picture illustrates the texture of a typical large volume
+ignimbrite. It consists of fist-sized dacitic pumice clasts and small
+sparse lithics in a crumbly, finer grained matrix. Such rocks are very
+rapidly eroded, and are thus not well preserved or exposed in temperate
+regions. This example is from the 4.6 million year old Real Grande
+ignimbrite which has a volume of the order of 500 cubic kilometers.
+The ignimbrite erupted during the formation of Crater Lake caldera
+6,800 years ago shows magnificent compositional zonation. The lowermost
+(pale) component exposed here is rhyodacitic in composition (70-72%
+SiO2); the uppermost (dark) component is andesitic (56-62% SiO2).
+Tapping of a compositionally zoned magma chamber with more evolved
+dacitic magma at the top yielded zoned deposits, showing mirror-image
+relationships: the first-erupted rhyodacites are at the bottom. There
+are no obvious breaks in the sequence: the mechanisms of transport and
+emplacement of ignimbrites that can yield these relationships remain
+poorly understood. Note the splendid pillars, evidence of rapid
+erosion.
+
+
+===== igneous_05.html =====
+
+
+GeoI Lecture Notes: Igneous Rocks
+Where Does Magma Come From?
+Let's consider separately the probable origins of Basaltic, Andesitic,
+and Rhyolitic Magmas
+The Origin of Basaltic Magma
+Several lines of evidence point to the production of basaltic
+magma from the upper mantle.
+Basaltic volcanoes occur on both continental and oceanic
+   crusts. As these two crusts are different, it implies that there
+   is no crustal component involved in the formation of basaltic
+   magma.
+Basalt (volcanic) and gabbro (plutonic) are virtually the only
+   igneous rocks in the oceanic crust. As the oceanic crust directly
+   overlies the mantle, the source of the magma must be the
+   ultramafic mantle.
+Volcanism at mid-ocean ridges is basaltic. Mid-ocean ridges
+   form where the crust is separating, allowing mantle derived magmas
+   to intrude.
+"Hot-spot" basaltic volcanoes, such as the Hawaiian island
+   chain, suggests that the source of the volcanism is below the
+   lithosphere. The mantle source of the volcanoes remains stable,
+   while the overlying plate moves over the source of the
+   volcanism.
+Basalts are essentially comprised of plagioclase + pyroxene +
+   olivine. These are all anhydrous minerals, which implies that the
+   source region is deficient in water.
+Basaltic magma is low in volatiles, rarely exceeding 0.2%
+   water. As basaltic magma is capable of holding several percent
+   water vapour before it becomes saturated, the low water content
+   implies a deficiency in the source region.
+Experimental work on garnet peridotites, which are thought to
+   approximate the composition of the mantle at around 100 km below
+   the surface, has shown that, at pressures and temperatures
+   equivalent to those found in the asthenosphere (around 100 km), a
+   10 - 15% partial melt will yield magma of basaltic
+   composition.
+All the above evidence indicates that basaltic magma is formed
+from the dry partial melting of rocks in the upper mantle. The
+mantle is not completely homogeneous, however, and therefore basalts
+and gabbros also have some variability in their compositions. Some of
+this mantle heterogeneity derives from the partial melting of the
+upper mantle soon after the Earth's formation. Lighter elements, such
+as sodium, potassium and aluminium rose to become the Earth's
+earliest crust. The remaining upper mantle therefore became depleted
+in these elements, whereas small amounts still exist below the upper
+mantle. A basalt produced by the partial melting of upper mantle
+rocks will therefore be slightly depleted in the light elements
+relative to a basalt derived from deeper sources.
+Oceanic Basalts
+The most abundant volcanic rock on Earth are
+Mid-Ocean Ridge Basalts (MORBs), which
+cover 65% of the Earth's surface. They have low concentrations of
+sodium, potassium and aluminium, indicating an upper mantle source.
+They are formed at oceanic spreading centres, where mantle material
+melts as it rises under the base of the thin crust. Generally, MORBs
+erupt under thousands of metres of seawater.
+Hot spot volcanism produces Ocean Island
+Basalts (OIBs). They contain small but significant amounts of
+sodium, potassium and aluminium, indicating a deep mantle source.
+They are generally formed in intraplate settings, such as Hawai'i.
+The production of hot spot trails also infers a source below the
+lithosphere, as the lithosphere passes over the deep mantle heat
+source.
+Continental Basalts
+There is a little more variety in continental basalts, but there
+are similar relationships to oceanic basalts. Basalts associated with
+continental rifting and intraplate volcanics have compositions that
+indicate a deep mantle source, whereas basalts associated with
+subduction zones tap an upper mantle source. All continental basalts,
+however, must migrate through tens of kilometres of continental
+crust, and some assimilation of the crust may occur, producing
+greater variations in their compositions.
+The Origin of Andesitic Magma
+Andesitic volcanoes are also found on both continental and oceanic
+crusts, but only in specific locations. In the Pacific region, for
+example, andesitic volcanoes do not occur within the Pacific Ocean
+basin, but are common just outside the basin. The line separating
+these two regions is known as the Andesite Line. This line
+corresponds to regions of subducting plate boundaries.
+When oceanic lithosphere is subducted, the capping of basaltic
+oceanic crust is saturated by water. If the lithosphere is very
+young, and therefore hot, as it subducts into the asthenosphere the
+wet crust may start to melt. With the angle of subduction of the
+plate, you would expect the subducted crust to have reached a depth
+of around 80 km when it is about 250 km from the trench marking the
+start of the subduction zone. This is where andesitic volcanoes
+occur.
+This scenario is what is represented by some introductory earth
+science textbooks, but it is a special case and not the norm. The
+theory was developed due to most work being done around the large
+andesitic volcanoes of the western Americas and Japan, and by
+experimental work that showed that andesitic magma can be produced by
+partial melting of wet oceanic crust at suitably high pressure.
+Where old lithosphere is subducted in oceanic settings, however,
+basaltic volcanism is the norm, showing that it is not the oceanic
+crust that is melting, but the overlying mantle. Earthquake studies
+also show that earthquake foci are up to 700 km below the surface in
+regions of old, steeply dipping subduction zones. this indicates that
+the descending slab is still cold enough to undergo brittle
+deformation, so can not be melting.
+In regions involving the subduction of oceanic crust under
+continental crust, water is released from the subducting slab as
+amphibolite breaks down to form eclogite. The water migrates to the
+overlying mantle. As water reduces the melting point of the mantle,
+the release of water leads to the wet partial melting of the
+overlying mantle wedge. The formation of andesite arise from the
+underplating (the pooling of magma at the base of the crust) and
+fractional crystallisation of this basaltic magma from the
+mantle wedge. The heat from the underplating magma may partially melt
+the continental crust and magma mixing of the felsic melts of
+the continental crust plus the mafic melts from the mantle may also
+be an important component in the production of andesitic magma.
+As andesitic magma is close to the composition of average
+continental crust, it is possible to produce andesitic magma by the
+complete melting of continental crust. Although some andesitic magma
+may be produced in this way, the vast majority is produced at
+subduction zones, either by the wet partial melting of the oceanic
+(basaltic) crust or from the fractional crystallisation of basaltic
+melts.
+The Origin of Rhyolitic Magma
+Rhyolitic volcanoes occur in regions of continental crust or in
+regions of andesitic volcanism. They do not occur on oceanic crust.
+This implies that continental crust must be involved in the formation
+of rhyolitic magma.
+Rhyolitic volcanoes give off a great deal of water vapour, and
+plutonic rocks formed from rhyolitic magma (granitoids) contain
+significant amounts of hydrous (OH-bearing) mica and amphiboles. The
+OH must come from water dissolved in the melt.
+Experimental work has shown that the wet partial melting of rocks
+of the composition of the continental crust will result in a
+rhyolitic magma.
+It should be noted that most rhyolitic magmas solidify
+underground. Rhyolitic magma is very viscous, and can not easily make
+its way through the crust, and the temperature at which the magma
+solidifies is generally reached before the magma gets to the surface.
+The solidification is helped by the reduction in pressure as the
+magma ascends. Because rhyolitic magma contains significant amounts
+of dissolved water vapour, the reduction in pressure increases the
+temperature at which it can remain a melt, but the temperature of the
+magma steadily declines as it rises through the relatively cool
+crustal rocks.
+
+
+===== igneous_06.html =====
+
+
+GeoI Lecture Notes: Igneous Rocks
+Intrusive Landforms
+Igneous rocks that have cooled underground are termed
+"intrusive", that is, he magma did not form in
+situ , but has intruded the surrounding rocks. Intrusive rocks
+are therefore always younger than the rocks surrounding them.
+Intrusive rocks can only be seen after erosion has removed the
+overlying rocks to expose them. As intrusive rocks form underground,
+they cool slowly, forming rocks of medium to coarse grain size. Rocks
+formed in large intrusive structures are termed "plutonic",
+those that form in small intrusions are called
+"hypabyssal".
+Major (Plutonic) Intrusions
+Batholiths
+The largest igneous intrusions are batholiths. They are defined as
+being over 100 km2 in extent, but may be over 250 km wide
+and over 1000 km long. Batholiths are some 20 to 30 km thick, which
+is a sizeable proportion of the continental crust, but compared to
+their lateral extent, they are somewhat tabular bodies. They are
+typically composite, being made up of a number of distinct, but
+associated intrusions. Walls of batholiths are generally near
+vertical.
+A major problem associated with batholiths is just how they are
+emplaced - what happens to all the rock that they have intruded? The
+traditional explanation has been by emplacement by
+stoping . When a magma intrudes, it breaks off
+fragments of the overlying rock. Being denser than the magma, these
+rock fragments may sink through the magma. The fragments may sink all
+the way to the floor of the magma chamber, or they may become
+assimilated with the magma, thereby changing the magma composition
+and volume slightly, or they may remain trapped within the magma as a
+xenolith (xeno = "foreign", lith = "rock"). 
+The
+major problem with this emplacement method is that these highly
+viscous magmas can bring up from depth high density blocks. If quite
+dense rocks can be carried up with the magma, it is hard to see how
+relatively low density blocks can sink through the same viscous
+magma. While stoping undoubtedly occurs, and is a factor in the
+emplacement of batholiths, it is not the sole answer. Similarly, the
+diapir model, or large rising blob of magma, is probably overly
+simplistic and overrated as an emplacement mechanism. This form of
+emplacement is likely to be limited to the deepest crustal regions.
+Many, if not most plutonic intrusions occur in extensional regimes,
+and the "room problem" may be partially solved by this extension of
+the crust. In the upper crust, plutons are likely to be fed by dykes
+to ballooning plutons that push the country rock aside and
+upwards.
+Stocks
+Stocks are similar to batholiths, but smaller, having an area of
+less than 100 km2. They, too can be composite bodies. Some
+stocks are just the top of a larger batholith, that only has a
+relatively small part of it exposed at the surface.
+A useful term used to describe a major intrusion whose extent and
+relationships are uncertain, is pluton.
+Laccoliths
+Laccoliths intrude between parallel layers of rock at relatively
+shallow depths. The low pressure allows the magma to dome up the
+overlying rock, so the intrusion becomes a lenticular, mushroom
+shaped body. Laccoliths are generally formed from acidic, viscous
+magmas that bulge upwards rather than spreading laterally. The
+thickness / diameter of laccoliths is greater than 1 / 10, otherwise
+it is termed a sill.
+Laccolith: Bear Butte, Sturgis, South Dakota.
+Lopoliths
+Lopoliths are concordant (parallel to layering) intrusions that
+are saucer shaped. They are formed in a similar manner to laccoliths,
+but are produced from dense, mafic magma that depresses the overlying
+strata. Many lopoliths contain layered gabbroic rocks. Some are very
+large with thicknesses of many kilometres. The Bushveldt lopolith in
+southern Africa is several hundred kilometres across and contains the
+richest platinum deposits known.
+Minor (Hypabyssal) Intrusions
+Dykes
+Dykes are discordant tabular sheets that cut
+across the layering of the rock it intrudes and are commonly steeply
+inclined. In regions of crustal extension, fractures may from which
+are filled by magma from a deep source, or intrusive magma may
+promote fracturing and extension of the crust. Dykes in outcrop range
+from a few metres in length to many kilometres, and range from a few
+centimetres wide to over 100 m, although the Great Dyke of Zimbabwe
+is a gabbroic mass nearly 500 km long and about 8 km wide. Because
+dykes intrude relatively cool rocks, they frequently display a
+chilled margin, with grain size becoming coarser towards the centre
+where the rate of cooling has been slower. Dykes may occur in
+swarms of parallel dykes, particularly where there
+has been crustal extension. Veins are very thin
+dykes.
+Aplite dykes are common in granitic bodies. They
+are light coloured, equigranular and fine to medium grained. They are
+formed from the last residues of melt after most of the
+crystallisation of the granitoid was completed, and hence are rich in
+quartz and alkali feldspar and sometimes muscovite.
+Pegmatite dykes also represent crystallisation
+from a residual melt fraction, but pegmatites are formed from a
+water-rich fluid, and are very coarse grained. Occasionally,
+pegmatites contain minerals such as tourmaline, garnet, apatite,
+beryl, topaz, spodumene, magnetite, sphene, and zircon, and numerous
+other rare minerals. Most, however, just contain quartz, alkali
+feldspar, micas and tourmaline. The occurrence of rare minerals is
+due to the progressive concentration of trace elements into the last
+fraction of melt, as these elements are not constituents of the
+common minerals that have crystallised during the solidification of
+the bulk of the magma.
+Dike, with plug in background.  Shiprock, NM.
+Sills
+Sills are similar to dykes, but are concordant ,
+that is, they intrude parallel to the layering of the country rock.
+Thicknesses range from metres to hundreds of metres. Because they
+form by lifting and separating adjacent rock layers, sills only form
+within a few kilometres of the surface. The Palisades Sill, in New
+Jersey, U.S.A., is a dolerite sill which demonstrates magmatic
+differentiation by fractional crystallisation. It contains a base
+layer of olivine-rich dolerite formed by crystal settling of the
+early crystallising olivine, a central dolerite, which comprises the
+bulk of the sill and an upper layer of quartz dolerite, with thin
+lenses of quartz + alkali feldspar + pyroxene which represent late
+melt fraction after the more mafic minerals have crystallised. The
+chilled margins of the sill are basalt.
+Sill, between nearly vertical rock layers.  Gardiner, MT.
+Volcanic Necks / Plugs
+Plugs represent the cylindrical feeder pipe, or conduit, of a
+volcano. The magma that solidified in the conduit is harder and more
+resistant to erosion than the pyroclastic deposits and lavas that
+make up the flanks of the volcano. After the volcano becomes extinct,
+therefore, the plug often remains standing like a spire over the
+landscape.
+A Volcanic Neck from Big Bend National Park
+Devil's Tower, Wyoming
+Ring Dykes
+Ring dykes are large, near vertical dykes with a circular outcrop
+pattern. Their thickness varies from hundreds of metres to several
+kilometres, and the diameter can be up to 30 km. Thicker dykes
+contain plutonic rocks, rather than hypabyssal. They are centred
+around a deeper intrusion. The central section may be a block that
+has sunken into the underlying magma, the ring dykes representing the
+fracture zone around the sunken block.
+Cone Sheets
+Cone sheets are minor intrusions which occur as a dyke swarm with
+a concentric distribution. They dip towards a focus, generally
+several kilometres deep, at angles between 20o and
+70o, but typically at around 45o.
+
+
+===== igneous_07a.html =====
+
+
+GeoI Lecture Notes: Igneous Rocks
+Eruption of Magma & Volcanic Hazards
+Basaltic Eruptions
+Basaltic magmas have a low viscosity and are low in volatiles. The
+low viscosity allows the magma to migrate to the surface and allows
+the volatiles to escape more easily when the pressure is reduced
+sufficiently for the volatiles to exsolve from the melt. Basalt
+therefore is extruded in gentle, effusive eruptions.
+Hawaiian Lava Fountain
+
+
+===== igneous_07b.html =====
+
+
+GeoI Lecture Notes: Igneous Rocks
+Basaltic Volcanoes
+Shield Volcanoes
+As basalt lava has a low viscosity, it is capable of flowing great
+distances from the vent over low gradients. Shield volcanoes are
+built up from successive flows that bury the older flows from
+previous eruptions, eventually forming a large, dome shaped volcano
+with slopes of less than 10o . 
+The Hawaiian volcanoes of
+Mauna Loa and Mauna Kea are examples of shield volcanoes and are the
+largest single objects on Earth, having summits over 4000 m above sea
+level, but being built from the ocean floor which is around 5000 m
+deep. 
+Mauna Loa
+This 4169 m high basaltic shield volcano is the Earth's largest
+volcanic construct, rising some 9000 m above the Pacific ocean floor.
+It has a volume of about 40,000 cubic kilometers, the result of the
+accumulation of innumerable flows of low-viscosity basalt lava. Only
+about 17% of this volume is above sea-level.  Submarine eruptions
+probably commenced 1-2 million years ago, and eruptions above sea level
+about 400,000 years ago. The extremely gentle slopes seen in the
+photograph result from the fact that Mauna Loa is an elongate volcano,
+extended along south-west and east rifts, from which most lavas are
+erupted. The profile across the rift zones (towards the camera) is
+somewhat steeper, but still does not exceed 10 degrees in the middle
+slopes. At the summit of Mauna Loa is the 2.6 x 4.5 km Mokuaweoweo
+caldera. Mauna Loa last erupted in 1984
+On large shield volcanoes, the partial emptying of the magma
+chamber may leave the summit unsupported and it may collapse inward
+to form a large crater, or caldera.
+Halemaumau Caldera and Volcanic Observatory, Hawaii Volcanoes NP
+Commonly, the central feeder pipe is not the only conduit, and
+flank eruptions may be produced on the side of the volcano.
+Kilauea is built from flank eruptions on Mauna Loa's south-eastern
+slope.
+Cinder Cones
+Surrounding the eruption point, rapid degassing of volatiles due
+to pressure release may produce lava fountaining. The resulting
+shower of pyroclastic particles builds up a relatively small,
+steep-sided cone with slopes around 30o. For basaltic
+eruptions, these highly vesicular particles are called
+scoria , and the cones are frequently referred to as
+scoria cones.
+Cinder Cone in Northern Arizona
+Diatremes
+A diatreme is an explosive vent of a volcanic eruption. There need
+not be any actual volcano associated with the diatreme.
+HOPI BUTTES VOLCANIC FIELD, NE ARIZONA
+Massive tuffacous breccia of the diatreme facies.  This exhumed vent
+stands over 100 meters above the surrounding badlands.
+Maars
+Maars are explosive, phreatomagmatic (water-rich) eruptions that
+produce volcanoes with wide craters, but of quite low elevation. They
+have low gradient outer slopes, with steep inner walls of the crater.
+When the volcano becomes extinct, a lake is frequently formed in the
+crater, which gradually becomes filled with sediment, producing
+swamps and peat deposits.
+
+
+===== igneous_07c.html =====
+
+
+GeoI Lecture Notes: Igneous Rocks
+Features of Basaltic Lava Flows
+Pahoehoe
+Pahoehoe is characterised by a ropy texture. It is formed when
+fluid lava begins to congeal, and is subjected to further lateral
+pressure, which pushes the lava into folds or ropes. Pahoehoe is
+typical of low viscosity basaltic lava that still retains much of its
+original volatiles.
+Aa
+Basaltic lava that is more viscous than pahoehoe, and has a lower
+volatile content may produce a more blocky, angular form of lava,
+known as aa. As pahoehoe flows away from the vent, it cools and loses
+volatiles, which increases its viscosity and may lead to an aa flow.
+Higher velocity flow of lava, producing a more turbulent, rather than
+laminar flow, can also lead to an aa flow.
+Pillow Lava
+Lavas that either erupt under water, or lava flows that flow into
+water produce a characteristic pillow lava. The lava in direct
+contact with the water is quenched, but continued pressure from the
+molten flow cracks the skin, and liquid lava oozes out, forming a
+bulging pillow shape. The surface of this new pillow is quenched by
+the water within a few seconds. Continued pressure from the molten
+lava that is still flowing through the connected pillows cracks the
+skin and the process is repeated.
+Pillow Lavas in Minnesota
+Pillow Lavas in Scotland
+Columnar Jointing
+When a lava flow cools, it contracts slightly. This contraction
+leads to a polygonal fracturing on the surface, similar to mudcracks
+on a dry river bed. As cooling continues down into the flow, this
+fracture network is maintained, producing columns of fractures. Later
+erosion of the flow is concentrated along the fractures, and
+prismatic columns can be seen.
+The columns form by chilling when in contact with a flat surface.  Cracks
+form at 120o and join up to become hexagons.  They exend perperdicular
+to the flat surface.
+Devil's Postpile, California
+Giant's Causeway in Ireland
+The story goes that a giant in Ireland, Finn Cool, built the causeway to
+fight his rival in Scotland, Finn Gall.  Cool was exhausted after his labors and
+returned to Ireland to rest.  Gall crossed over the causeway to do battle, but
+Cool's fast-thinking wife told Gall that the sleeping Cool was their child.  Gall
+was so intimidated by the thought of what the father of such a baby would look
+like that he immediately returned to Scotlond, destroying the causeway on his
+way back.
+Lava Rises
+Recent work on thick (up to 20 m) lava flows has shown that the
+original emplacement of the flow began as a relatively thin (around 1
+m) unit that was subsequently inflated by the pressure of still
+molten lava beneath an early formed crust. Such thick flows were
+previously interpreted as either being thick valley fill flows, or aa
+flows that could maintain steep sides. The presence of pahoehoe
+structures that are continuous from the floor of the lava rise, up
+the sides and across the top, however, is evidence of lava much more
+fluid than aa. Lava rises generally have crevasses along their edges
+where the solidified surface has buckled during inflation. 
+The inflation of a
+point source, rather than an elongate flow, produces a mound of
+inflated basalt known as a tumulus. Tumuli also
+commonly show ropy lava along the sides, with elongate or radial
+crevasses.
+Tumulus about 30 m in diameter on the Hilina Pali road on the south
+flank of Kilauea Volcano, Hawaii. 
+Lava Tubes
+Channelised lava flows frequently form a solid crust, under which
+the liquid lava continues to flow. If the flow drains out, an open
+space, or lava tube is created. The flowing lava often erodes into
+the base of the tube, and the various levels of the lava can be seen
+as "tide marks" on the sides of the tubes. Lava drips are common on
+the roof and walls of the tubes.
+Lava Tube, Hawaii
+Tree Casts
+Lava flowing around objects like trees will solidfy around them, leaving
+molds.
+Tree Casts, Hawaii
+Spatter Cones
+Spatter cones are piles of viscous partially cooled lava that erupt
+from small vents or fissures towards the end of an eruption cycle.
+Spatter Cones from the Galapagos Islands
+Flood Basalts
+Some regions on earth record huge outpourings of basalt, the
+largest of which is the Ontong-Java Plateau in the equatorial west
+Pacific. This region consists of oceanic crust 25 to 43 km thick - up
+to five times as thick as typical oceanic crust, and is two-thirds
+the size of Australia. It overlies oceanic crust with magnetic
+stripes typical of an oceanic ridge. There are apparently no large
+shield volcanoes, so the lava must have erupted from long fissures.
+The plateau was formed around 120 million years ago (mid-Cretaceous)
+and the entire plateau seems to have been created in less than 3
+million years. This implies that 15 to 20 km3 per year was
+erupted, which is comparable to the amount formed today by the entire
+oceanic ridge system, and dwarfs the Mount St Helens eruption of less
+than 1 km3. Such vast outpourings are believed to
+represent the decompressional melting of a new mantle plume as it
+rises to the upper mantle.
+Other notable flood basalt provinces include the Kerguelen plateau
+of the southern Indian Ocean, the Deccan traps of India, the Siberian
+traps, the Parana basalts of Brazil and southern Africa, the Karoo
+basalts of South Africa, the basalts of Northern Ireland, Scotland,
+Greenland and the Columbia River Basalts of northwestern USA.
+Columbia River Basalts
+Icelandic Basalt Flow
+
+
+===== igneous_07d.html =====
+
+
+GeoI Lecture Notes: Igneous Rocks
+Hazards associated with Basaltic Eruptions
+Lava flows
+As basaltic eruptions are effusive, low viscosity and have low
+volatiles, they are relatively gentle eruptions, and the danger from
+explosive activity is minimal. The volume of lava they produce, and
+its low viscosity, however, means that considerable areas can be
+overrun by the lava flows. The main hazard, therefore, is loss of
+property and production. In the long term, basaltic eruptions are
+most beneficial, as they produce very fertile soils.
+In 1783, eight months of eruptions from a 32 km long fissure in
+Iceland, known as the Laki eruption, produced over 12 km3
+of lava which covered nearly 600 km2 and destroyed much of
+the island's grazing land. Livestock were poisoned by grass
+contaminated by hydrogen fluoride. 20% of Iceland's population, some
+10,000 people, died of starvation.
+Laki Fissure
+Gaseous escape
+Gaseous discharges associated with basaltic eruptions can cause
+fatalities, but the danger zone is restricted to quite close to the
+source of the eruption.
+Some volcanic crater lakes develop gas-rich layers. Lake Monoun
+and Lake Nyos in Cameroon have discharged lethal amounts of carbon
+dioxide. A discharge form Lake Monoun in 1984 killed 37 people, but a
+larger discharge from Lake Nyos in 1986 killed over 1700 people and
+3000 cattle. The CO2 had seeped into the base of the
+density layered lake, where its concentration built up in the bottom
+layers. Eventually an overturn of the layers released the stored
+gases. The dense cloud flowed down the valleys, asphyxiating people
+who did not realise what was wrong, as CO2 has no odour
+and the body does not react to it. Survivors told of smelling rotten
+eggs or gunpowder, experiencing a warm sensation and rapidly losing
+consciousness.
+Lake Nyos
+Victims of gas release
+Winds Released the Gas at the Bottom of the Lake
+A pumping system has been trialled at Lake Monoun to release the
+gases gradually, but the larger Lake Nyos poses a harder problem. A
+wrongly engineered system could initiate a gas discharge, rather than
+preventing one. Concentrations of carbon dioxide in Lake Nyos are
+expected to build up to dangerous concentrations again in less than
+20 years.
+Climate change
+Some flood basalts have been linked with past mass extinction
+episodes due to their effects on the global atmosphere and climate.
+The Siberian Traps erupted at the end of the Permian period and
+corresponds to the greatest mass extinction in Earth's history. At
+the end of the Cretaceous period, the Deccan traps erupted, covering
+over half a million square kilometres and may have helped in the
+extinction of the dinosaurs.
+Location of the Deccan Traps
+Buddist dwellings in the Deccan Traps
+Traps vs. Extinction: More than a coincidence?
+
+
+===== igneous_07e.html =====
+
+
+GeoI Lecture Notes: Igneous Rocks
+Andesitic Eruptions
+As andesitic magma has a higher viscosity and higher volatile
+content than basaltic magma, andesitic eruption tend to be high
+energy, explosive eruptions.
+Andesitic Volcanoes
+Stratovolcanoes
+Andesitic volcanoes are typically comprised of layers of andesitic
+lava flows and pyroclastic deposits. The slopes are gentle concave,
+varying from around 6o at the base to about 30o
+near the summit. This is the typical volcano profile typified by Mt
+Fuji in Japan. The higher viscosity builds a steeper cone than the
+basaltic shield volcanoes, and the layers of lava help prevent
+erosion of the weaker pyroclastic deposits, and so build larger cones
+than tephra (or cinder / scoria) cones.
+Agua Volcano, Equador
+Seen in profile at sunset, this photo illustrates the classical
+symmetrical cone that defines the 'ideal' volcano. Such cones result
+from the interplay of eruption and erosional processes, and rely on
+eruption of small lavas and tephra from a single summit crater and
+rapid radial transport of talus to maintain their radial symmetry. Agua
+is 3752 m high, with a summit crater 200 m in diameter. Its symmetrical
+profile is echoed by the two volcanoes in the background, Fuego (left;
+3700 m) and Acatenango (right; 3960 m).
+Lascar Volcano
+Volcan Lscar 5,641 m, is the most active volcano in the central
+Andes. Since 1988 a silicic lava dome has been growing in the summit
+crater, and there have been several recent eruptions, notably on April
+19 and 20, 1993, when pyroclastic flows were erupted on both southern
+and northern flanks, and ash fell out as far distant as Buenos Aires,
+Argentina. The volcano consists of elongate series of six overlapping
+craters, trending roughly northeast, with the active, fuming crater
+located near the center of this cluster. It is about 800 m in diameter
+and 300 m deep. Grey pumice deposits from the 1993 eruption are visible
+in this photo, and the margins of some pyroclastic flows can be seen at
+right center. Most impressive, however, are the older, massive
+andesitic lava flows, exhibiting flow margins tens of meters high, well
+developed flow leves and transverse ridges.
+Calderas
+Calderas are large, steep sided craters that are several
+kilometres in diameter. Most commonly, they are caused by the
+collapse of the overlying volcano into a magma chamber that has been
+partially emptied by vigorous eruptions.
+Crater Lake, Oregon
+Crater Lake's serenity belies a violent origin. Its blue waters
+fill a caldera nine kilometers in diameter, whose floor is 600 meters
+below the lake level, while the encompassing walls rise steeply 600
+meters above it. Howel Williams, a distinguished American volcanologist
+of Welsh extraction, concluded in a classic study that the present
+caldera occupies the site of an older volcanic cone, about 3600 meters
+high, called Mt. Mazama. 6,800 years ago, a huge plinian eruption
+destroyed the original volcano, formed the present caldera and showered
+tephra as far as Alberta in Canada. After the plinian phase, a series
+of ignimbrites was erupted, filling the valleys radiating from the old
+cone. Wizard Island, a small volcanic cone constructed after the
+eruption, now occupies one corner of the lake.
+Lava domes
+Viscous lava with few volatiles oozes from a volcanic vent and
+builds a lava dome, rather than flowing out from the vent as a lava
+flow. This is commonly the case after large volcanic eruption have
+allowed the release of large amounts of volatiles, leaving a dry,
+viscous magma. This can ooze out of the vent and build a lava dome in
+the crater of the volcano.
+
+
+===== igneous_07f.html =====
+
+
+GeoI Lecture Notes: Igneous Rocks
+Hazards Associated With Andesitic Eruptions
+In viscous magmas, the gas bubbles, too, can only rise slowly and
+can not easily escape from the melt. The confined energy of exsolving
+gas may build up until devastating explosive volcanism results.
+Blocks have been ejected at velocities of 2000 km/hr with pressures
+involved of over 4000 atmospheres. Eruption columns can reach up to
+45 km into the atmosphere. Where the density of the eruption column
+equals that of the surrounding atmosphere, it spreads out like the
+mushroom cloud of an atomic bomb. High level winds distribute after
+major eruptions so that the ash encircles the earth. This can
+decrease the amount of the sun's energy, causing global temperatures
+to fall by 1oC or so. It also produces spectacular sunsets
+and quickens the degrading of aeroplane paint work and windows.
+Pyroclastic Flows / Nue Ardentes (Glowing Ash
+Clouds)
+The most lethal volcanic eruptions are caused by pyroclastic
+flows. At several hundred degrees centigrade, the ash flows can
+travel over 100 km, and may reach speeds of 700 km/hr. Such flows may
+be generated by gravitational collapse of the
+eruption column. The eruption column is held up by the pressure of
+the erupting material beneath it. Eventually, the eruption can not
+support the weight of the eruption column and the column collapses,
+flowing down the slopes of the volcano and covering the surrounding
+area. Trapped air and magmatic gases keeps the flow buoyant, leading
+to little frictional resistance, so speeds of over 150 km/hr may be
+reached, even on gentle slopes. On settling, the particles may still
+be hot enough to fuse together to form a welded tuff or
+ignimbrite.
+In 1902, a nue ardente flowed down the slopes of Mt
+Pele in Martinique in the West Indies, covering the town of
+St Pierre. Of the 29,000 inhabitants, there was only one survivor - a
+prisoner in the underground cells who later earned a living by
+telling his tale at fair grounds. For several months after the
+eruption, viscous lava domes oozed out of the crater and pushed up in
+a spire like toothpaste. The spire repeatedly crumbled, producing a
+hot avalanche that rushed down the slopes of the volcano.
+Alternatively, part of the volcano may collapse during an
+eruption, allowing the eruption of material to occur sideways in a
+lateral blast . Such a blast occurred during the
+eruption of Mt St Helens in 1980. The northern face of the volcano
+collapsed, allowing pressure to be released laterally, and causing
+the initial explosive eruption to be both upwards and sideways,
+devastating an area of over 600 km2 extending 30 km from
+the volcano, and killing 63 people, including geologist David Johnson
+who was monitoring the eruption. A small lava dome has subsequently
+been built in the new crater.
+The volume of ash involved in large eruptions can cause severe
+problems. Agricultural production is destroyed, which may lead to
+famine, and buildings may collapse under the weight of the ash. Most
+of the deaths caused by the 1991 Mt Pinatubo eruption were not caused
+by the eruptions, but by the resulting disease, lack of water and
+sanitation and related problems in temporary camps for the homeless.
+The once fertile fields and valleys around Mt Pinatubo are now barren
+and near useless for agriculture.
+Volcanic ash clouds are particularly dangerous to aircraft, as
+aircraft radar can not, as yet, discriminate ash clouds from normal
+clouds. As aircraft engines operate at temperatures greater than that
+required to melt volcanic ash, flying into ash clouds melts the ash
+particles which solidify on the walls of the engine and on the
+turbines, causing engine failure. Just the cost of the replacement of
+windows due to crazing by ash particles adds significantly to the
+cost of aircraft operation.
+Ash from Mt. Pinatubo on Commercial Airplane
+Lahars
+Lahars are mudflows generated by volcanic activity. Unconsolidated
+and easily eroded ash may remain a mudflow hazard for many years
+after a large eruption, particularly in tropical regions where
+monsoonal rains generate high runoff.
+Lahars may also be triggered by the eruption, as glacial ice and
+snow fields on the volcano are suddenly thawed at the onset of an
+eruption, creating a flash flood that combines with the volcanic ash
+and previous pyroclastic deposits on the flanks of the volcano.
+In 1985, the Colombian volcano, Nevado del Ruiz erupted, melting
+ice and snow near the summit which generated a lahar that destroyed
+the city of Armero, killing over 20,000 people. Geologists had
+previously issued warnings about the danger of lahars and, eight
+hours before the tragedy, had urged that Armero be evacuated. The
+warning went unheeded.
+Mudflow, Chigliapichina volcano, north Chile 
+Tsunamis
+Undersea eruptions can trigger shock waves that create giant waves
+called tsunamis (sometimes incorrectly called tidal waves). When
+Krakatoa erupted in 1883, it produced the largest concussion ever
+recorded. Krakatoa is a small, uninhabited island group between
+Sumatra and Java. The tsunami generated by the eruption swept the
+coasts of Sumatra and Java about half an hour after the explosion,
+killing some 36,000 people.
+A 1960's flick for the Geographically Challenged.
+Now available on DVD.
+The seamount Loihi, which will be the next Hawaiian island, poses
+a potential threat to the present islands. In 1996 an 300 m dome at
+its summit collapsed over a period of two months, to be replaced by a
+crater a kilometre wide and over 300 m deep. If the collapse had been
+catastrophic, rather than more gradual, it could have created a
+tsunami that would have developed without warning.
+
+
+===== igneous_07g.html =====
+
+
+GeoI Lecture Notes: Igneous Rocks
+Rhyolitic Eruptions
+Rhyolitic magma is even more viscous and contains more volatiles
+than andesitic magma. Eruptions can therefore be explosively
+catastrophic. Pumice is an extremely vesicular, glassy rock
+formed as gas bubbles out of the vent as a froth of lava.
+Due to the viscosity, rhyolitic lava does not flow far from the
+vent, but produces either lava domes, or short, thick flows. Such
+flows are generated after pyroclastic eruptions, once the volatiles
+have been released from the magma.
+Rhyolitic volcanoes and eruptions are similar to those of
+andesites, but can be more powerful and more dangerous. Fortunately,
+rhyolitic volcanism is much less frequent than andesitic volcanism as
+most rhyolitic magma solidifies underground as plutonic granite.
+One of the largest eruptions known on Earth was the eruption of
+Lake Taupo, in the north island of New Zealand 22,000 years ago. The
+eruption threw out over 300 cubic kilometres of material in a matter
+of days, covering the entire island in at least a centimetre of
+ash.
+In 186 AD, after eight smaller, intervening eruptions, another
+huge eruption occurred from Taupo. The eruption was initially on dry
+land, but as it developed, subsidence of the crater allowed lake
+water to pour into the vent. 20 cubic km of pumice, rock and ash was
+ejected in less than a day, forming an eruption cloud up to 50 km
+high. As the roof collapsed further, 12 km3 of material
+was ejected in a few hours (one estimate suggests less than seven
+minutes). The eruption cloud collapsed, and burst outwards close to
+the speed of sound, covering hills and valleys in all directions for
+90 km and up to 100 m thick near the lake. Over 110 km3
+had been ejected and the roof of the magma chamber collapsed
+completely, forming a wide caldera.
+Distribution of ash deposits from the Taupo eruption. Isopachs
+(lines were deposit has a constant thickness) are in cm. From Wilson
+and Walker (1985). 
+The Taupo Volcanic Zone is still active, although it looks pretty bucolic
+at the moment.
+View of Lake Taupo
+Examples of Rhyolitic eruptions closer to home are Yellowstone in NW Wyoming
+(at the end of a hot spot trace) and Long Valley in California.  The last
+catastrophic eruption in Yellowstone was about 640,000 years ago and was about
+1000 times larger than the last eruption of Mt. St. Helens.
+Volumes of Yellowstone's giant volcanic eruptions compared with volumes of other major eruptions.
+Presently, Yellowstone is extremely photogenic, and home of some
+interesting thermophile bacteria like Thermus aquaticus, which is used
+to make an enzyme that allows rapid reproduction of DNA, which in turn
+made DNA fingerprinting possible.
+Long Valley last had a major eruption 760,000 years ago, but several
+relatively minor features tend to erupt with frequencies of a few 100
+years.
+Mono-Inyo Eruptions During the Past 5,000 Years. During the past 35,000
+years, volcanic activity in the the Long Valley area has been confined
+to the Mono-Inyo Craters volcanic chain. About 20 small to moderate
+eruptions have occurred somewhere along the chain in the last 5,000
+years, as shown in diagram above. Some of the eruptions occurred at
+about the same time and in close proximity.  For example, the Inyo
+eruptions 550 to 600 years and the eruptions from the north end of the
+Mono Craters about 600 years ago. The intervals between eruptions or
+eruption clusters ranges from 250 years to 750 years.
+Earthquake activity in the area picked up in the early 1980's and it
+has been closely monitored by the USGS since then.
+Areas of the United Stated that once were covered by volcanic
+ash from Yellowstone's gian eruptions 2 million and 630,000 years ago,
+compared with ashfall from the 760,000-year-old Long Valley caldera
+eruptions at Mammoth Lakes, California, and the 1980 eruption of Mount
+St. Helens, Washington. (Adapted from Sarna-Wojcicki, 1991.)
+
+
+===== igneous_08.html =====
+
+
+GeoI Lecture Notes: Igneous Rocks
+Summary of Some Key Ideas About Volcanoes
+Important factors in Understanding Volcano Behavior
+The amount of "volatiles" (gas) dissolved in the magma (i.e., stuff that is really low density and wants desperately to leave)
+The viscosity of the magma (i.e., how easy is it for the volatiles to leave?) 
+The quantity of magma (i.e., how much needs to get out?) 
+Generally, the more viscous a magma is, the more explosive the eruption will be.
+What controls Viscosity?
+Temperature: Higher temperatures, lower viscosity, especially if the temperatures are well above the solidification temperature. (700oC for Silicic, 1200oC for mafic rocks). 
+Silica (SiO2) content. The tetrahedra start to organize themselves well before solidification, and this greatly increases viscosity. 
+Dissolved gasses: more gas lowers viscosity, so there is something of a negative feedback at work here. 
+Patterns of Volcanism
+Most oceanic volcanoes have basaltic laves: (ridges, hot spots). 
+Ocean - Ocean convergence: basalt and andesite (island arcs) 
+Ocean - Continent convergence: basalt, andesite, and rhyolite (Andes, Pac NW). 
+Why is this?
+Oceans: basalt and gabbro
+Continents: granite and other felsic rocks 
+Upper mantle: ultramafic (peridotite). 
+Asthenosphere is a primary source region for magma. Basalt is molten component of asthensophere, so felsic lavas must have another origin. 
+Possibilities: 
+remelt continent;
+remelt seds derived from these rocks and deposited on ocean (in subduction zones).
+"refine" basaltic magma through "differentiation" - olivine crystallizes first and settles to bottom. (could be used for making andesite, but rhyolite less likely). Note: In Iceland, the longer period between eruptions, the more felsic it is (more time for differentiation).
+Mitigation/Prediction?
+Death rate: 200,000 people/500 years 
+Property: St. Helens: 1 billion. Mt Rainier would be much more costly. 
+Precursors: EQs, tilt, tremor, heat flow, resistivity, magnetism (Curie temp): all related to magma flow. Exact moment of explosion difficult to predict, but intermediate term is good (much better than EQs). Case of Mammoth lakes: Long Valley Caldera - evidence of a mega-eruption about 100,000 years ago. Lots of activity suggest magma on the move. 
+Control: Cooling or redirecting of basaltic lava flows (Iceland: Heimaey in 1973).
+ 
+Effects can be predicted based on past experiences, however. 
+Some Benefits of Volcanoes:
+Exceptionally fertile soils 
+Sources of industrial materials: pumice, boric acid, ammonia 
+Thermal Energy (Italy, New Zealand, US, Mexico, Japan). 
+Clues to the Earth's interior, and its history. 
+Old Faithful
+Geothermal Electric Plant, North Island, New Zealand
+
+

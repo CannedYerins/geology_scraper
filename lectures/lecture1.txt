@@ -1,3 +1,5 @@
+===== intro_01.html =====
+
 
 Geo I 
 Humanity and the Earth: An Overview of Everything
@@ -14,6 +16,10 @@ between
 Processes at the Earth's Surface (GeoII)
 Processes within the Earth's Interior (GeoI)
 But of course these are related - the division is only for convenience.
+
+
+===== intro_02.html =====
+
 
 Geo I 
 Why study Geology?
@@ -38,6 +44,10 @@ Venues ranging from an office cubicle to the wilds of Central Asia.
 Geology is a very young science.  Most of what we understand was
 learned within the last 30 years.
 
+
+===== intro_03.html =====
+
+
 Geo I 
 Let's back up a bit and have a look at a general philosophical question:
 How do we "know" or "understand" things? And what exactly does that mean, 
@@ -58,6 +68,10 @@ Test those predictions by experiments or further observations and modify the hyp
 light of your results.  
 Repeat steps 3 and 4 until there are no significant discrepancies between theory and 
 experiment and/or observation.
+
+
+===== intro_03b.html =====
+
 
 Geo I 
 Why does this work so well in practice?  Because hidden in here (in step #3 - using the hypothesis
@@ -81,6 +95,10 @@ possible to fabricate multiple explanations for past events.   It is
 only when we successfully test our explanations against the passage of 
 time that we can say that we understand something.
 
+
+===== intro_03c.html =====
+
+
 Geo I 
 Note also that it isn't useful to make predictions that would be true even if the
 hypothesis was false.  A valid test of a hypothesis must include conditions
@@ -100,6 +118,10 @@ Newton's law of gravity and the existence of planets not yet observed predicted 
 other planets.
 Rates of plate motion deduced from magnetic stripes in the ocean floor.
 
+
+===== intro_03d.html =====
+
+
 Geo I 
 It is the goal of science to look for the "rules" we can use to make 
 predictions.  To the extent that they work, they become our best guess at what 
@@ -110,6 +132,10 @@ long as it makes successful predictions.
 Finally, note that just because something worked today doesn't mean it's
 going to work tomorrow.  There is no guarantee.  But putting your faith in 
 experiential rules is arguably the best you can do.
+
+
+===== intro_05.html =====
+
 
 Geo I
 An important concept:
@@ -125,6 +151,10 @@ always some chance that the model, no matter how used to it we are, could
 be wrong.
 Thus, in a sense, "scientific fact" is an oxymoron.
  This is one example of how imprecise use of words can get us into big trouble.
+
+
+===== intro_06.html =====
+
 
 Geo I
 So given an infinite number of explanations, what can you do? 
@@ -150,6 +180,10 @@ People who are not familiar with these ideas create the image of "scientific
 mavericks" who are squelched by the "establishment" and look for conspiracies
 in the retention of older models.
 
+
+===== intro_07.html =====
+
+
 Geo I
 Ok, let's go back over the BIG REASONS again:
 Big Reason #1:
@@ -167,6 +201,10 @@ Growing demand from developing societies;  Growing populations.
 We'll discuss the "supply side" of this equation at some length later
 in this course (and in greater depth in GeoII). Let's review some ideas
 about the "demand" side.
+
+
+===== intro_08.html =====
+
 
 Geo I
 Population: The Demand Side of the Equation
@@ -187,6 +225,10 @@ Because the number of births and deaths in a population can be expected
 to be proportional to the number of people in the population, the growth
 rate is proportional to that number as well, and thus we can talk about
 GR as a percentage (%/yr) or a fractional percentage (just %/100).
+
+
+===== intro_09.html =====
+
 
 Geo I
 Calculating Population Growth
@@ -209,6 +251,10 @@ P5 /P0 = (1.02)5 = 1.10
 and in 50 years time:
 P50 /P0 = (1.02)50 = 2.69
 
+
+===== intro_10.html =====
+
+
 Geo I/
 We often use as a benchmark the number of years it takes for a population
 to double (the Doubling Time)
@@ -225,6 +271,10 @@ GR = 1%, n ~ 70 years
 GR = 2%, n ~ 35 years
 Population growth at a given rate thus follows what is called a "J" curve.
 
+
+===== intro_11.html =====
+
+
 Geo I
 A Short History of Human Population Growth
 
@@ -240,6 +290,10 @@ average growth rate over this time period would be
 70/43000 = 0.0016% per year
 which is pretty meager.
 
+
+===== intro_12.html =====
+
+
 Geo I/
 The Agricultural Revolution
 With the introduction of agriculture at about 8000 BC, food supplies
@@ -250,6 +304,10 @@ The average doubling time would be about 1600 years, and the growth rate
 would be
 70/1600 = 0.044%
 a rate increase of about 20 times.
+
+
+===== intro_13.html =====
+
 
 Geo I
 The Industrial Revolution:
@@ -262,6 +320,10 @@ The average doubling time is 80 years, and the growth rate
 is
 70/80 = 0.875%
 or nearly 1% a year!
+
+
+===== intro_14.html =====
+
 
 Geo I/Planet Earth I
 Recent Past
@@ -276,6 +338,10 @@ in the last century or so, and a great part of it just within the past
 This creates a far greater demand on Earth resources than
 has ever before existed.
 
+
+===== intro_15.html =====
+
+
 Geo I
 A few more details about why and how the population has exploded
 in the last 100 years.
@@ -286,6 +352,10 @@ as follows:
 Stage 1. (Pre-Industrial)
 Birth rate is high, but so is the death rate, so the net growth rate remains
 small.
+
+
+===== intro_16.html =====
+
 
 Geo I
 Stage 2. (Transitional)
@@ -309,6 +379,10 @@ Better personal hygiene
 Better medical technology (immunizations, other health care)
 
 
+
+===== intro_17.html =====
+
+
 Geo I
 Stage 3. (Industrial)
 Birth Rate begins to drop, causing a declining GR. Reasons:
@@ -320,10 +394,18 @@ Medical - birth control/contraception
 Social - general acceptance of childless couples; women put off having
 children until they are late into child bearing years.
 
+
+===== intro_18.html =====
+
+
 Geo I
 Stage 4. (Post Industrial)
 Low birth and death rates (both < 2%) so that GR continues to decrease.
 Continued lowering of birth rate make GR <= 0.
+
+
+===== intro_19.html =====
+
 
 Geo I
 In terms of where they fit into this model, the world today can be divided
@@ -339,6 +421,10 @@ Less Developed Countries (LDC): those in stage 2: DR has dropped
 but BR remains high.
 AN IMPORTANT CONSEQUENCE: 90% of the future world population growth will
 be in LDC.
+
+
+===== intro_24.html =====
+
 
 Geo I
 POPULATION PROJECTIONS
@@ -378,6 +464,10 @@ Harvard biologist E.O. Wilson,
 is more than 100 times the biomass of any large animal that has ever walked the Earth.  We have been extraordinarily
 successful as a species.
 
+
+===== intro_27.html =====
+
+
 Geo I
 Big reason #2.
 Understanding the causes and effects of Natural Hazards
@@ -397,6 +487,10 @@ Earthquakes
 Storms (tornados, hurricanes, typhoons)
 Volcanic eruptions
 Tsunamis (tidal waves)
+
+
+===== intro_28.html =====
+
 
 Geo I/Planet Earth I
 By understanding Geology, we hope to determine
@@ -419,6 +513,10 @@ Are there times when it is better not to exploit a natural resourse?
 Only relatively recently did we begin to understand that sometimes the answer is "YES", the costs
 may far outweigh the benefits.
 
+
+===== intro_29.html =====
+
+
 Geo I
 Big reason #3:
 Understanding How the Earth "Works"
@@ -432,6 +530,10 @@ What does the interior of the Earth look like? What's under the surface?
 The questions have a lot of implications beyond the academic realm.  We have occupied the
 Earth for only a very brief time and we have yet to understand what Nature is capable of doing
 on our planet.
+
+
+===== intro_30.html =====
+
 
 Geo I
 A note on JARGON
@@ -457,3 +559,5 @@ investigates for as long as there have been people; many observations
 entered the vernacular before the underlying principals and connectivity
 were revealed. Something like having separate names for the different sides
 of a mountain.
+
+

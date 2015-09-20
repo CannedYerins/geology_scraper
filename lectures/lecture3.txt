@@ -1,0 +1,257 @@
+===== energy_01.html =====
+
+
+GeoI Lecture Notes Energy: The Basic Stuff of the Universe
+Geo I
+Energy
+The Basic Stuff of the Universe
+What is Energy?
+Generic Definition from a Geo I book: the capacity to produce
+activity.
+Also from the same book: Without energy, the Earth would be a
+lifeless planet.
+True enough, although without energy, there would be no planet, period.
+Richard Feynman, from The Feynman Lectures on Physics:
+"It is important to realize that in physics today, we have no knowledge
+of what energy is. We do not have a picture that energy comes in
+little blobs of a definite amount. It is not that way. However, there are
+formulas for calculating some numerical quantity, and when we add it all
+together it always gives the same number. It is an abstract thing in that
+it does not tell us the mechanism or the reasons for the various
+formulas."
+It's so basic, we don't really know what it is. Nevertheless, we have useful
+ways of talking about it.
+In a closed system, energy is the one thing that is always conserved.
+You cannot make it or destroy it. You can only change it from one type
+to another.  In fact, a useful way to think about energy is as a 
+"capacity for change".  Thus, it is quite useful to understand what different types
+of energy are and how one type changes to another.
+
+
+===== energy_02.html =====
+
+
+GeoI Lecture Notes Energy: The Basic Stuff of the Universe
+Units:
+Joule:
+The amount of work done when a mass of 1 kg is accelerated by 1 meter/second2
+over a distance of one meter.
+Calorie:
+Amount of energy required to raise the temperature of 1 gr of water by
+1 degree C.
+1 calorie = 4.183 Joules.
+Lifting a 5 lb bag of something off the floor and putting it on a table
+takes about 20 Joules of energy.
+
+
+===== energy_03.html =====
+
+
+GeoI Lecture Notes Energy: The Basic Stuff of the Universe
+Types of Energy:
+There are MANY types of energy. Here are the most important ones
+to remember:
+Atomic Energy:
+All mass, just by having mass, has energy. The relation is E = mc2.
+
+Energy is released when atoms decay (or split or fission) -> this is
+radioactivity
+or when they join together (fuse).
+Conversion of mass to energy results in a tremendous release of energy.
+Mushroom Cloud over Nagasaki
+Kinetic Energy:
+Mass can increase its energy by moving (having a non-zero velocity).
+
+The relation is 0.5 mv 2
+Potential Energy:
+It is possible to store energy in certain situations, such as when a "potential field" 
+(e.g., gravitational or electromagnetic) is present.  This kind of energy
+is called "potential energy" because it has the potential to be converted
+so some other form of energy and do work.  For example, 
+it requires energy (or work) to move about in a gravitational field. As
+you move to regions of higher or lower gravity, you loose or gain "potential"
+energy  (it can be converted to and from kinetic energy).
+
+
+===== energy_04.html =====
+
+
+GeoI Lecture Notes Energy: The Basic Stuff of the Universe
+Heat Energy:
+Actually is a kind of kinetic energy at the molecular level. If molecules/atoms
+move at a particular speed, they are associated with a certain temperature.
+The more of these particles you have moving about, the more HEAT you have.
+Note that it is possible to have high temperatures with not much heat,
+and low temperatures with a lot of heat. How is this possible?
+Heat is a very important part of understanding how the Earth works.
+Heat can be transferred by Conduction, Convection, and Radiation
+Conduction:
+particles bounce off their neighbors and make them move as well. This is
+a very slow process.
+
+Convection:
+The hot particles move in a wholesale fashion and physically mix with the
+cold ones. This is quite efficient in heat transfer.
+Radiation:
+Moving particles emit electromagnetic radiation. Why? Because they have
+and electrical charge, and all moving charges generate electrical fields.
+It turns out that for many materials, heat-induced motion occurs at frequencies
+in the infra-red range (just below visible). When EM radiation of this
+type hits other molecules, it causes them to vibrate in the "heat" mode,
+and thus "heat energy" is transferred.
+Question: Can heat travel through a vacuum?
+
+
+===== energy_04.1.html =====
+
+
+GeoI Lecture Notes Energy: The Basic Stuff of the Universe
+A Bit More about Radiation of Heat:
+Radiation is in most cases the most efficient way to transfer heat energy.  It
+is important in everything from cooking to heating a building to global warming.
+Here are some details about how this works.
+Radiation occurs in the form of Electromagnetic (EM) Waves (although
+one can also think in terms of particles - photons).  Let's stick with
+waveas and begin by reviewing some basics.  Here is a generic wave:
+It is also helpful to think in terms of water waves (such as one might
+produce with a pebble toss).
+The vertical axis is an amplitude or displacement of some sort, but the
+horizontal axis can be either time or distance.
+If it is distance, the distance between two peaks or troughs is called
+the wavelength.
+If it is time, the time between two peaks or troughs is called the
+period (T).  The inverse of the period is the frequency
+(f = 1/T).  The units of frequency are usually cycles per second or
+Hertz (Hz).  If we were to stand in one place, the frequency would tell
+us how many peaks would pass by us in one second.
+The wave shown above is monochromatic meaning it has only one
+frequency.  Most waves in nature are composed of many frequencies (a
+spectrum) superimposed on top of each other - the result can
+look much more complicted than the picture above.Nevertheless, it is
+very useful to discuss what happens to waves at individual
+frequencies.
+Wavelengths and frequencies are related by the speed of the wave as follows:
+L = vT = v/f
+Thus, a wave with a certain frequency will have a long wavelength at high speeds
+and a short wavelength at slow speeds.  For EM radiation in space, v is the speed
+of light (3 x 108 m/sec).
+BTW - Why does wavelength change and not frequency with change of speed?
+The EM spectrum is very broad:
+Note that visible light is a very small part of the total spectrum.
+Now, when EM radiation encounters an object, three things can happen:
+Transmission - the energy just passes on through.  An example is visible light through glass.  What happens
+is that the frequencies of visible light are not the same as those in which the electrons in the glass like
+to oscillate, so the light just passes on through without being absorbed. Note that glass is opaque to UV and
+IR, however.
+Reflection - the energy "bounces off".  An example is light from a shiny metal object.  Metals have 
+free electrons (that is why they conduct electricity so well) and when EM energy is incident upon them they
+easily oscillate at the same frequency and instantly re-radiate (reflect) the energy).
+Absorption - all the energy from the EM radiation is captured by the body.  Some materials have a few
+free electrons which can oscillate at the appropriate frequencies, but they bump into things and cause them
+to vibrate (heat up).  Thus the free electrons transfer the incident EM radiation into vibration.
+Bodies that are good at absorbing EM are also good at radiating it back out, since the process of radiation
+is just the opposite of absorption.  The best
+(ideal) object at absorption is the "blackbody" and we use this as a standard to discuss
+how bodies radiate energy.
+The first thing to know is that the power (rate of energy) a body radiates depends only on 
+its temperature. This is known as the Stefan-Boltzman relation:
+Second, the spectral content of the radiated energy also depends on temperature:
+The shift in peak wavelength with temperature is called Wien's law or "Wien's Displacement":
+This tells us that as a body gets hotter, the maximum shifts to shorter wavelengths or
+higher frequencies.  This is why, for example, materials begin to glow red, then orange and yellow, as they get hotter.  At high enough temperatures all the visible part of the spectrum will be emitted, and the body
+will appear white (hence "white hot").
+We can be more precise about the shape of these curves by using Planck's law:
+which is based on the idea of EM energy existing in discrete packets.  It seems to
+work very well.
+The Earth and the Sun both behave pretty much like blackbodies.  The
+surface of the sun has a temperature of about 6000 K, the Earth is about
+280 K.  The radition we get from the Sun thus looks like this:
+Note that the peak emission is in the middle of the visible part of the spectrum.  Isn't
+that convenient?  Nevertheless, nearly 50% of the total power is infrared (40% is visible
+and 10% is UV).
+The Earth absorbs some percentage of this energy and re-radiates it.
+Because the Earth is at a lower temperature, Wein's law tells us the
+the radiated energy will be a a lower frequency (longer wavelength).
+It looks like this:
+The problem is that, at this longer wavelength, certain gasses (like
+CO2) tend to reflect or absorb this energy rather than
+transmit it, making it difficult for the Earth to loose this energy to
+space.  Becuase this phenomenon is essentially what happens in
+greenhouses (remember how glass is relatively opaque to IR?), this is commonly
+known as the "greenhouse effect" and gasses like CO2 are
+called "greenhouse gasses".
+Cooking:
+Ovens work by a combination of conduction and radiation.  Because radiation is a very
+efficient way of heating (it heats the recipient of the radiation directly, without
+a medium), you need to be careful that you are not radiating heat when you desire
+a slow cook.  Thus, you should always preheat an oven before baking, but put steak
+near a radient source when broiling.
+Home heating:
+Again, because radiation does not bother with heating up a medium, it generally is
+much more efficient in large rooms than, for example, forced hot air.
+How to make a good thermos:
+A good thermos will have a vacuum between the inner container and the outer container,
+and will also have a silver lining on the inside.  Why do you suppose this is?
+
+
+===== energy_05.html =====
+
+
+GeoI Lecture Notes Energy: The Basic Stuff of the Universe
+Where does the Energy we have on Earth come from?
+There are three main sources:
+Radiation from the Sun
+Radioactive decay and release of gravitational potential energy in the interior of the Earth
+Tidal (gravity) forces from the Sun and Moon
+How these work:
+Solar Energy:
+The Sun releases energy through Atomic Fusion (H -> He) and sends it off
+through space as EM waves, predominantly at the frequency of yellow light.
+A small fraction (about one half of a billionth) of this energy encounters the Earth.
+40% is reflected back into space
+20% absorbed by the atmosphere
+40% absorbed by rocks and seawater
+0.1% used by plants in photosynthesis.
+Energy absorbed by the land and sea is responsible for evaporation and
+wind
+Interior Energy:
+Temperature increases with depth in the crust at about 30 degrees/km (with
+a lot of variation). About half of this is due to radioactive decay of elements
+within the earth. The other half is due to primorial heat from
+the formation of the planet and the differentiation of the core.
+The total heat flow per unit area is small ( about 6.3 x 10-6 J/cm2/s)
+but, when integrated over the entire Earth, is large (2700 billion J/s).
+Some animals make their living solely on heat derived from the Earth's
+interior (e.g., tube worms).
+Tidal Energy:
+As the Sun and Moon orbit the Earth, they cause it to deform (bulge), which,
+for example, creates tides.  Note that the solid earth deforms by about 
+30-40 cm (depends on latitude) twice a day.  Ocean tides reach extreme values
+of 12-15 meters in places like the Bay of Fundy.  Question: why are there two
+tides and why is one bigger than the other? Related Question: why is it hot
+in the summer?
+These tides represent a transfer of energy to the Earth from the gravitational
+fields of the sun and moon.
+Tidal friction is causing the Earth to slow down at a rate of about
+2.3 milliseconds per century. 570 mya, the day was
+only about 20.5 hours long!
+
+
+===== energy_06.html =====
+
+
+GeoI Lecture Notes Energy: The Basic Stuff of the Universe
+Comparison of magnitudes:
+Source
+NRG in one day (Joules)
+Solar
+15.5 x 1021
+Internal
+27.6 x 1017
+Tides
+2.5 x 1017
+Note: In large scale earth processes, solar energy provides the
+juice for the destructive forces (erosion) while the internal energy supplies
+the creative forces (tectonism).
+
+

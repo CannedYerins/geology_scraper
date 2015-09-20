@@ -1,0 +1,1003 @@
+===== minerals_01.html =====
+
+
+GeoI Lecture Notes Minerals: The building blocks of Rocks
+Geo I
+Minerals
+The building blocks of Rocks
+We now begin to discuss the nature of the stuff the Earth (and other
+planets) is made of. Let's start at the most elementary level and work
+our way up. The line between energy and particle is vague, but for this
+course we will not worry about phenomena at the subatomic level.
+So, let's review a bit about ATOMS and ELEMENTS.
+Definitions:
+ELEMENT
+The most fundamental substance into which matter can be separated by chemical
+means. There are 104 of these we know about, 88 of which occur naturally.
+ATOM
+The smallest individual particle that retains all the properties of a given
+element.
+
+
+===== minerals_02.html =====
+
+
+GeoI Lecture Notes Minerals: The building blocks of Rocks
+ATOMIC STRUCTURE
+Atoms are composed of PROTONS, NEUTRONS, and ELECTRONS.
+PROTONS and NEUTRONS combine to form the nucleus.
+ELECTRONS orbit about the nucleus.
+Protons are positively charged, electrons negatively charged. Neutrons
+have no charge.
+A Proton is 1832 x more massive than an electron
+A Neutron is 1833 x more massive than an electron
+Thus, nearly all the mass of any atom resides in the nucleus.
+Note that 1 amu (atomic mass unit) = 1.660551 x 10-24g.  It is defined
+so that 12C has a mass of exactly 12 amu.
+
+
+===== minerals_03.html =====
+
+
+GeoI Lecture Notes Minerals: The building blocks of Rocks
+The most important chemical characteristics of an atom (i.e., what makes
+it a certain "element") is controlled by the number of protons in the nucleus.
+This number is called the element's ATOMIC NUMBER.
+However, the same element can have different numbers of neutrons. These
+variations are call ISOTOPES.
+All elements have at least two isotopes.  Most have many more .
+The atomic mass unit that appears in the periodic table is an average over isotopic
+abundances for that element.
+Most elements have a single isotope that is stable, while the others
+decay (i.e. they loose part of the nucleus to become a different isotope
+or a different element). The decay of isotopes is a powerful tool in geologic
+dating.
+It is the decay (radioactivity) of atoms that is responsible for most
+of the heat that is generated inside the Earth.
+The sum of protons and neutrons in the nucleus is called the MASS
+NUMBER.
+There are four types of elements based upon their properties:
+metals 
+nonmetals 
+metalloids 
+noble gases 
+A metal is an element that is a good conductor of heat and
+electricity. All metals are solid at room temperature except for
+mercury, which is a liquid. Metals are found on the left side of the
+periodic table. In addition to being good conductors of heat and
+electricity, metals have the following properties:
+luster (they are shiny) 
+ductile (they can be drawn out into a thin wire) 
+malleable (they can be hammered or rolled into thin sheets, like aluminum foil) 
+good reflectors of heat and light 
+high tensile strength (they resist breaking when pulled) 
+A nonmetal is an element that is a poor conductor (insulator) of heat and
+electricity.  At room temperature, some are gases, like oxygen, chlorine,
+and nitrogen, and one is a liquid, bromine. Solid nonmetals, like
+carbon, sulfur, and phosphorus are not malleable nor ductile, but
+instead are brittle and break easily. Nonmetals are generally found on
+the right side of the periodic table.
+Metalloids are elements that have some properties characteristic of
+metals and others characteristic of nonmetals. All metalloids are
+solids under ordinary conditions. Some metalloids, like arsenic and
+antimony, look like lustrous metals. All metalloids are semiconductors.
+Semiconductors are those elements which conduct electricity better than
+nonmetals, but not as good as metals. Semiconductors, like silicon, are
+being used in everyday devices like digital watches, handheld
+calculators, and computers.
+Noble gases are all gases at room temperature and are highly
+unreactive. They are located at the far right of the periodic table in
+Group 18. These gases are helium, argon, krypton, xenon, and radon.
+
+
+===== minerals_04.html =====
+
+
+GeoI Lecture Notes Minerals: The building blocks of Rocks
+About Electrons
+In order to understand the chemistry of elements (how they react with one another)
+the most important bit to understand how their electons behave.  A good chemist knows
+how to "think like an electron".
+Electrons orbit the nucleus in certain "shells", each of which is capable
+of accommodating a particular number of electrons. For example:
+Shell #
+# Electrons
+1
+2
+2
+8
+3
+18
+4
+32
+Some details:
+Most of this stuff was worked out by Erwin Schrdinger, who deduced
+the mathematical relationships to calculate the energies of the
+electrons based on the orbitals that electrons inhabit. 
+To describe the
+energy for each electron, he distinguished each individual
+electron from the others using a set of parameters called quantum
+numbers.
+There are four different quantum numbers that are defined for each electron:
+principle quantum number, n = 1,2,3, ...
+	
+defines the principle energy levels of an atom
+orbital quantum number, l = 0, 1, ... , n-1
+	
+describes the shape of the orbital the electron is in
+magnetic quantum number, m = -l, ... -1, 0, 1, ... , +l
+	
+describes the direction in which the orbital points
+spin quantum number, s = +1/2 or -1/2
+	
+defines which particular electron in an orbital you have
+The value of the orbital quantum number also has a letter associated with it; the shape of the orbital is associated with that letter:
+l = 0 s orbital (sphere shaped)
+l = 1 p orbital (propeller shaped)
+l = 2 d orbital (daisy shaped)
+l = 3 f orbital (f? shaped)
+Each unique orbital, which is described by unique values of n, l, and m
+in a given atom, can contain up to two electrons. So we need a method
+to differentiate between those two electrons in each orbital; for this
+we use the spin quantum number s. The first electron in the orbital has
+a value of s = +1/2 and the second electron in the orbital has a value
+of s = -1/2.
+The Pauli Exclusion Principle states that no two electrons can have the
+exact same set of four quantum numbers. That is, if two electrons are
+in the same orbital (and thus have identical values of n, l, and m),
+they must differ in the value of the spin quantum number s. One must
+have s=+1/2 and the other s=-1/2.
+The Aufbau Principle states that an electron will occupy the lowest energy orbital that can receive it.
+This allows us to figure out where electons will be, but in general this is
+a difficult calculation.  A good mneomnic device is the following (but note it doesn't
+work in every instance):
+Valence electrons are the electrons in the highest principle energy
+level and they determine many important properties of an atom.
+Atoms want to be more stable and be lower in energy. The Octet Rule
+describes what happens in order for an atom to become stable: atoms
+will gain, lose, or share electrons so that they have a complete octet
+in their valence shell (note that means that the s and p subshells are full). 
+The reason why the octet rule works is based on
+the idea that atoms are lower in energy and more stable when they have
+a complete octet in their valence shell. Since only the noble gases
+have full s and p subshells in their outer shells, 
+that leaves a lot of atoms without stability.
+In order to become stable and have a full valence shell, atoms form
+chemical bonds with other atoms.
+There are three basic types of bonds: ionic bonds, covalent bonds, and
+metallic bonds. The type of chemical bond that arises between two atoms
+depends on the difference in the ability of an atom to retain or
+attract an electron (a property also known as "electronegativity")
+between the two atoms.
+Atoms with excess positive or negative charges are called IONS.
+An atom that gives up electrons (and thus has a net + charge) is called
+a CATION
+An atom that takes electrons (and thus has a net - charge) is called
+an ANION
+Sometimes several atoms join together to make an ion.  These are called
+Polyatomic Ions. 
+An ionic bond is a chemical bond resulting from electrostatic
+attraction between positive and negative ions. In ionic bond, electrons
+are totally transferred from one atom and given to another atom,
+creating positively charged cations and negatively charged anions. Each
+cation and anion has lost or gained electrons so that they have
+complete valence-shell octets; these ions are then held together by the
+electrostatic force between positive and negative charges. Ionic bonds
+most often occur between metal atoms (which have small
+electronegativities and easily lose electrons) and nonmetal atoms
+(which have large electronegativities and easily gain electrons).
+A covalent bond is a chemical bond resulting from the sharing of
+electrons between two atoms. Atoms that share electrons both believe
+that they "own" the electrons that they are sharing. In this way, each
+atom believes that they have a complete octet.  The electrons are
+considered to be part of both atoms and the attractive force of each
+nucleus for the pair of electrons between the atoms holds the atoms
+together. Covalent bonds usually occur between two nonmetal atoms.
+Note that some bonds result in a compound being polarized meaning that they
+are not electrically neutral.  Water, for example, is negative on the oxygen
+end, and positive on the hydrogen end.  The
+small hydrogens also allow them to pack together and make liquid water denser than solid
+water (ice).
+For the same reason, water is a very good solvent 
+(i.e., it can dissolve things) and is good at cleaning dirt off your hands.  The
+small hydrogens also allow them to pack together and make liquid water denser than solid
+water (ice).
+BTW:  Polar compounds dissolve other polor compounds, but for non-polar compounds
+you need another non-polor solvent.  To get grease and oil off your hands, a "handy"
+compound  sodium stearate:
+which is a common soap.  The non-polar end grads the oil and grease, the polar end
+grabs the water.
+A metallic bond is a chemical bond resulting from the attraction
+between positive ions and surrounding mobile electrons. A metallic bond
+is a special type of nonpolar covalent bond that exists only between
+metal atoms.
+The mobile electrons in a metallic bond are referred to as an "electron
+sea". You can imagine the positively charged nuclei as "islands" that
+exist within this sea of electrons. The electrons are delocalized,
+which means that they do not belong to any particular ion, and are free
+to move around to whichever ion they please. The electrons are
+therefore able to flow, much like the sea does. The metallic bond
+consists of all of the valence electrons being shared by all of the
+atoms.
+Compounds made of Carbon and Hydrogen (possibly with O and N) are called
+ORGANIC. Everything else, is thus INORGANIC.
+Most of the Earth is made of inorganic compounds.
+
+
+===== minerals_05.html =====
+
+
+GeoI Lecture Notes Minerals: The building blocks of Rocks
+Now here is where things get a bit complicated.
+In addition to "composition", many compounds (solid ones, anyway)
+have "structure".  For example, NaCl looks like this:
+The molecules tend to be aligned in a very specific way, although one
+compound may have several stable structures (these are called "polymorphs").
+It doesn't do to simply identify a substance by the atoms that make
+it up; there has to be some structural identification as well.
+This is where Minerals come in.
+Here's a definition:
+Mineral:
+Any naturally formed, solid, chemical substance having a definite chemical
+composition and a characteristic crystal structure.
+That just about gets it.
+
+
+===== minerals_06.html =====
+
+
+GeoI Lecture Notes Minerals: The building blocks of Rocks
+Example of a polymorph:
+
+SiO2 can be Quartz, Cristobalite, Tridymite, Coesite, or
+Stishovite.
+Quartz
+Stishovite
+Compounds without structure are called "amorphous" and are not minerals
+(examples: resins, glasses).
+A note on how structures form:
+A lot of what controls how solids are put together depends on the size
+of the ions involved. In a sense, it's just like stacking up boxes of different
+sizes; certain optimal configurations will emerge.
+Note that the size of an ion (quantified by the ionic radius) will in general
+be different from the size of the atom (quantified by the atomic radius).  Size
+is governed by:
+nuclear charge effect:  more protons in a nucleus draw electrons in closer
+radius effect: outer shells of electrons are farther away from the protrons and are less attracted.
+shielding effect:  inner shell electrons neutralize the charge from the nucleus 
+sublevel effect: the tendency of atoms to gain or loose electrons to obey the octet rule.
+ATOMIC RADIUS VS ATOMIC NUMBER
+IONIC RADIUS VS ATOMIC NUMBER
+In general, anions (extra electrons) are bigger than cations, so a structure
+often depends on how the anions are packed together.
+Cations of the same size often displace or substitute for each other.
+For example Fe (0.83 nm) and Mg (0.78 nm).
+
+
+===== minerals_07.html =====
+
+
+GeoI Lecture Notes Minerals: The building blocks of Rocks
+So many minerals, so little time.
+Although there are 88 naturally occurring elements, only a very few
+are abundant in the crust. The most important of these are Oxygen, Silicon,
+Aluminum, Iron, Calcium, Magnesium, Sodium, and Potassium, Titanium, Hydrogen,
+Manganese, and Phosphorus. Together these 12 make up 99% of the crust.
+Two of these (O and Si) account for 72%. Similarly, about 20 minerals
+make up > 95% of the crust.
+Because Oxygen is so abundant, almost all the important minerals contain
+it, either as Oxides (with a O-2 attached) or with polyatomic ions
+like
+ (SiO4)-4
+Silicates
+ (SO4)-2
+Sulfates
+ (PO4)-2
+Phosphates
+ (CO3)-2
+Carbonates
+
+
+===== minerals_08.html =====
+
+
+GeoI Lecture Notes Minerals: The building blocks of Rocks
+But by far the most important of these is the
+SILICATES (SiO4)-4.
+The silicate anion has the shape of a tetrahedra, with the big O's in
+the corners and the relatively tiny Si in the middle.
+All the variety of the Silicates depends mostly on how these tetrahedra
+stack together.
+Here's what can happen:
+Individual tetrahedra are separate from one another, and are linked by
+other cations
+Adjacent tetrahedra can share an O. In this way, the tetrahedra can join
+together in long chains called POLYMERS.
+We divide the Silicate Class of minerals into 6 subclasses based on the
+arrangement of the silica tetrahedra:
+SubclassStructureImportant Mineral Groups
+NesosilicatesSingle TetrahedronsOlivineGarnet
+SorosilicatesDouble TetrahedronsEpidote
+InosilicatesSingle and Double ChainsPyroxene (single)Amphibole (double)
+CyclosilicatesRingsTourmaline
+PhyllosilicatesSheetsMicaClay
+TectosilicatesFrameworkQuartzFeldsparFeldspathoid
+Of these, the Sorosilicates are quite rare and the Cyclosilicates are somewhat less important than
+the others, so we won't discuss these further in this lecture (they make nice gemstones, however).
+
+
+===== minerals_09.html =====
+
+
+GeoI Lecture Notes Minerals: The building blocks of Rocks
+The Nesosilicates
+This subclass includes all silicates where the tetrahedrons are unbonded to
+other tetrahedrons. Nesosilicates have a structure that produces stronger bonds
+and a closer packing of ions and therefore a higher density, index of
+refraction and hardness than chemically similar silicates in other subclasses.
+Consequently, There are more gemstones in the nesosilicates than in any other
+silicate subclass.
+Two very important mineral groups (because they are so abundant) in this
+category are OLIVINE and GARNET.
+OLIVINE has Mg and Fe as cations. Formula is (Mg, Fe)2SiO4.
+Olivine is greenish in color (hence the name).
+GARNET is a bit more complicated. Its formula is A3B2(SiO4)3
+where
+A = Mg+2, Fe+2, Ca+2, and/or Mn+2
+B = Al+3, and or Fe+3
+Garnet and Olivine are the most important minerals in the upper mantle.
+OLIVINE STRUCTURE
+The Olivine Group:
+Fayalite* (Iron Silicate) 
+Forsterite* (Magnesium Silicate) 
+Laihunite (Iron Silicate) 
+Liebenbergite (Nickel Magnesium Silicate) 
+Olivine* (Magnesium Iron Silicate ) 
+Tephroite (Manganese Silicate)
+OLIVINE
+The Garnet Group: 
+Almandine* (Iron Aluminum Silicate) 
+Andradite (Calcium Iron Silicate) 
+Grossular (Calcium Aluminum Silicate) 
+Pyrope* (Magnesium Aluminum Silicate) 
+Spessartine (Manganese Aluminum Silicate) 
+Uvarovite (Calcium Chromium Silicate) 
+GARNET
+
+
+===== minerals_10.html =====
+
+
+GeoI Lecture Notes Minerals: The building blocks of Rocks
+The Inosilicates
+ This subclass contains two distinct groups: the single chain and double chain
+silicates. 
+Single Chains
+In the single chain group the tetrahedrons share two oxygens with two
+other tetrahedrons and form a seemingly endless chain. The ratio of silicon to
+oxygen is thus 1:3. The tetrahedrons alternate to the left and then to the right
+along the line formed by the linked oxygens although more complex chains seem to
+spiral. In cross section the chain forms a trapezium and this shape produces the
+angles between the crystal faces and cleavage directions.
+The most important group in the single chain class are the:
+PYROXENES: Polymerization along a single chain. Cations bind one
+chain to another.
+Formula: AB(SiO3)2
+A and B = Mg+2, Fe+2, Ca+2, and/or Mn+2
+PYROXENE (Augite)
+The Pyroxene Group:
+Aegirine (Sodium Iron Silicate) 
+Augite* (Calcium Sodium Magnesium Aluminum Iron Titanium Silicate) 
+Diopside (Calcium Magnesium Silicate) 
+Enstatite (Magnesium Silicate) 
+Hedenbergite (Calcium Iron Silicate) 
+Hypersthene (Magnesium Iron Silicate) 
+Jadeite (Sodium Aluminum Iron Silicate) 
+Spodumene (Lithium Aluminum Silicate) 
+Double Chains
+In the double chain group, two single chains lie side by side so that all the
+right sided tetrahedrons of the left chain are linked by an oxygen to the left
+sided tetrahedrons of the right chain. The extra shared oxygen for every four
+silicons reduces the ratio of silicons to oxygen to 4:11. The double chain looks
+like a chain of six sided rings. The cross section is similar in the double
+chains to that of the single chains except the trapezium
+is longer in the double chains. This difference produces a difference in 
+characteristic angles.
+The most important group in the double chain class are the:
+AMPHIBOLES: Polymerization along "double chains"; really just two
+pyroxene chains that join together by sharing an extra O.
+Formula: A2B5(Si4O11)2(OH)2
+(Whew!)
+A = Mg+2,Ca+2
+B = Mg+2, Fe+2
+Note that Amphibole is hydrated (with the OH on it).
+Amphibole (Hornblende)
+The Amphibole Group:
+Actinolite (Calcium Magnesium Iron Silicate Hydroxide) 
+Anthophyllite (Magnesium Iron Silicate Hydroxide) 
+Cummingtonite (Iron Magnesium Silicate Hydroxide) 
+Edenite (Sodium Calcium Magnesium Iron Aluminum Silicate Hydroxide) 
+Hornblende* (Calcium Sodium Magnesium Iron Aluminum Silicate Hydroxide) 
+Riebeckite (Sodium Iron Silicate Hydroxide) 
+Tremolite (Calcium Magnesium Iron Silicate Hydroxide) 
+Because the O bonds are much stronger than the cation bonds, these types of
+minerals exhibit planes of weakness, or "cleavage", along which they can be
+broken and form very flat surfaces. The cleavage of the two groups occurs between
+chains and does not break the chains thus producing prismatic cleavage.
+Pyroxene Cleavage
+Amphibole Cleavage
+
+
+===== minerals_11.html =====
+
+
+GeoI Lecture Notes Minerals: The building blocks of Rocks
+The Phyllosilicates
+In this subclass, chains of tetrahedra are linked by shared oxygens to other chains in a
+two dimensional plane that produces a sheet-like structure. The silicon to oxygen ratio
+is generally 1:2.5 (or 2:5) because only one oxygen is exclusively bonded to the silicon
+and the other three are half shared (1.5) to other silicons. The typical crystal habit of
+this subclass is therefore flat, platy, book-like and displays good basal cleavage.
+Typically, the sheets are then connected to each other by layers of cations. These cation
+layers are weakly bonded and often have water molecules and other neutral atoms or
+molecules trapped between the sheets. This explains why this subclass produces very soft
+minerals such as talc, which is used in talcum powder. Some members of this subclass have
+the sheets rolled into tubes that produce fibers as in asbestos serpentine. 
+Important mineral groups are: CLAYS and MICAS
+These minerals show a characteristic "flaking". Formulas are complicated,
+but involve
+(Mg,Fe,K)(Si,Al)O(OH)
+BIOTITE
+MUSCOVITE CLEAVAGE
+The Clay Group:
+The Chlorite Group: 
+Chlorite* (Iron Magnesium Aluminum Silicate Hydroxide) 
+Clinochlore (Iron Magnesium Aluminum Silicate Hydroxide) 
+Cookeite (Lithium Aluminum Silicate Hydroxide) 
+Kaolinite* (Aluminum Silicate Hydroxide)
+Pyrophyllite (Aluminum Silicate Hydroxide) 
+Talc* (Magnesium Silicate Hydroxide) 
+The Mica Group:
+Biotite* (Potassium Iron Magnesium Aluminum Silicate Hydroxide Fluoride) 
+Lepidolite (Potassium Lithium Aluminum Silicate Hydroxide Fluoride) 
+Muscovite* (Potassium Aluminum Silicate Hydroxide Fluoride) 
+Phlogopite* (Potassium Magnesium Aluminum Silicate Hydroxide Fluoride) 
+Zinnwaldite (Potassium Lithium Aluminum Silicate Hydroxide Fluoride) 
+
+
+===== minerals_12.html =====
+
+
+GeoI Lecture Notes Minerals: The building blocks of Rocks
+Finally, we have
+The Tectosilicates
+This subclass is often called the "Framework Silicates" because its structure
+is composed of interconnected tetrahedra going outward in all directions
+forming an intricate 3D framework analogous to the framework of a large building.
+In this subclass all the oxygens are shared with other tetrahedrons giving a
+silicon to oxygen ratio of 1:2.
+These are among the most common minerals around (i.e., the ones you'll most
+likely run into.  The most important groups are QUARTZ and FELDSPARS.
+QUARTZ: Is pure SiO2 and forms clear, 6-sided crystals.
+However, some quartz is very fine grained and the 6-sided guys are hard
+to see (e.g., various chalcedony - agate, flint and jasper). Others include
+impurities that lend brilliant colors (e.g., amethyst, citrine). Quartz
+is very abundant in upper continental crust.
+Quartz Crystals
+Quartz Varieties: Milky, Rock Crystal, Rose Quartz
+Member of the Quartz Group:
+Coesite 
+Cristobalite 
+Quartz*
+Stishovite
+Tridymite 
+FELDSPARS (Field minerals); also very common in the crust.
+Feldspar differs from Quarts in that Al may substitute for Si (hence
+"sialic"), although and extra cation is required to balance the charge
+(Al+3 instead of Si+4). Typically this extra cation
+is:
+K
+In which case we have "Potassium Feldspar" (a.k.a. K-spar). Polymorphs
+are Orthoclase, Microcline, Sanadine.
+Na
+In which case we have "Albite"
+Ca
+In which case we have "Anorthite".
+The general term for the Na and Ca bearing Feldspar is PLAGIOCLASE.
+Ca and Na are about the same size, and substitute for each other in a continuous
+series. (The substitution is actually Na + Si for Ca + Al to balance the
+charge.)  At high enough temperatures, there is a subsitutions between Na and
+K, producing the ALKALI FELDSPARS.
+Orthoclase Feldspar
+Plagioclase Feldspar
+Because feldspar types depend on the amount and type of cation involved, we
+summarize the compositional types in a triangular plot.  These types of plots
+are used very often in Geology.  Here's an example of
+one and how to read it:
+Solid Solution - Plagioclase
+The Na+ and Ca2+ ions are of a similar size, whereas the K+ ion is
+somewhat larger. Thus there is a continuous solid solution between the
+two end members of the plagioclase series, with a coupled substitution
+of (NaSi)5+ for (CaAl)5+. Although the solid solution is continuous,
+the following mineral names have been assigned according to the
+percentage of anorthite
+Albite - An 0-10 
+Oligoclase - An 10-30 
+Andesine - An 30-50 
+Labradorite - An 50-70 
+Bytownite - An 70-90 
+Anorthite - An 90-100 
+An andesine plagioclase where the cation sites are filled by 65% Na and
+35% Ca would have the formula of Na0.65Ca0.35Al1.35Si2.65O8
+Solid Solution - Alkali feldspars
+At high temperatures, there is sufficient movement in the crystal
+lattice to allow the incorporation of the large K cation, and there is
+a continuous solid solution betwen the Na and K end members. Names
+assigned to the series are
+Albite >90% Na 
+Anorthoclase 90-50% Na 
+Sanidine 50-0% Na 
+At lower temperatures, the sodic and potassic components unmix from
+each other and form separate feldspar structures, which are intimately
+intergrown, rather than a solid solution. The result is an intergrowth
+of thin "stringers" of albite within an orthoclase host, which is
+termed "Perthite". The opposite arrangement, of orthoclase stringers in
+an albite host, is called antiperthite, but is much rarer, as the Na
+cation is smaller and more mobile and forms the albite stringers more
+readily.
+Summary of Members of the Feldspar Group:
+The plagioclase feldspars:
+Albite (Sodium aluminum silicate) 
+Oligoclase (Sodium calcium aluminum silicate) 
+Andesine (Sodium calcium aluminum silicate) 
+Labradorite (Calcium sodium aluminum silicate) 
+Bytownite (Calcium sodium aluminum silicate) 
+Anorthite (Calcium aluminum silicate) 
+The K-feldspars or alkali felspars:
+Microcline (Potassium aluminum silicate) 
+Sanidine (Potassium sodium aluminum silicate) 
+Orthoclase (Potassium aluminum silicate) 
+Finally, there is a kind of oddball group called the Feldspathoids.  As
+the name suggests, they are kind of like Feldspars, but have much more Al
+than normal Feldspars.  The aluminum to silicon ratio is nearly 1:1 in
+most of the feldspathoids but is closer to 1:3 in most of the feldspars.  One
+might gather that these minerals formed in an environment deficient in silica
+and would have become Feldspars had more silica been present.
+Members of the Feldspathoid Group:
+Cancrinite (Sodium Calcium Aluminum Silicate Carbonate) 
+Lazurite (Sodium Calcium Aluminum Silicate Sulfate Sulfide Chloride) 
+Leucite (Potassium Aluminum Silicate) 
+Nepheline* (Sodium Potassium Aluminum Silicate) 
+Sodalite (Sodium Aluminum Silicate Chloride) 
+
+
+===== minerals_13.html =====
+
+
+GeoI Lecture Notes Minerals: The building blocks of Rocks
+A few other mineral groups of major interest:
+Sulfides
+Commercially important and exploited as metal ores since ancient times. Valued by the Roman legions.
+Examples: Pyrite (FeS2), Galena (PbS), Sphalerite (ZnS)
+Pyrite (FeS2)
+Galena (PbS)
+Sphalerite (ZnS)
+Carbonates
+The carbonates are common constituents of the earth's near-surface crust.  The
+basic anionic (negatively charged) unit of this class consists of a triangle
+with a carbon atom at the center and an oxygen atom at each corner. This
+trigonal symmetry is usually expressed macroscopically. 
+Typical carbonates are transparent, lightly colored with a white streak,
+average to above average density, soft with good to perfect cleavage, soluble
+to at least some degree in acidic solutions, and tend to originate in
+sedimentary and oxidizing environments with the exception of carbonatite
+igneous intrusions. Most of these common characteristics are due to the common
+chemistry the group shares.  Members that diverge from the norm do so because
+of the effects of metal cations such as lead, copper, manganese and iron.
+The most important carbonate groups are the Aragonites, the Calcites and
+the Dolomites.
+Aragonites and Calcites both have the formula ACO3 where A is a +2 metal
+cation, but slightly different structures.   Aragonite cations (Calcium, barium, lead and/or
+strontium)) are smaller than Ca (or Ca itself) while the Calcite cations (calcium, cobalt, iron,
+magnesium, zinc, cadmium, manganese and/or nickel) are larger than Ca (or Ca itself).  Note that
+this means that CaCO3 can have either an Aragonite or Calcite structure (in fact,
+Calcite and Aragonite are also the names of most abundant minerals in these groups, both of which
+are CaCO3).
+Members of the Calcite Group:
+Calcite* (CaCO3)
+Gaspeite ({Ni, Mg, Fe}CO3) 
+Magnesite (MgCO3) 
+Otavite (CdCO3) 
+Rhodochrosite (MnCO3) 
+Siderite (FeCO3) 
+Smithsonite (ZnCO3) 
+Sphaerocobaltite (CoCO3) 
+Members of the Aragonite Group:
+Aragonite* (CaCO3) 
+Cerussite (PbCO3) 
+Strontianite (SrCO3) 
+Witherite (BaCO3)
+Dolomites have the same structure as Calcites but have two cations
+(AB(CO3)2).  While Calcites alternate layers between the carbonate
+and the cation, Dolomites also alternate cations.  
+The most common mineral in the Dolomite group is (by far) Dolomite. The other members are very rare.
+The reason is tied to the closeness in radius of the A and B ions.
+In Dolomite the A and B ions are calcium and magnesium which have the largest ionic radius
+differential of the group (approximately 33%). If the A and B ions are close in radius, then they
+tend to not segregate as easily into the separate A and B layers, which is required to form this
+structure and therefore these minerals. 
+Members of the Dolomite Group:
+Ankerite Ca(Fe, Mg, Mn)(CO3)2 
+Benstonite (Ba, Sr)6(Ca, Mn)6Mg(CO3)13 
+Dolomite* CaMg(CO3)2 
+Huntite CaMg3(CO3)4 
+Kutnohorite Ca(Mn, Mg, Fe)(CO3)2 
+Minrecordite CaZn(CO3)2 
+Norsethite BaMg(CO3)2 
+All that said, the most important carbonates are the Calcium Caronates (Calcite and
+Aragonite) and those where Iron or Magnesium substitutes for Calcium (Dolomite).  These
+minerals are important in marine environments and are often formed
+by deposits of shells. Limestone is essentially calcite.
+Calcite 
+Limestone
+Dolomite
+Phosphates
+The Phosphates have a basic chemical unit of tetrahedral (PO4) groups with a negative
+three (-3) charge.  The basic chemical unit can be combined with metal ions on a one to one ratio or
+usually in more complex combinations with other ions such as hydroxide groups (OH), uranyl groups
+(UO2), a halogen or even water molecules. The typical phosphate is vitreous to dull, often strongly
+colored, above average in density, average in hardness (4-7) and low in index of refraction unless
+ions such as lead are present.  Phosphates generally are important as fertilizers, and in the
+construction of bones and teeth. Appropriately, a major group of  phosphates is called APATITE. (or
+as Julia Child would say: "Bone Apatite").
+Apatite comes in three varities:
+Chlorapatite (Calcium Phosphate Chloride; Ca5(PO4)3Cl)
+Fluorapatite (Calcium Phosphate Fluoride; Ca5(PO4)3F)
+Hydroxylapatite (Calcium Phosphate Hydroxide; Ca5(PO4)3OH )
+APATITE 
+
+
+===== mineral.id_01.html =====
+
+
+GeoI Lecture Notes: Mineral Identification
+Geo I/Planet Earth I
+Mineral Identification
+A Rose Quartz by any other name still wouldn't smell
+In general, positive identification of minerals can require a lot of
+work and expensive equipment. However, for many minerals there are a number
+of simple tests of physical properties that are quite accurate for determining
+a certain mineral type. These physical properties are:
+Color
+just like it sounds
+Streak
+the color of pulverized mineral
+Luster
+The way the mineral reflects light
+Hardness
+Scratch or be scratched.
+Crystal Form
+The angles between faces
+Cleavage
+The ways in which you can cleanly break the mineral
+Fracture
+What happens when you don't have a clean break
+
+
+===== mineral.id_02.html =====
+
+
+GeoI Lecture Notes: Mineral Identification
+Let's look at these a bit in detail:
+Color
+
+Color is about the easiest thing to notice, but is not always reliable.
+Generally speaking, however, ferromags like olivine, augite (pyroxene),
+hornblende (amphibole), and biotite tend to be dark colored and mostly
+green or black, while Sialic minerals like feldspars and quartz tend to
+be lighter colored (white or pink).  Generally, though, color is often
+due to trace elements in a mineral.
+
+Streak
+
+Streak is the color of the mineral when pulverized, usually done by
+scraping it on a porcelain plate. The streak is often more diagnostic than
+the color (minerals tend to have the same streak even if they have different
+colors), but of course the mineral must not be harder than the streak plate!
+Pyrite Streak (Brown)
+Luster
+
+This is the quality and intensity of reflected light. There are a number
+of qualitative classes of luster:
+Metallic
+
+Very Shiny
+Examples: Galena, pyrite
+Chalcopyrite and Pyrite
+Nonmetallic (more common)
+
+glassy or vitreous: kind of a glazed appearance; characteristic
+of many silicate minerals
+Examples: Muscovite
+Muscovite
+earthy or dull: like unglazed pottery; many clay minerals have
+this characteristic
+Example: Kaolinite
+Kaolinite
+resinous: like resin or tree sap
+Example: Sphalerite
+Sphalerite
+pearly: Like the inside of a clam shell
+Example: talc
+Talc
+
+
+
+===== mineral.id_03.html =====
+
+
+GeoI Lecture Notes: Mineral Identification
+Hardness
+
+Hard things scratch things that are not as hard. There is a quantitative
+scale of hardness based on real physics called the Knoop scale, but we
+usually use the scale invented by Frederich Mohs, called (naturally enough)
+Mohs Hardness Scale:
+
+1
+Talc
+2
+Gypsum
+3
+Calcite
+4
+Flourite
+5
+Apatite
+6
+Orthoclase (Potassium Feldspar)
+7
+Quartz
+8
+Topaz or Beryl
+9
+Corundum
+10
+Diamond
+
+Hardness of common objects:
+
+Fingernail
+2 - 2.5
+Copper Coin
+3.5
+Steel Knife
+5-6
+Glass
+5-5.5
+Streak Plate
+6.5-7
+Examples:
+Fingernail Scratching Talc
+Penny Scratching Gypsum
+Corundum Scratching Quartz
+Comparison of the Knoop Scale with Mohs Scale:
+Moe Developing his Hardness Scale.
+
+
+===== mineral.id_04.html =====
+
+
+GeoI Lecture Notes: Mineral Identification
+Cleavage
+
+Many crystals have characteristic planes of weakness along which the
+easily may be broken. What is important to note are:
+1. Number of cleavage directions
+2. The angles between these directions.
+A cleavage plane tends to be a good light reflector, and therefore appears
+shiny.
+Examples:
+1 plane
+Micas
+2 Planes at right angles
+feldspars
+2 Planes not at right angles
+Hornblende (amphibole)
+3 Planes at right angles (cubic)
+Salt (halite), galena
+3 Planes not at right angles (rhombohedral)
+Calcite
+4 Planes (octahedral: 8 faces)
+Flourite
+6 Planes (dodecahedral: 12 faces)
+Sphalerite
+When a mineral cleaves, it often exhibits many cleavage surfaces, but
+most of these are generally parallel to one another. A hundred cleavage
+surfaces parallel to one another all define a single direction of
+cleavage, because all of them are parallel to the same zone of bond
+weakness. It is the number of directions of cleavage that we record,
+along with the angles between them. Minerals with two or more cleavage
+directions generally have a "stair-step" appearance when viewed with a
+magnifying glass. A mineral with two directions of cleavage may indeed
+be broken in some other direction-by irregular fracture. Thus, a single
+specimen may exhibit smooth cleavage planes in some directions, and
+irregular breakage surfaces in others. The more breakage surfaces we
+can see, the more clues we have to the mineral's internal structure.
+It may be difficult for the beginner to distinguish between cleavage
+and crystal faces. After all, both are smooth, planar surfaces. Two
+hints will help make the distinction easy. (1) If a mineral's outer
+surface shows a tarnish or alteration, the crystal faces will be
+tarnished or dull; if cleavage planes are present, they are usually
+recently made and will be fresher and less altered. (2) If many
+surfaces are present parallel to one another, they are most likely
+cleavage surfaces.
+Examples of Cleavage
+
+
+===== mineral.id_05.html =====
+
+
+GeoI Lecture Notes: Mineral Identification
+Fracture
+
+Crystals that don't have a simple cleavage plane will break along a
+rough, irregular surface that does not reflect light well.
+Example: Quartz, which shows concoidal (coke bottle) fracture.
+
+Crystal Form:
+
+If you can get a sample of a single crystal with well developed crystal
+faces, the number and orientation of faces can give very good clues about
+what kind of mineral it is because the form is a reflection of the underlying
+atomic structure. The problem is that few minerals do this, because they
+must compete for space while growing.
+
+Examples:
+Quartz
+hexagonal with pyramid like prisms on top
+Pyrite
+Cubes
+Calcite
+Rhombohedrons
+
+
+===== mineral.id_06.html =====
+
+
+GeoI Lecture Notes: Mineral Identification
+Other properties
+
+Reactions with acid:
+
+Calcite bubbles when you drop HCL on it. It's really the only useful
+test of its type but calcite is so common it is commonly used.
+Double Refraction:
+
+A unique property of some calcite crystals
+Magnetism
+
+A characteristic of Magnetite
+Specific Gravity or Density
+
+Most rock forming minerals are between 2.6 and 3.4
+Metallic minerals are significantly denser (5-8)
+Tenacity
+
+Brittle vs flexible minerals
+Quartz shatters, micas bend, gold and copper are highly malleable.
+Fractured Quartz
+Striations
+
+Very thin, parallel grooves that are useful in distinguishing Plagioclase
+(with) from Kspar (without)
+They are seen on only one of the two sets of cleavages.
+Sodium Plagioclase (Albite) showing Striations
+NB: Among feldspars, Kspar (orthoclase) often is pink; plagioclase is usually white to gray colored.
+
+Taste
+
+Good for Halite, but generally you don't want to chew on unidentified objects.  Some
+rocks are toxic!  The best way to do this is to wet your finger to collect a small sample.
+Smell
+
+Clays tend to smell "earthy" when moist
+Hire a Petrologist!
+
+A good last resort.
+
+
+===== mineral.id_07.html =====
+
+
+GeoI Lecture Notes: Mineral Identification
+Bonus Page: A Bit More About Quartz
+Quartz is one of the most abundant minerals in the crust of the Earth and is 
+common in soils and rocks, and even in atmospheric dust. It is hard and tough, so 
+it survives well on the Earth's surface, and it occurs in a wide variety of colors 
+and forms.
+Commonly encountered varieties of 
+quartz include well-formed crystals (colorless rock crystal quartz, violet amethyst, 
+and gray to black smoky quartz are common in rock shops and collections but not in 
+your backyard), coarsely crystalline types (pinkish rose quartz and the abundant 
+white milky quartz), and extremely fine-grained (microcrystalline) 
+varieties of many colors (varicolored banded agate and onyx, brown to gray 
+translucent chalcedony, red jasper white to gray chert, and black flint).
+Milky, Crystalline, and Rose Quartz
+Quartz has many uses. It is a major constituent in glass, concrete, mortar, and in 
+some kinds of building stones. Quartz watches keep good time, because a quartz 
+crystal, when hooked to the watch battery, vibrates at a constant rate. Some 
+varieties of quartz are used in jewelry, and quartz crystals have ceremonial 
+significance in some religious practices.
+Chalcedony
+Microcrystalline Quartz is also known as Chalcedony. Collectors
+and gem dealers call each variety by its particular name. There are
+hundreds of different varieties, and many have gem uses. The variety
+Agate is the best known. It is extremely abundant and creates unique
+and stunning examples. Most Agate must
+be trimmed and polished to bring out its beauty. Most specimens sold to
+collectors have already been treated, in the form of tumbled stones or
+polished slabs. Some Chalcedony is porous, and certain specimens can be
+dyed. Agate specimens from Brazilian localities are dyed various
+colors, and are sold without this fact being given over to the buyer.
+Agate
+Agate sometimes fills in a geode cavity, forming an "Agate
+Geode", or an Agate Nodule. Most Agate on the market comes from these
+nodules. Geodes form by expansion from an initial fluid-filled cavity,
+such as the opening in a bivalve. The initial deposit, chalcedony,
+forms from a silica gel that surrounds and isolates the salt solution.
+If the water surrounding the forming geode becomes less saline, osmosis
+begins to bring the salinity inside into equilibrium with that outside
+(water seeps in, diluting the trapped solution), and the internal
+pressure increases. The geode will expand in response to the pressure,
+either at the expense of the surrounding limestone, which dissolves at
+the limestone-silica interface, or, if the limestone has not hardened,
+by pushing aside the lime mud. Expansion continues until the pressure
+difference becomes negligible. If the initial cavity is inside a
+fossil, the fossil is burst by the expanding geode. Ultimately,
+dehydration and crystallization of the silica gel occur, followed by
+shrinkage, cracking, and the entrance of water carrying dissolved
+minerals, which are deposited on the chalcedony wall.
+Chalcedony frequently forms pseudomorphs after other materials. Such an
+example is petrified wood, or wood completely transformed to Chalcedony
+(or Opal, in some cases). In the Petrified Forest National Monument in
+Arizona, an entire forest was transformed into petrified wood. Remains
+of this ancient forest can be seen in the huge silicafied logs that are
+found in the area. Another well-known pseudomorph is Chalcedony after
+coral. Underneath the Tampa Bay in Florida, much coral has been
+replaced by Chalcedony, and its original form is preserved. Another
+Chalcedony pseudomorph is the famous "Tigers Eye". This almost
+legendary mineral has a most interesting and confusing appearance. It
+is caused by a finely fibrous structure of Crocidolite that was once
+present, but has been transformed into Chalcedony through
+pseudomorphism. Impurities are frequently present in Chalcedony. They
+may form a moss like growth in the mineral, forming what is known as
+"Moss Agate". Another example is Dendritic Agate, which contains
+manganese oxide impurities that form fabrications resembling trees. The
+"trees" may be strikingly realistic.
+Chalcedony is an important ornamental stone. The varieties Agate,
+Chrysoprase, Carnelian, Sard, Tigers Eye, Bloodstone, Jasper, and Moss
+Agate are all faceted into cabochons and beads, making fine gems. The
+apple-green variety Chrysoprase is unique to its color and commends a
+higher price than the other varieties. Agate is carved into cameos and
+ornamental objects, and is sometimes sold as polished slabs. Different
+varieties of Chalcedony are tumbled and polished, and sold to amateur
+collectors by the tons.
+Opal is a hydrous chalcedony. The 
+water can be anywhere from 5% to 12% of the total mineral.
+Colors range from white, yellow, orange, red, purple, blue, green, gray, brown, 
+and black, and any specimens contain a rich play of colors (opalescence).
+OPAL DISPLAYING IRIDESCENCE
+There are different theories as to what 
+causes the rich opalescence. It is now believed to be caused by small fissures in 
+the structure that were filled with microscopic silica grains when the Opal 
+formed. The rich play of colors gives Opal its splendor. 
+Some Opal goes through a process known as 
+crazing. This condition results from loss of water in its structure, and causes it to 
+form internal cracks. In addition, the opalescence is reduced. This happens at 
+random -- some specimens are susceptible while others are not. Leaving the Opal 
+in distilled water can prevent crazing. (It is for this reason Opal specimens are 
+sold in water.) Once taken out of the water, the Opal is at risk. If it is taken out of 
+water and does not crack, one need not worry about further crazing. 
+
+

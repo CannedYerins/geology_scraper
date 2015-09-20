@@ -9,7 +9,7 @@ def is_next_anchor(e):
     if e.name != 'a':
         return False
     img_child = e.find('img')
-    return img_child is not None and img_child['src'] == '../gifs/next.gif'
+    return img_child is not None and 'next.gif' in img_child['src']
 
 
 def process_text(s):
@@ -33,7 +33,9 @@ def main():
         html = requests.get(base_url + current_page,
                             auth=(sys.argv[2], sys.argv[3])).text
         soup = BeautifulSoup(html, 'lxml')
-        page_texts.append(process_text(soup.get_text()))
+        page_text = process_text(soup.get_text())
+        page_texts.append('===== %s =====\n\n%s\n\n' %
+                          (current_page, page_text))
         anchor = soup.find(is_next_anchor)
         next_page = anchor['href']
         # stop condition: the "next button" points to the page we're already

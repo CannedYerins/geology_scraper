@@ -1,0 +1,929 @@
+===== Weathering_01.html =====
+
+
+Geo I: Weathering and Soil
+Geo I
+Weathering:
+Making a Molehill out of a Mountain
+What is weathering?
+Generally, it is the "breaking down" or destruction of a material
+(rocks and minerals) when exposed to air, moisture and organic
+matter. Because it involves near-surface processes, weathering is
+within the realm of GeoII. However, because it is a vital part
+ofthe rock cycle, we need to review some of the basic ideas here.
+Rocks and minerals are generally formed at, or have
+been subjected to, conditions that are very different from those at the surface
+of the earth. Notably, temperatures and pressures at the surface are much
+different from those that most rocks and minerals have been subjected to.
+Weathering is a process of re-equilibration of the rocks and minerals to the
+new conditions they are in.
+Two main types:
+Physical (mechanical)
+disintegration. Big pieces become little pieces without chemical
+alteration.
+Chemical decomposition
+(e.g., by exposure to acids)
+Note: Weathering is NOT Erosion!
+Erosion is: The Removal and Transportation of material.
+Weathering is an agent that facilitates erosion. Note that some texts
+differentiate between Erosion and Transportation,but this is splitting
+hairs. 
+
+
+===== Weathering_02.html =====
+
+
+Geo I: Weathering and Soil
+Physical/Mechanical Weathering
+This is the physical pulling apart of rocks and minerals,
+or, in other words, making little rocks out of big rocks. Relatively more
+important in arid, alpine regions (just because the alternative, chemical
+weathering, is muted).
+Important agents: 
+Pressure Release
+Rocks formed deep in the earth's
+crust (e.g. granitoids) are formed under high pressures, due to the weight of
+the overlying rocks. As the rock moves towards the surface (by isostatic
+rebound due to the erosion of the overlying rocks, or by tectonic forces), the
+pressure decreases. The rock responds to the decrease in pressure by expanding
+slightly. As it does so, a series of fractures develops, known as joints.
+Joints are generally formed in sets of parallel planes and there are frequently
+more than one set of joints developed. Generally, joints disappear below a
+depth of around 50 m. Once formed, joints act as passageways for the movement
+of fluids through the rock, facilitating physical and chemical weathering. 
+Weathering
+along vertical joints in Limestone; Tennessee.
+Pressure release also creates sheet
+joints and exfoliation (Half Dome in Yosemite/Stone Mountain in Georgia).
+Big
+Thompson Canyon, Colorado
+Yosemite
+National Park, CA
+Stone
+Mountain, Georgia
+Marbles can crack with removal of
+just a few meters of overburden. Rock bursts in mines are a serious
+hazard.
+Temperature:
+Water freezes and expands by 10%; causes
+"frost wedging"; produces joints. Can also cause "frost
+heaving", which provides a vertical lift (a problem with highways!).
+Frost Wedging in
+Limestone
+Joints can also be formed by contraction as a rock
+cools. When dykes, sills and lava flows cool, a polygonal pattern of joints may
+form at the surface. As cooling progresses into the rock body, the fractures
+form into long columnar joints.
+Contraction Cracks
+in Lava; Utah.
+Typical product of wedging is
+"talus" (angular pieces of rock) at the base of slopes of
+mountains.
+Talus
+in the Brooks Range, Alaska
+Important in cold climates
+(freezing necessary)
+Theoretically, daily expansion and contraction of
+rocks that are heated by the sun and cool down at night should lead to physical
+weathering similar to that of frost wedging. However, such a process has not
+been proved to actually occur. The more intense heat of forest fires does lead
+to the rapid expansion of outer rinds of rock, which expands and breaks off as
+a spall. Although severe fires are relatively uncommon, over long periods of
+time their cumulative effects can be significant.
+Abrasion:
+Grinding away of rock by friction
+and impact during transportation.
+Plant and animal activity:
+Animals burrow, plant roots are
+efficient wedges.
+Salt Crystals
+Salt (or other) crystals can take
+up more volume when they form, causing the rock to break apart. Similar
+to frost wedging.
+Tectonic Processes:
+Jointing is also produced by tectonic activity. In
+particular, folding will produce a number of joint sets.
+
+
+===== Weathering_03.html =====
+
+
+Geo I: Weathering and Soil
+Chemical Weathering
+Minerals in igneous and metamorphic rocks formed at high temperatures and
+pressures are chemically unstable under surface conditions, and break down to
+form new, stable minerals. Weakly acidic aqueous solutions are the principal
+agents of chemical weathering, so chemical weathering is most effective in
+warm, wet climates.
+Minerals that are the most out of equilibrium are the most susceptible to
+chemical weathering. In igneous rocks, the order of crystallization of common
+minerals is olivine, pyroxene, amphibole, biotite, K-feldspar, muscovite and
+quartz, with Ca-rich plagioclase beginning to crystallize around the same time
+as pyroxene, and, as temperature decreases, crystallization of increasingly
+more Na-rich plagioclase in a continuous reaction until around the temperature
+where biotite is crystallizing. This is known as Bowen's Reaction Series.
+The sequence of mineral stability is the opposite of the crystallization
+sequence of Bowen's reaction series. As olivine crystallize at the highest
+temperatures, it is most out of equilibrium and is most susceptible to chemical
+weathering. Quartz is not only closer to its equilibrium temperature, but,
+being simply SiO2, it is extremely resistant to chemical attack.
+Main types:
+Solution
+  
+dissolve minerals
+  
+Hydrolysis
+  
+Complex reactions with H+ and OH-
+  
+Oxidation
+  
+"rusting" by addition of Oxygen
+  
+Hydration
+  
+Combination of minerals with water
+  
+Details:
+Solution:
+The simplest weathering reaction is the dissolution of soluble minerals. The
+electrically polar water molecule is effective in breaking ionic bonds such as
+those in Halite (NaCl).
+Hydrolysis:
+Hydrolysis involves the displacement of ions in a mineral's structure by H+
+or OH- from water molecules. Aluminium rich silicates, such as feldspars,
+are weathered primarily by hydrolysis.
+Hydrolysis of potassium feldspar may result in kaolinite and quartz
+2KAlSi3O8
++ 2H+ + H2O <=>
+2K+ + Al2Si2O5(OH)4 +
+4SiO2
+or in a muscovite, (sericite) and quartz
+3KAlSi3O8
++ 2H+ <=> 2K+
++ KAl3Si3O10(OH)2 + 6SiO2
+Note that these last two reactions involve the replacement of K+
+ions with H+ ions. The potassium ions pass into solution and are
+removed from the rock.
+Acid Hydrolysis:
+Other minerals need a stronger attraction, which is provided by acids. 
+Acids easily give up an extra H+, which can easily substituted
+for other positive Ions in minerals like Ca++ and Na+ and
+K+ (in feldspars). This changes the composition and disrupts
+the atomic structure. 
+Some acids, like Sulfuric and Hydrofluoric, are emitted by volcanoes, but
+the most common is a weak carbonic acid (H2CO3) which
+occurs about everywhere. 
+The trick is to combine Carbon Dioxide with water: 
+CO2
++ H2O -> H2CO3 -> H+ +
+HCO3-
+CO2 exists in the atmosphere, so rain will necessarily be
+somewhat acidy. However, gasses in the soil have a LOT of CO2
+(10%) so rain that leaches through soil will have pack an acidic punch.
+Oxidation of reduced organic matter in soils is catalyzed by micro-organisms,
+where bacteria mediate the oxidation of dead organic matter to CO2.
+Representing organic matter by carbohydrate (CH2O) the reaction is
+CH2O + O2 <=> CO2 + H2O
+The carbon dioxide and water can then combine to produce carbonic acid.
+This acid works to completely dissolve limestone (Calcite). It is the
+mechanism of production of caves and karsts (sinkholes) - a big problem in
+several states (Florida, Kansas). It is also a problem for buildings,
+statues,and tombstones: 
+CaCO3 + H+
++ HCO3- ->2Ca++ + 2HCO3-
+Note that only ions (in solution) result. 
+ 
+Another example: SO2 and NO2 in the atmosphere produce
+sulfuric and nitric acid that becomes acid rain. An important source of
+these agents is burning of fossil fuels. 
+Hydrolysis refers to the reaction of minerals to the H+ and OH-
+ions of water. If we add carbonic acid as well we can break down a
+lot of common minerals. The reaction with Feldspar produces common
+clays: 
+2KAlSi3O8
++ 2H+ + 2HCO2- + H2O -> Al2Si2O5(OH)4
++ 2K+ + 2HCO3- + 4SiO2
+or 
+Potassium Feldspar +
+Carbonic Acid + Water -> Clay Minerals + Soluble Ions (Potassium and
+Bicarbonate) and Silica
+Note that in this process we change a framework silicate into a sheet
+silicate. This means a significant reduction of strength. 
+The silica is excess that doesn't fit into the clay structure. It will
+play an important part in cementing together sedimentary rocks. 
+The same reaction works with Plagioclase Feldspars. In this case Ca
+and Na are in solution. Ca inhibits reactions with detergents and
+precipitates as scales in water pipes. We call this "hard"
+water. 
+Reaction with other minerals:
+Quartz (SiO2) has strong bonds and is not easily weathered.
+Thus, it usually hangs around long after everything else has weathered and
+eroded. Nevertheless, silica is
+generally removed in solution by the formation of silicic acid, H4SiO4,
+as this simply requires the addition of extra water, as 
+2H2O + SiO2
+=> H4SiO4.
+The removal of soluble matter from bedrock or regolith is called leaching.
+Ferromags like olivine, pyroxene, and amphibole weather in a similar fashion
+to feldspars. In this case, iron and magnesium are exchanged for H+.
+ 
+Oxidation/Hydration:
+Oxidation refers to reactions with Oxygen to form Oxides. 
+Minerals with a lot of Fe (e.g., Olivine, pyroxene, amphibole) will turn
+reddish as the Fe in them rusts by combining with Oxygen and water from
+atmosphere (turns to an iron oxide mineral). 
+ 
+4Fe + 3O2
+-> 2Fe2O3
+Iron + Oxygen -> Iron Oxide (Hematite)
+Hydration refers to the absorption of water into a mineral. This can
+cause expansion (particularly in clays) and weakening of bonds. 
+ 
+
+
+===== Weathering_04.html =====
+
+
+Geo I: Weathering and Soil
+Rates of Weathering
+What controls how fast something weathers? Weathering is something that
+happens at the surface, so important factors are: 
+Grain size - the
+     smaller the grain, the more surface area, the faster the weathering.
+Biological Activity -
+     Burrowing animals (ants, termites, rabbits, ...) turn over the soil,
+     exposing it more fully to chemical action. Decomposition by
+     micro-organisms and the presence of soil organic matter greatly increase
+     the CO2 concentration in soil water, making it acidic and
+     producing carbonic acid. 
+Relief - On steep
+     slopes, weathering products are quickly removed by erosion or mass movement
+     processes, revealing new material that can be weathered. On gentle slopes
+     and in valleys and basins, the accumulation of weathered products may
+     produce a protective layer for the bedrock.
+Climate - Chemical
+     weathering dominates in hot, humid climes, physical in cool, arid
+     climes. Industrial activity accelerates chemical weathering activity
+     dramatically. Heat speeds up chemical reactions, with a rise of 10
+     producing at least a doubling of reaction rate. The availability of water
+     also allows rapid flushing and the removal of all but the most insoluble
+     compounds, such as iron and aluminium oxides.
+Parent material -
+     Quartz is hard (forms last and so doesn't like to react). Beaches are made
+     of Quartz. Olivine is not stable and weathers quickly. Follows
+     Bowen's reaction series. The texture of the rock also influences
+     weathering rates. Even a quartz rich rock will be susceptible to
+     weathering if it has closely spaced, continuous joints. In beds of
+     differing lithologies, the more easily weathered strata may undermine
+     otherwise resistant beds.
+Balanced Rock in Horizontal
+Layers. Arches National Park,
+Utah.
+As weathering rates are generally in the order of a few millimetres per
+hundred or thousand years for fresh bedrock, great periods of time are required
+to produce weathering zone of great depth. 
+
+
+===== Weathering_05.html =====
+
+
+Geo I: Weathering and Soil
+Effects of Chemical Weathering on Common Rocks
+Different susceptibility of minerals to chemical weathering leads to
+preferential concentration of certain minerals. The weathering of a granite by hydrolysis,
+for example, will produce clay minerals and the removal of K, Na and Mg ions in
+solution and leaving the relatively inert quartz grains. A basalt will weather
+to clays and soluble ions of Na, Ca and Mg, with the production of some
+goethite from the olivine and pyroxene. As limestone is weathered by
+dissolution, only the impurities of clays and quartz remain.
+Other chemically resistant minerals may also be preferentially concentrated,
+such as gold and platinum. Laterites and bauxite deposits may be formed by the
+preferential removal of soluble minerals. Low grade mineral deposits may become
+economically viable after the secondary enrichment processes removes the more
+soluble elements.
+As chemical weathering effects surfaces that are exposed to the movement of
+aqueous solutions, rocks are frequently quite fresh and unaltered when broken
+open, but are altered on the surface. This is called a weathering rind.
+When fractures form a mosaic of cuboid blocks, weathering proceeds faster at
+the corners, where the minerals are "attacked" from three sides, than
+at the edges of the blocks, and proceeds faster at the edges than on the faces.
+This leads to roughly spherical boulders and the process is termed spheroidal
+weathering. Some surfaces may spall off, or exfoliate.
+Early Stages of Spheroidal Weathering
+ 
+Advanced Spheroidal Weathering
+ 
+Granite Boulders Produced by Spheroidal Weathering
+(Wisconsin).
+
+
+===== Weathering_06.html =====
+
+
+Geo I: Weathering and Soil
+The Dirt on Soils
+What is soil?
+Weathered rock and
+mineral grains capable of supporting plant life.
+Soil is the building block of civilization and, along with water, forms the
+two basic ingredients for human survival. Mankind will continue to exist only
+as long as the soil does. At present there is about one fertile acre per
+person, but the amount of fertile land is decreasing and population is
+increasing.
+Where does soil come from?
+Weathered rock
+(deitritus), mostly, but mixed with other (organic/hummus) stuff:
+Typical
+composition of Soil:
+Minerals
+  
+45%
+  
+Water
+  
+25%
+  
+Gases
+  
+20%
+  
+Organic Matter
+  
+5%
+  
+Soil typically is "stratified" into "horizons"; this is
+largely the consequence of gravity and proximity to the atmosphere (the
+weathering agent). 
+Soil Horizons
+O
+Humus; provides CO2 from decaying mater -> carbonic
+  acid
+  
+A
+Zone of leaching: where minerals are strongly dissolved
+  (top soil)
+  humus is abundant and chemical weathering is active. The upper part of the
+  A horizon contains most of the organic matter and is strongly leached. the
+  concentration of humus tends to make the dark coloured near the surface. The
+  lower part of the A horizon has much less organic matter and has suffered
+  maximum leaching, particularly of Ca and Fe. The A horizon may be at the
+  surface, or may underlay a O horizon composed of accumulated organic
+  matter.
+  
+  
+B
+Zone of Accumulation: minerals from A are redeposited.
+  largely a zone of deposition, where clay particles are trapped and solutes
+  are absorbed. It is thus enriched in clay and/or iron and aluminium
+  hydroxides.
+  
+C
+Weathered transition zone (soil to rock) The
+  sub-soil and consists of weathered bedrock grading into unweathered bedrock
+  (the D horizon)
+  
+Depending on climate, these horizons are of varying thickness and may be
+missing. 
+Example: In the Desert, A is thin to none. B is cemented into
+"caliche" (calcium carbonate crust); formed as percolating waters
+evaporate and leave mineral load behind (this is because more water goes
+"up" rather than "down"). 
+Residual Soils: 
+Soils that develop "in
+situ" by weathering of underlying rock. 
+Typically are heavy, clay rich, and expansive when
+wet! Takes hundreds of years to produce 
+Note: Clays have very small grain sizes and
+are electrically charged: Thus, they hold water and nutrients on their surface.
+Plants rely heavily on clay, although too much clay is not good (they are
+notoriously impermeable). Because they are so complex, they are often a
+nightmare for monitoring scientists! 
+At the opposite end, Sand (Quartz) holds no water -
+best soil is loam, a mixture of sand, clay, and silt (silt has a grain size
+between 0.06 mm and 0.002 mm.  Generally, wet clay feels slimy, wet silt
+feels grainy, and sand feels abrasive.)
+Transported Soils: 
+Soils formed on transported
+regolith: types defined by how they were transported:
+Alluvial
+  
+Rivers
+  
+Eolian
+  
+Wind
+  
+Glacial
+  
+Ice
+  
+Volcanic
+  
+Volcano
+  
+Glacial - especially
+     important in New York; most of the soils came from Canada.
+Loess - a glacially
+     related Eolian soil; very fertile; covers most of midwest US.
+Loess Bluffs; Mississippi
+Loess; China
+
+
+===== Weathering_07.html =====
+
+
+Geo I: Weathering and Soil
+Physical Properties of Soil
+Soil is regolith material that is capable of sustaining plant growth. The
+physical properties of soil are dominant factors affecting the use of a soil.
+They determine the availability of oxygen and water and the ease of root
+penetration.
+Soil Texture
+The relative proportions of sand, silt and clay size particles in a soil
+determines the soil texture. Texture affects the permeability and porosity of
+the soil, the ease of tilling, the amount of aeration and soil fertility. A
+coarse sandy soil is easy to plough and has ample pore space for movement of
+air and water, but it also dries out quickly and loses fertility as water is
+drained away. Clay soils are difficult to wet, once wet are difficult to drain
+and are difficult to till.
+Textural names are based on the relative percentages of sand, silt and clay,
+with a loam being a mixture. A classification scheme is shown below. There are
+many variations on this, but they are simply slight differences in relative
+percentages - the overall scheme remains the same. Note that this does not
+include the organic fraction, and gravels sized particles are excluded.
+Gravel sized particles are included in naming the soil if they comprise more
+than 15% by volume of the soil. Thus a loamy sand with 20% cobbles would be a
+"cobbly loamy sand". If there are >35% gravel, the word
+"very" precedes the name. With more than 60% gravel, the word
+"extremely" precedes the name.
+Soil Structure
+Structure refers to the arrangement of soil particles into aggregates held
+together by organic substances, iron oxides, carbonates, clays and/or silica.
+Natural aggregates are called peds whereas masses of soil broken into
+masses by artificial means, such as tillage, are called clods. Concretions,
+or nodules, are coherent masses formed within the soil by the
+precipitation of minerals around a nucleus. Peds are described by
+type (shape) - platy,
+     prismatic, columnar, blocky, granular
+class ( size) - very
+     fine, fine, medium, coarse, very coarse
+grade (strength) -
+     weak, moderate, strong
+The degradation of soil structure leads to compaction and the reduction in
+the continuity, distribution and size of the soil pores. This results in
+reduced porosity (decreases
+     infiltration, increases runoff and erosion)
+surface crusts (impedes crop
+     emergence and reduces permeability)
+poor aeration (reduces
+     emergence and growth and increases susceptibility to root disease)
+increased soil strength 
+reduces root growth
+less easily worked
+      -> bigger tractors required -> further soil compaction, etc.
+Soil structure decline is the most costly form of land degradation,
+accounting for around 75% of total land degradation costs.
+An increase in soluble and exchangeable Na+, speeds structure
+degradation. The sodium does not effectively neutralize the surface negative
+charge, so adjacent soil particles repel each other, due to similar charges,
+leading to the destruction of peds by dispersion. The dispersed clays and small
+organic colloids move with water, lodging in soil pores and sealing the soil.
+Soil with too much sodium becomes almost impermeable to water and dries to hard
+crusts.
+Soil Density
+Two measures of density are common for soils: particle density, which
+is the density of the soil particles only and does not include water or pore
+space, and bulk density, which is the density of a dry soil as it
+naturally exists. Bulk density changes can be used to gauge soil structure
+degradation over time and to determine if soils are too compacted to allow root
+penetration or to provide adequate aeration.
+Soil Porosity and Permeability
+Porosity refers to the total connected pore spaces, and therefore how much
+water can be held in the soil.
+Permeability refers to the ease with which water can pass through the soil.
+Water can drain by gravitational force from pore spaces larger than about
+0.03-0.06 mm. In soils with pore spaces less than this, attraction forces in
+the soil retain water and the soil becomes waterlogged and has poor aeration.
+The smallest root hairs are between 0.0008 to 0.012 mm. Thus to a growing
+plant, pore sizes are more important than total pore space.
+Sands have large and continuous pore spaces, whereas clays have greater
+porosity but much lower permeability. The best balance between water retention
+(small pores) and adequate water and air movement (large pores) is medium
+textured soils such as loams. Indurated soils formed from the precipitation of
+soluble carbonates, silicates and iron, can create impermeable layers.
+Soil Air
+All organisms need gaseous exchanges to survive. Well aerated soils, where
+oxygen exchange between soil air and atmospheric air is rapid, is required for
+respiration by plant roots and for the decomposition of organic matter by
+micro-organisms. Oxygen is the primary acceptor of electrons released in the
+oxidation of carbon in organic materials. If the oxygen concentration is too
+low, certain elements or ions become the electron acceptors and are, in turn,
+reduced. When the oxygen diffusion rate is too low, the eH, or redox
+potential, drops and toxic organic acids form, nitrate is denitrified and N
+is lost to the atmosphere, sulphate is reduced to sulphide and most plant roots
+can not respire. Consequently, plant root growth slows or stops.
+Farming practices such as deep ripping, drainage of excess water, and
+incorporation of "loosening" organic residues are partly designed to
+aid soil aeration. Inadequate aeration can be expected with
+poorly drained soils
+soils with a high clay
+     content after rainfall or irrigation
+deep subsoils in clayey
+     soils, especially if wet
+highly compacted soils of
+     fine texture
+deeper portions of massive
+     (structureless) clayey soils.
+Soil Strength
+Soil strength is the degree of resistance of a soil to crushing or breaking
+when force is applied. It is measured either dry or wet with techniques ranging
+from squeezing between thumb and forefinger to dropping a 1.36 kg pick on the
+sample from a height of 0.22 m. Descriptive terms include "loose, friable,
+firm, hard, cemented and indurated", with modifiers such as
+"slightly, very and extremely".
+Soil Color
+Soil color reflects the soil's parent material or its development. Within
+geographic regions, darker soils indicate higher organic content, but this can
+not be correlated over diverse regions, as some partially decomposed material
+is darker in some environments than in others, and darker colors may also
+simply reflect different parent material. White colors are common when salts or
+carbonates are present. Mottles may indicate periods of inadequate aeration
+each year. Blue/grey/green colors are indicative of longer periods of
+waterlogged conditions and inadequate aeration.
+Soil color determination is standardized by comparison of the soil to
+standard (Munsell) color charts. Soil color notation is divided into
+Hue - red,
+     yellow-red, yellow, green-yellow, green, blue-green, blue, purple-blue,
+     purple, red-purple, with subdivisions into 2.5, 5, 7.5 and 10 units
+Value - the relative
+     darkness. Black = 0 and White = 10.
+Chroma - purity or
+     "brilliance" of the color, with 0 = neutral and 10 = brilliant.
+Soil Temperature
+The standard soil temperature is measured at a depth of 50 cm, or at the
+rock or hardpan contact if the soil is not as thick as that. The temperature of
+a soil depends on
+supply - how much
+     heat reaches the soil surface and
+dissipation - what
+     happens to the heat in the soil.
+Heat supply will decrease with increased organic soil coverings and with the
+angle of incidence of the slope with respect to the sun's rays. Latitude has an
+obvious affect on this, too.
+Light-coloured soils will reflect more heat than dark soils. Some heat
+absorbed by soil is lost in evaporating soil water. Soils with a high water
+content require much more heat to increase the temperature as the heat capacity
+(or "heat reservoir") of water is 3-5 times that of soil minerals. A
+dark soil with a high humus content may be cooler than lighter colored soils
+with little humus, due to the larger amounts of water held by the humus
+off-setting the larger heat absorption caused by the darker color.
+Soil Water
+Soils are water reservoirs, acting as a water supply between periods of
+replenishment, but also aids root penetration by lubricating the soil, is
+necessary for microbial mobility and action and allows nutrient mobility. In
+dry soils, water uptake into plants stops nutrient absorption virtually ceases
+and root growth practically stops.
+Water is held in soils because of hydrogen bonding. The polar nature
+of the water molecule allows the ions of individual water molecules to interact
+with their neighbors. The bonds become more rigid in colder temperatures (ice
+or snow).
+It is also the polarity of the bonds that makes water an effective solvent
+for ions; the water molecules are attracted to the ion by electrostatic force
+to cluster around it. Moreover, ionic bonds are easily decomposed by the force
+of attraction of the water dipole. Hydrogen bonding gives water a relatively
+high viscosity and heat capacity in comparison to other solvents, and allows
+water to exist over a large temperature range. This last property is
+fundamental to life that relies on liquid biological transport systems.
+Strong (by standards of intermolecular interactions) bonding forces allow
+water films of considerable thickness to be held on the surface of soil
+particles. Because the forces holding water in soil are surface-attractive
+forces, the more surface area (the more clay and organic material) a soil has,
+the greater the amount of adsorbed water.
+ 
+Soil Water Potential
+The strength with which water is held can be defined as the work the water
+can do when it moves from its present state to a pool of water with a defined
+reference state of 0. Elevated water has a positive potential, whereas adsorbed
+water in soils is less free to move and has less free energy. Negative
+free energy means that work must be done to move the water to the reference
+pool of water. Water that is adjacent to particle surfaces has a lower (more
+negative) potential than has water on the outside of a film, that is, water is
+held more tightly as the negative value increases in magnitude.
+Gravitational water is water held at a potential greater than -33 kPa.
+Saturated flow water moves because of water potentials that are larger (less
+negative) than -33 kPa. In many soils, such as soils with varied textures of
+alternating sand and clay layers, this reference value is closer to -10 to -30
+kPa. Stored water that is available to plants has water potentials between
+approximately -33 and -1500 kPa, although this varies with plant species.
+Water Flow Through Soils
+Most rapid movement of water through soil is caused by gravity. Saturated
+flow begins with infiltration. The movement of water through the wetted soil is
+termed percolation. It is percolation that leaches nutrients and soluble ions
+from the soil. Factors that influence the infiltration rate are
+grain size - coarser sands
+     permit rapid infiltration
+soil structure - granular
+     soils with large aggregates have higher infiltration rates than massive
+     soils
+organic material - mulches
+     protect the surface from raindrop impacts and supply the cementing agents
+     for aggregates as the mulch decomposes
+depth to hardpan, bedrock or
+     other impervious layer - shallow soils allow less water to enter
+water content - wet soils
+     have slower infiltration rates, partly because swelling clays already hold
+     water and have partially filled pores
+temperature - warn soils
+     have a higher infiltration rate. Frozen soils may be impervious
+compaction - reduces pore
+     space and slows infiltration
+Percolation is common in the more humid regions. Excess water moves through
+the soil profile, dissolving soluble ions and carrying them into groundwater.
+The water also moves small soil particles (clays and organic colloids) downward
+until they lodge in pores or are adsorbed onto ped surfaces. The leached soil
+layers lose most of their soluble salts and much of their adsorbed Ca, K, Mg
+and Na. Acidic (hydrogen) ions from carbonic acid and other soil acids replace
+these, producing acidic soils in humid regions.
+Gravitational water partly drains from large pores, and the water is
+replaced by large air pockets that greatly reduce water flow rates. Water does
+not move appreciably from small water-filled pores into large air-filled pores,
+just as a wet sponge does not drip until gravitational water exists at the drip
+edge. Stratified soils behave like this, and consequently nearly all stratified
+soils hold more water than if the profile were of a single texture.
+Unsaturated flow is the movement of water with water potentials lower (more
+negative) than about -20 to -33 kPa. In a uniform textured soil, this means
+that water moves from a wetter region to a drier one. The water movement may be
+in any direction. The rate of flow increases as the water potential gradient
+(the difference in potential between wet and dry) increases and as the size of
+water-filled pores increases.
+
+
+===== Weathering_08.html =====
+
+
+Geo I: Weathering and Soil
+Tropical Soils
+High rainfall and warm temperatures combine in tropical regions to create
+conditions of very high chemical weathering. The relative mobilities of the
+major elements released during weathering depends on the prevailing
+environmental conditions, but although the precise order may vary with the
+weathering regime, the generally agreed sequence of mobility is
+Ca2+ >
+Mg2+ > Na+ > K+ > Fe2+
+> Si4+ > Fe3+ > Al3+
+That is, insoluble elements such as Al and Fe are left as residual deposits
+after the more mobile elements are leached through the soil horizon. This
+selective removal of the more soluble elements may result in the formation of a
+hard, generally impermeable crust on the surface or in the upper horizons of
+soils, known as a duricrust. Of the insoluble minerals listed above,
+haematite, gibbsite (hydrous Aluminum Oxide) and quartz form duricrusts. Ca may also form duricrusts
+under favourable circumstances. Mn is not abundant enough to form significant
+concretions, but pyrolusite (MnO2) can form and MnO is the common black coating found in fractures such
+as the pseudo-fernlike structures called dendrites.
+Manganese Oxide Dendrites
+
+
+===== Weathering_09.html =====
+
+
+Geo I: Weathering and Soil
+Soil Classification
+Pedologist (pedon = soil in Greek) => a soil scientist, or is it
+someone who studies child development (or maybe its a foot scientist)? 
+Soils are complicated and various. Classifying them is not unlike
+classifying plants and animals. There are "groups", "subgroups",
+"types", etc., ad infinitum. 
+Let's start with the main groups: 
+Pedalfers
+High in Al and Fe (that's the "alfer" part).
+  Characteristic of humid regions. Found in prairies and steppes with
+  grasslands and forests.
+  
+Pedocals
+High in Ca. Found in desert/semi-arid regions. Scrub
+  vegetation.
+  
+Laterites
+Red soils of the tropics. Rich in iron (the red comes from
+  hydrated iron oxides). Later is Latin for "brick" or
+  "tile". Heavy rainfall has leached out all soluble minerals. Can be
+  an economic source of Bauxite (Oxide of Aluminum, and a principal ore).
+  
+Tundra
+The soils of polar climates. Supports mosses, lichens, and
+  the like.
+  
+Next layer of complexity: national soil classification schemes. The US has
+one called the "Comprehensive Soil Classification System" with 10
+"orders". Canada has their own as well, as eastern Canadian soils are
+quite different. 
+ 
+ 
+ 
+Iron-rich and aluminium-rich deep weathering profiles are generally termed laterites.
+The hard duricrust surfaces of these deposits are called ferricrete and aluminocrete
+respectively. Aluminocrete is sometimes called alcrete. Deposits that contain
+economically extractable aluminium deposits are called bauxite.
+A typical lateritic soil horizon is shown below.
+Iron Laterites
+Under warm, wet conditions, Fe and Al become concentrated as other minerals
+are slowly leached out of the soil. Goethite (FeO.OH) is one of the least soluble
+minerals formed during chemical weathering and forms an iron-rich crust, or
+ferricrete, at the surface. The lower horizons are rich in kaolinite. Between
+the red, iron-rich zone at the surface and the pale, clay-rich zone is a
+mottled zone where leaching has been concentrated in certain places. The
+sequence of ferricrete - mottled zone - pallid zone is called a laterite.
+Ferruginous laterite is widespread and easily recognizable due to its
+distinctive red color. Consequently, the term "laterite" is
+frequently taken to mean a ferruginous laterite. The essential characteristic
+is the enrichment of iron. A well developed iron laterite contains over 50%
+ferric oxide and hydroxide. The thickness of some laterites poses a problem of
+where the iron came from. As granites contain only in the region of 2% iron,
+and basaltic rocks up to 11%,a laterite deposit will require the alteration of
+many times its own thickness of original rock to supply the necessary iron. For
+a granite, about 20 times the thickness is required, so for a 9 m thick
+laterite, some 180 m of in situ alteration would need to be weathered. The
+widespread occurrence of 180 m of weathering, concentrated from a deep profile
+into a narrow horizon near the surface is not feasible, but some long-range
+upward movement of iron may be possible, and a derivation from beyond the site
+of formation by lateral movement is widely accepted. In some cases, if there
+were no iron enrichment from outside sources, it would imply a loss of 90% of
+silica and 81% of alumina from the parental granite. These figure are too great
+to be explained by weathering alone and iron enrichment is necessary.
+Laterites can also develop in climates other than wet tropical climates,
+providing that there has been a stable surface where weathering and leaching
+have been prolonged in well-drained sites. Wet tropical climates certainly favor
+the development of laterites, however. Ferruginous laterites require seasonal,
+rather than continuous rainfall.
+Bauxites
+Although iron-rich varieties of laterite are the most common, aluminous
+laterites, called bauxites, are the most important economically. Weathering of
+kaolinite produces gibbsite, Al(OH)3 . The silica is leached from
+the surface leaving an aluminous laterite. Gibbsitic bauxite deposits are the
+source of most of the world's aluminium. Aluminous laterite form best in humid
+tropical to subtropical regions where annual rainfall exceeds 1200-1500 mm.
+Aluminocrete is usually pisolitic. Continuous rainfall favours the production
+of bauxite deposits, as the monosilicic acid produced during laterite formation
+needs to be continuously diluted and leached out so that the silica in solution
+is not sufficient to convert aluminium hydroxide (Al(OH)3 =
+gibbsite) back to kaolinite.
+ 
+Bauxite
+The key to alumina concentration lies in the leaching of most of the other
+constituents, including ferric iron and silica. The best developed bauxites are
+often associated with one or more of the following:
+a humid tropical climate
+     with a forest vegetation which promotes organic complexing of iron and its
+     removal from the profile
+elevated sites where free
+     leaching by percolating groundwater is promoted
+rocks rich in aluminium (
+     and poor in iron) such as phyllites
+Silcretes
+Monosilicic acid released during laterite formation may be concentrated by
+evapotranspiration following lateral movement in groundwater to more arid
+climatic zones, producing a siliceous surface crust called silcrete.
+Concentration of silica in solution may also cause resilification of gibbsite
+to kaolinite, so whereas aluminocrete and ferricrete are residual soils,
+silcrete is essentially a secondary siliceous deposit.
+Given the high quartz content of most rocks, and the near-absence of quartz
+in lateritic soils, developing laterites are a good source of dissolved silica.
+The existence of Tertiary silcretes associated with laterite formations of the
+same age is in agreement with this suggestion of the mobilisation of silica
+from the laterites and redeposition in silcrete.
+Silcretes are associated with semi-arid environments, where annual
+precipitation drops to below 250 mm, and are generally found to the arid side
+of laterite formations. Silica precipitation is also favored by high pH. Up to
+a pH of about 9, silica solubility is virtually constant, but increases
+markedly above this point. In alkaline environments, such as those found around
+ephemeral lake beds in semi-arid and arid regions, pH may vary between 8 and 10
+for short distances. Silica in solution moving from a locality above pH 9 to
+one below pH 9 will therefore be precipitated.
+Calcrete
+In arid or semi-arid climates soils lack of moisture reduces leaching and
+calcium carbonate accumulates, generally as calcite. These carbonate enriched
+soils are termed caliche. Evaporation causes upward movement of soil water and
+dissolved salts by capillary action. Thus in areas of low rainfall the caliche
+is at or near to the surface. Early stages of caliche formation may produce
+either a powdery granular calcite or indurated nodules. Lithification produces
+a hard layer called calcrete.
+
+
+===== Weathering_10.html =====
+
+
+Geo I: Weathering and Soil
+General Factors Controlling Soil Formation
+Climate
+Humid regions like eastern North
+America produce Pedalfers. Water promotes leaching of Fe and Al from
+horizon A, which is left with mostly organic material. 
+Arid regions like western North America produce
+Pedocals. More unstable minerals and fewer organics near surface as
+leaching and plant growth is subdued. Calcium and salts precipitate in
+horizon B as water evaporates. 
+Intense rain in tropics produces extreme weathering
+resulting in laterites. 
+Parent Material
+Basalts will produce soils rich in
+iron and iron oxides 
+Quatz will yield no clay; clay will yield no sand 
+Organic Activity
+Micro/Macro organisms digest and
+aerate soils. Also contribute to the soil when they die.
+Relief and Slope
+Steep slopes are eroded faster than
+soil producing processes occur. North facing slopes get less sunlight
+(and vegetation).
+Time
+Soil is created at a rate of
+2.5 cm/century (on average). That makes it a non-renewable resource.
+Leaching will eventually degrade soils, so use it or loose it!
+
+
+===== Weathering_11.html =====
+
+
+Geo I: Weathering and Soil
+Soil Problems
+It takes 100's to 1000's of years to create a few mm of soil. Though it will
+inevitably break down, rock is generally very durable stuff! You can still see
+evidence of 10,000 year old glacier skid marks in New England. This means it is
+essentially a non-renewable resource.
+U.S. farmlands loose 3 billion tons of topsoil annually (it is washed into
+the oceans). In other parts of the world (Asia and Africa in particular) loss
+is so severe that some 22 million acres of farmland are considered beyond
+reclamation. 
+What's going on?
+Erosion!
+Erosion is the physical transport of soil and sediment. Some types: 
+Water related:
+Splash erosion:
+Raindrops impacting the ground
+loosen particles.
+Sheet erosion:
+The removal of soil over a surface
+in thin layers. A relatively benign form.
+Sheet Runoff in Illinois
+Rill erosion:
+Water tends to collect in
+streamlets, which concentrates the erosive energy (kinetic).
+Gullying:
+An accelerated form. Large slope
+gradients cause rapid removal of soil. A major problem in Loess regions. Note
+that rills and gullies differ from streams in that they are active only after
+significant rainfall.
+Wind related:
+Abrasion:
+wind carried particles impact
+stationary objects, causing them to break free (cf. cleaning buildings with
+sand blasters).
+Deflation:
+wind picking up and carrying away
+loose rock fragments. A large effect in areas that are not covered by
+vegetation (deserts, beaches, bare plowed fields).
+A problem in drought conditions (no moisture to hold the soil together).
+Deflation Basins in New Mexico
+Extreme example I:
+The Dust Bowl in Oklahoma and Texas
+in the 1930s. More that 1 meter of soil removed in a few years!
+Extreme example II:
+The Qattara Depression in western
+Egypt: now 100 m below sea level! Most of this due to removal of soil by wind.
+Deflation is limited by (1) reaching bedrock or (2) hitting
+the water table. Fortunately, when the water table gets close to the surface,
+plant life can prosper, which slows down the deflation. So it is somewhat
+self-regulating.
+Some other
+problems:
+Expansive soils:
+Some clays expand by up to 10% when wet (e.g., smectite). Obviously a
+problem for foundations. A big problem in east Texas. 
+ 
+Permafrost:
+A condition where some part of the ground fails to get above freezing
+temperatures. (The battle between atmospheric and earth energy sources is
+"won" by the cold atmosphere). This leads to frozen soil with
+thicknesses up to 1500 m! 
+The problem with permafrost is: it's not really "perma" 
+ 
+Seasonal thawing leads to
+     pockets of liquid water called "talik". These can erupt to the
+     surface, forming 30-50 m high mounds called "pingos" which can
+     erode to make basins.
+Pingos in Canada
+People building on permafrost
+     inevitably melt it, causing the structures to sink. This is why the
+     Alaskan oil pipeline is elevated, despite resistance from oil companies.
+On the other hand, Weathering can Concentrate Mineral
+Resources.
+Examples: 
+Diamonds at the top of Kimberlite Pipes
+Deposits of Iron, Manganese, nickel, phosphate,
+tin, gold. 
+These are what are left over after the host body
+weathered away. 
+
+
+

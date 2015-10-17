@@ -20,6 +20,10 @@ def process_text(s):
 
 
 def main():
+    if len(sys.argv) != 4:
+        print ("Usage:\npython geology_scraper.py " +
+               "[1st_slide_url] [username] [password]")
+        return
     initial_url = sys.argv[1]
     current_page = initial_url[initial_url.rfind('/') + 1:]
     base_url = initial_url[:initial_url.rfind('/') + 1]

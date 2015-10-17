@@ -1,0 +1,1202 @@
+===== metrx_01a.html =====
+
+
+GeoI Metamorphic Rocks
+Geology I
+Metamorphism and Metamorphic Rocks:
+Gneiss Cooking!
+Metamorphic rocks (meta = change; morph = form) are those
+in which the constituent minerals have changed from a previous state while
+they are still in a coherent solid state.  This differs from Igneous rocks, which
+solidify from a melt, and sedimentary rocks, which forms from lithified
+sediment (weathered bits that stick themselves back together).
+To understand metamorphic rocks, we discuss the following:
+What are the processes by which minerals change in the solid state?
+What are the important kinds of metamophic rock and how do we classify them
+in a useful way?
+What are the environments in which metamorphic rock evolve?
+
+
+===== metrx_01b.html =====
+
+
+GeoI Metamorphic Rocks
+Let's begin with the processes by which these changes occur, which come under the
+rubric of
+Metamorphism
+Metamorphism is the process by which the mineralogy and
+arrangement of rocks (textures) are modified at depth in the Earth in
+response mainly to changes in temperature and pressure. The key idea
+in metamorphism is change in the solid state. Metamorphism occurs
+well below the Earth's surface and by definition is not a weathering
+or sedimentary type of change. Nor is it an igneous process because
+the rock undergoing metamorphism does not melt; it remains solid
+throughout its metamorphic history.
+Just as weathering results in the development of minerals that are
+more stable at the earth's surface, metamorphism produces new
+minerals that are stable under the conditions operating within the
+earth's crust. Which minerals develop depends upon what those
+conditions are and what type of rock it starts off as (called the
+protolith). It is not
+possible to produce sodic minerals, for example, from a rock that is
+deficient in Na.
+A metamorphic rock is a rock that has changed its form.
+That is, its mineralogy and texture has changed in response to
+changes in temperature and pressure in the earth's crust to which it
+has been subjected.
+The Limits of Metamorphism
+Metamorphism occurs at temperatures and pressures between those at
+which sedimentary rocks form and those at which rocks begin to melt. 
+ Temperature and pressure relationships of various
+   processes operating in the Earth's crust 
+The lower limit of metamorphism is at temperatures of
+around 200C and pressures of 2 to 3 Kb. At pressure-temperature
+conditions lower than this, changes to rocks occur through weathering
+(at the surface) or diagenesis (during burial). Diagenesis is
+gradational to metamorphism.
+The upper limit of metamorphism is at temperatures of around 700
+to 900C and at pressures around 12 Kb. This upper limit is
+determined by the onset of partial melting of crustal rocks, and
+varies with the amount of water present. Minerals with low-melting
+points such quartz and alkali feldspar will melt first. Layers of
+rock that are water-rich will also melt before layers that are
+water-poor. Rocks that show the onset of partial melting, that is,
+they have a mixture of igneous and metamorphic textures, are known as
+migmatites.
+The term "grade" of metamorphism refers to the approximate
+temperature of metamorphism. Low-grade metamorphism refers to
+processes that occur at temperatures below 200 - 320C and at
+relatively low pressures. High-grade metamorphism refers to
+metamorphic processes at high temperature greater than 550C and
+high pressure.
+Metamorphic Grades
+Factors Controlling Metamorphism
+The nature of a metamorphic rock will depend on
+the original composition of the rock,
+the P-T conditions that the rock has been subjected to,
+the amount and composition of fluids in pore spaces, and
+the amount of time required for reactions to take place
+The most important agents, or causes of metamorphism are heat, pressure and
+fluids.
+Heat
+As we know, when we heat up a material we increase the level of vibration at
+the molecular level, which weakens the bonds that hold minerals together.  This
+can allow individual atoms to migrate, resulting in a macroscopic layering of 
+different mineral types.  This phenomenon is called compositional banding.
+An increase in temperature also leads to the loss of water or carbon
+dioxide, forming one or more new minerals in the process. Such
+reactions are named devolatilisation reactions. A metamorphic
+reaction giving off water is called a dehydration reaction, whereas a
+metamorphic reaction giving off carbon dioxide is termed a
+decarbonation reaction.
+A good example for a decarbonation reaction is the metamorphism of
+a quartz-bearing limestone. If heated sufficiently, quartz and
+calcite react to form wollastonite and carbon dioxide.
+CaCO3 + SiO2 =>
+   CaSiO3 + CO2
+calcite + quartz => wollastonite + carbon dioxide
+A good example for a dehydration reaction is the metamorphism of
+kaolinite. If heated sufficiently, kaolinite reacts to andalusite,
+quartz and water.
+Al2Si2O5(OH)
+   4 => Al2SiO5 + SiO2 +
+   H2O
+   
+   kaolinite => andalusite + quartz + water
+Pressure
+Bond breaking
+Generally an increase in pressure leads to a reduction in volume,
+and a consequent increase in density. Pressure at the contact points
+between grains in a sedimentary rock may break the bonding of ions.
+These ions migrate to regions of lower pressure in the pore spaces
+where they rebond with the minerals. This dissolution and
+reprecipitation form triple junctions between grains. 
+Denser polymorphs
+The growth of new minerals may also form that have a denser
+structure. For the aluminosilicates, for example, kyanite
+(Al2SiO5) is the high temperature
+polymorph of andalusite (Al2SiO5). The two
+minerals have the same chemical composition, but they have a
+different arrangement of atoms giving rise to different
+crystallographic structures and thus different minerals. Kyanite has
+a specific gravity of 3.6 compared to 3.2 for andalusite. Kyanite has
+a bladed habit, whereas andalusite typically occurs as square
+prismatic crystals.
+Pressure vs. Stress and the creation of Foliation
+Stress is defined as a force per unit area.  Pressure is usually defined
+as uniform (directionless) stress (i.e., the same force per unit area in all
+directions).  That's pretty simple, but different texts use different terminology; 
+here's a summary
+of some of the lexicon you might encounter.
+Stess is a generally more useful term in Geology because the force per unit
+area often is a function of direction. There are two types of pressure or stress
+often defined as important metamorphic agents: Load pressure (confining
+pressure) or uniform stress and directed pressure or differential
+stress.
+Load pressure (or uniform stress or confining
+pressure or lithostatic pressure) is uniform, i.e. acting
+equally in all directions.  In the Earth it is caused by the weight of the overlying
+rocks and therefore increases with depth. The important relation to remember
+is:
+pressure = density x gravitational acceleration (g) x height
+The pressure gradient is 
+250 to 300 bars per kilometer depending on the density of the rocks.
+A typical load pressure at 35 kilometres depth is 10 Kbars.
+Directed pressure (or differential stress) is non-uniform, i.e. it is not
+equal in all directions.  It is caused by tectonic forces. Such forces cause the
+development of major structures such as folds and faults, as well as acting as
+metamorphic agent. The amount of directed pressure is unrelated to depth of burial.
+Directed pressure generally causes flattening of mineral grains and the development
+of platy minerals (especially micas) growing parallel to the direction of least
+stress. The alignment of numerous micas will produce a foliation.
+Elongated Conglomerate Grains
+Units of pressure
+A bar is a measure of the pressure of the atmosphere on the
+earth's surface. It is equal to 1.02 dyne / cm2. Weather
+maps indicate pressure in millibars. Pressure in the earth's crust is
+either measured in kilobars (Kb) or megapascals (MPa). 1 Kb = 100 MPa (1
+Pa is 1 Newton per square meter). This is about the pressure exerted 3
+km below the surface.
+Metamorphism requires pressures greater than 1 Kb, but as the
+temperatures required for metamorphism do not normally occur until
+above 10 km (at a pressure of around 3Kb), metamorphism does not
+usually take place at these low pressures unless a heat source has
+been introduced.
+Fluids
+The spaces between minerals are known as the pore spaces. This
+pore space is filled with watery fluids, known as intergranular
+fluid. The fluid may be a liquid, or, at high temperatures, a
+vapour. The fluid is largely water, but also contains salts and
+volatiles and other elements. Intergranular fluids are normally
+water-rich, though carbon dioxide may be a significant component,
+especially in rocks containing carbonate (e.g. limestones). As P-T
+conditions alter mineral assemblages, so, too, does the composition
+of the intergranular fluid change, with some elements moving into the
+fluid, and some moving from the fluid to the new minerals.
+Intergranular fluids play an important role during
+metamorphism:
+Reactions in dry rocks are very sluggish and few changes take
+   place. Fluids act as catalysts, i.e. they accelerate otherwise
+   slow mineralogical reactions.
+Dry rocks are poor heat conductors. Fluids transfer heat from
+   heat sources such as cooling plutons into cooler country rocks
+   which promotes the growth of new minerals.
+Transport of atoms through solid material by diffusion is a
+   very slow process. Fluids transport dissolved solids to and from
+   rock masses (including gold) and thus are instrumental in the
+   formation of new minerals.
+As temperature increases, devolatilisation occurs and hydrous
+minerals recrystallise to anhydrous minerals. The released water
+combines with the intergranular fluid. As a result rocks subjected to
+high temperature metamorphism tend to have fewer hydrous minerals
+(e.g. micas, amphiboles) than those subjected to low temperature
+metamorphism.
+As pressure increases, the rock density increases and the amount
+of pore space decreases, driving the intergranular fluid out of the
+rock. High grade metamorphic rocks therefore have higher
+densities and anhydrous mineralogy.
+As the fluid escapes, it may flow through fractures and some of
+the dissolved minerals may be precipitated, resulting in veins. 
+As
+silica is both common and relatively mobile, quartz veins are most
+common, but precipitation of economic deposits (such as gold) may
+also occur. 
+Gold with Quartz
+Many metamorphic rocks preserve these
+fluids as tiny liquid inclusions which can be seen under a
+petrological microscope.
+Time
+Any chemical reaction needs time. Mineral reactions are
+exceptionally slow. Generally, metamorphic rocks that have undergone
+higher pressures and temperatures for longer periods of time tend to
+be coarser grained than their lower grade counterparts.
+Metamorphic changes that take place while pressure-temperature
+conditions are increasing occur when fluid is abundant and are
+relatively rapid. This is termed prograde metamorphism. Any
+changes that occur when pressure-temperature conditions are declining
+are much slower, as a large percentage of the intergranular fluid has
+been lost. Such change is known as retrograde metamorphism. As
+all metamorphic rocks at the Earth's surface have experienced a
+reduction in temperature and pressure, it is only the sluggishness of
+retrograde reactions that allows high grade metamorphic rocks to be
+seen at the surface.
+Parent Rock
+As metamorphism involves the recrystallisation of minerals into
+more stable phases, the overall chemical composition of the
+metamorphic rock must be similar to that of the original parent rock.
+Thus mud rocks, rich in Al, will form metamorphic rocks that have
+Al-rich minerals, such as micas. A rock with a very limited
+mineralogy, however, may undergo textural changes, but may have
+little mineralogical change. A quartz-rich sandstone will still only
+contain quartz when it is metamorphosed, and a pure limestone will
+only contain calcite.
+
+
+===== metrx_01c.html =====
+
+
+GeoI Metamorphic Rocks
+Metamorphic changes
+Metamorphism involves three types of related changes: Textural, Minerological, and Chemical.
+Textural changes
+Heating and increasing pressures will change the texture of a rock
+(its grain size and shape). 
+Generally, increases in temperatures
+result in the formation of larger mineral grains. 
+Under directed
+pressure grains may become flattened, distorted and deformed.
+Directed pressure will result in the formation of minerals with a
+preferred orientation. Naturally platy minerals (biotite, muscovite,
+chlorite) and naturally elongate minerals (amphiboles, sillimanite)
+develop an alignment which gives the rock a distinct texture.
+Foliation is planar texture produced by the alignment of
+flattened and platy mineral grains. Lineation is a linear
+texture produced by the alignment of elongate mineral grains.
+Slaty cleavage is a type of foliation found in very
+fine-grained rocks. The platy minerals are too small to be
+distinguished with a hand lens. 
+Origin of Slaty Cleavage
+Schistosity is a type of foliation
+found in medium to coarse grained rocks. The platy minerals are large
+enough to be distinguished with a hand lens.
+New minerals may grow into large crystals surrounded by a much
+finer-grained matrix of other minerals. These porphyroblasts
+form in the solid state from the chemical ingredients of the rock,
+and they grow at the expense of the matrix surrounding it.
+ Feldspar Porphyroblasts
+ Staurolite Porphyroblasts
+Porphyroblasts look something like phenocrysts, the large crystals in
+predominantly fine-grained igneous rocks, but the textural relations
+are the opposite. Porphyroblasts grew after the main rock matrix was
+formed, whereas phenocrysts formed first, after which the matrix
+crystallised around them.
+Mineralogical changes
+During heating and under pressure, minerals break down and may react
+with each other to new ones. Many of these minerals are the same as
+those which comprise igneous rocks, such as: quartz, feldspar,
+amphibole, pyroxene, biotite, and muscovite.
+In addition, new minerals are formed which are found almost exclusively
+in metamorphic rocks. For example, Regional metamorphic rocks (those formed
+in mountain belts - more on this later) exhibit the
+metamorphic minerals
+chlorite, 
+epidote, 
+garnet, 
+staurolite, 
+andalusite, 
+sillimanite, and 
+kyanite. 
+The following table contains a summary of their properties and links to pictures
+of them.
+Metamorphic Mineral Identification
+NONMETALLIC LUSTER (LIGHT COLOR)
+ Harder 
+    than
+    Glass
+ Cleavage 
+    Prominent
+ White-blue, pearly bladelike crystals; 
+    H:3; parallel to blades; 7 across
+ KYANITE 
+    Al Silicate
+ White, silky long, thin crystals; H:6
+  SILLIMANITE 
+    Al Silicate
+ White-gray; blocky crystals; alters tomica on surface;
+    H:6
+  ANDALUCITE 
+    Al Silicate
+NONMETALLIC LUSTER (DARK COLOR)
+ Harder 
+    than 
+    glass
+ Cleavage 
+    prominent
+ Green to very dark green; one (1) cleavage direction
+    (micaceous); occurs 
+    in foliated or scaly masses; H:2-2.5
+  CHLORITE
+    Mg, Fe, Al Silicate
+ Bright green to greenish-brown; one (1) cleavage
+    direction; H:6
+  EPIDOTE 
+    Ca, Fe, Al Silicate
+ Brown, prismatic, crossed crystals; H:7
+ STAUROLITE 
+    Fe, Al Silicate
+ Cleavage 
+    absent
+ Red, brown, or yellow; glassy luster; conchoidal
+    fracture, common in well- formed twelve (12) sided crystals; H:7-7.5
+ GARNET
+    Fe, Mg, Ca, Al Silicate
+Remembering that most of the materials of the earth are
+made up of only a few  elements and that silicon (Si) and oxygen (O) are the
+most abundant elements found in crustal rocks, you should not be
+surprised to learn that all of these uniquely metamorphic minerals are
+also silicates made up of silica tetrahedra bound together by one or
+more of the elements:
+aluminum (Al), 
+iron (Fe), 
+calcium (Ca), 
+sodium (Na), 
+potassium (K), 
+and magnesium (Mg). 
+All metamorphic minerals except chlorite and epidote occur commonly as
+large crystals surrounded by a finer grained groundmass. They look
+somewhat like the phenocrysts in porphyritic igneous rocks but have a
+very different origin.
+New minerals are also formed by contact metamorphism (high T/Low P - more on this
+later) in rocks
+surrounding igneous intrusions. If the surrounding (country) rock is a
+carbonate (limestone or dolomite) and contains some clay or quartz
+sand, the metamorphic minerals wollastonite (a calcium silicate) or
+diopside (a calcium and magnesium silicate) as well as andalusite and
+garnet may form by recrystallization. The heat generated by the high
+temperature of the intrusion is sufficient to cause this level of
+metamorphism. If hot fluids produced near the intrusion penetrate and
+chemically react with the country rock, many new minerals may form
+including economically important deposits of lead, zinc, tin and other
+ore minerals.
+Chemical changes
+Intergranular fluids are able to transport material from and to
+the rock. Also diffusion of ions through fluids and minerals can
+occur. If there is no chemical change at all during metamorphism, the
+process is isochemical metamorphism. However, in most cases the loss
+of water or carbon dioxide occurs. If there has been some addition or
+leaching of chemical components, the process is termed
+metasomatism. Mid-ocean spreading ridges are a good place to find hydrothermal vents, metasomatized basalts,
+and mineral deposits (see next page for more on this).
+
+
+===== metrx_01d.html =====
+
+
+GeoI Metamorphic Rocks
+Types of Metamorphism
+The main types of metamorphism are contact, regional, burial, dynamic
+and metasomatic.  Their occurrance depends on the geologic/tectonic environment
+in which the rock exists.  For this reason metamorphic rocks and minerals are excellent
+recorders of the Earth's tectonic history.  Here's a crude example:
+Contact Metamorphism
+Contact Metamorphism is characterised by high temperature, low pressure
+conditions, and so is also known as thermal metamorphism.
+It is induced by the proximity of a heat source and is therefore
+limited to the contact zones adjacent to large igneous intrusive
+bodies. The extent of the metamorphism is limited by diffusion of
+heat through the rock and the permeability of the rocks to fluids. As
+the metamorphism envelopes an igneous intrusion, the zone of
+metamorphism is called a metamorphic aureole .
+Comparison of contact metamorphism with pottery
+Sketch of a Metamorphic Aureole
+This type of metamorphism produces a recrystallisation with no
+preferred mineral elongation direction, i.e. foliation, resulting in
+a massive, hard rock of fused, interlocking grains. The rock is a
+called a hornfels. 
+Hornfels
+Any rock type can be hornfelsed; the name
+may be modified by the presence of various porphyroblasts such as
+garnet hornfels. A quartz sandstone will recrystallise to a
+quartzite. 
+Quartzite
+A pure limestone will recrystallise to a
+marble.
+Recrystallisation increases the grain size of the rock, and
+typically forms triple junctions between grains.
+Burial Metamorphism
+Burial metamorphism extends over wide areas and is produced by the
+pressures and temperatures involved with deep burial of rocks or
+sediment. There is no directed pressure, so there is no preferred
+mineral elongation. It is gradational to diagenesis and is generally
+defined as beginning when the first new minerals are formed and
+crystallise.
+Regional metamorphism
+Regional metamorphism is characterised by a range of temperature and pressure
+conditions. This type of metamorphism is induced by an increasing
+geothermal gradient as rocks are buried and differential
+stress is created due to the collision of tectonic plates. Thus
+regional metamorphism is widespread in continental collision zones. A
+foliation appears in the rocks due to the recrystallisation of
+minerals (micas) in a direction parallel to the direction of least
+stress. As changes in geothermal gradients and pressures will lead to
+different mineral reactions, it is possible to observe a series of
+distinct minerals within regionally metamorphosed rocks. The mineral
+characterising a particular metamorphic mineral assemblage is called an
+index mineral, the line connecting the first occurrence of an
+index mineral on a map is termed an isograd.
+Isograds in the Southern Appalacians
+Index Minerals and Grades of Metamorphism
+ Approximate 
+    Temp. Range
+  Metamorphic 
+    Grade
+ Index Minerals
+ Common Mineral Associations
+  
+ 650oC
+ HIGH GRADE
+    
+    
+ 
+
+
+    
+ SILLIMANITE
+    -->
+ Quartz, feldspar, biotite, muscovite, garnet
+ KYANITE
+    
+  STAUROLITE
+    -->
+ Quartz, biotite, muscovite
+ 400oC
+ MEDIUM GRADE
+    
+    
+ 
+
+
+    
+ GARNET
+  BIOTITE
+    -->
+ Quartz, muscovite
+ 150oC
+ CHLORITE
+    
+ LOW GRADE
+    
+The key diagnostic feature of regional metamorphic rocks is the
+development of a foliation due to the differential stresses.
+Dynamic metamorphism
+This is sometimes called fault-zone metamorphism,
+cataclastic metamorphism or dislocation metamorphism
+and is characterised low temperatures and high pressures. This type
+of metamorphism is produced by a mechanical breakage, rather than
+recrystallisation. It is the crushing and grinding that occurs in
+fault zones. Initially, only brittle deformation is involved, but it
+grades into ductile deformation and shearing in mylonite
+zones, where a foliation may develop.
+Marble Mylonite
+Example of development of Quartz Mylonite
+Metasomatism
+Metamorphic reactions discussed so far involve relatively fixed
+chemical compositions, apart from devolatilisation and the release of
+water and carbon dioxide. This is because there is relatively little
+fluid in relation to the amount of rock, and the reactions take place
+slowly. The fluid provides the pathway for the mobilisation of
+elements from one mineral to another, but does not remove enough
+elements to noticeably change the rock composition. Where fluid is
+abundant, however, ions can be removed in solution or precipitated
+from solution and the rock composition changes. Such an alteration of
+the rock composition by the movement of fluids is known as
+metasomatism. Metasomatic processes are important in the formation of
+a number of gold, copper, lead and zinc deposits.
+Metasomatism (also called hydrothermal metamorphism)is
+commonly associated with contact metamorphism, as the fluids from the
+cooling pluton combine with convection currents of groundwater and
+pass through the adjacent rocks. These hot fluids (hydrothermal
+solutions) are able to carry elements such as silicon, iron,
+manganese, copper, lead, zinc or gold in solution. The elements may
+be precipitated from the metamorphic solution if the hot fluids meet
+reactive rocks, such as limestones. Limestone is particularly
+effected as it is relatively porous to fluids. 
+Without the addition of new ions, a pure limestone will simply
+recrystallise to a marble. With the addition of new elements carried
+by the fluid, new minerals other than calcite can crystallise. Close
+to the intrusion minerals such as wollastonite, Ca-garnet
+(grossularite) and Ca-pyroxene (diopside) crystallise. Further from
+the contact, Ca-amphibole and epidote may appear, followed by
+chlorite and serpentine, before passing into unaltered limestone. The
+resulting rock is called a skarn and may contain economic
+concentrations of metals. 
+Skarn - marble contact at the Groundhog mine, New Mexico. 
+Bleached marble contains 0.1-1.0 cm crinoid stems.
+Skarn consists of 1-10 cm crystals of johannsenitic pyroxene which have
+grown in bands separated by crystallites of tiny pyroxene fibers.
+Pink-red mineral at marble contact is rhodonite. Coin in lower right is
+about 1 cm in diameter. 
+Gold-bearing vesuvianite and grossular skarn, near Benambra, northeast Victoria. 
+ This deposit contains some exotic secondary phosphate and vanadate minerals. 
+Similarly, large-scale regional metamorphism may result in the
+production of large volumes of metamorphic fluids. These fluids leach
+out significant amounts of elements including gold from metamorphic
+rocks. The hot fluids are forced to travel to cooler, higher parts of
+the crust where gold may be deposited in quartz veins. The
+gold-bearing quartz veins in Victoria are a good example for such
+metamorphic fluid migration and precipitation processes.
+Large-scale metasomatism is also operating at the mid-ocean ridges. Seawater penetrates into
+the diverging plates and is heated. A convection current is formed,
+and as the heated seawater rises (as a vapour) it alters the
+ultramafic mantle rocks. 
+Olivine and pyroxene are altered to
+serpentine, chlorite, epidote and talc. This is known as
+serpentinisation. 
+Serpentine
+The percolation of the seawater deep into
+the crust, leaches copper, lead and zinc and other elements from the
+rocks. As the fluids rise along the mid-ocean ridges they eject into
+the seawater metal-rich plumes, known as black smokers. The sudden temperature change
+causes the metals to precipitate from the hydrothermal fluids. As a
+result the seafloor becomes covered with metal-rich oozes.
+
+
+===== metrx_02a.html =====
+
+
+GeoI Metamorphic Rocks
+Metamorphic Rocks
+Most of the Earth's crust consists of metamorphic rock. We are not
+usually aware of this because the oceans and a thin veneer of
+sediment often cover these crystalline rocks. Also the formation of
+metamorphic rocks is not an obvious process because it occurs below
+the Earth's surface. It cannot be observed taking place. It is also
+an extremely slow process. However, geologists know a lot about
+metamorphic rocks because these rocks become exposed at the Earth's
+surface as a result of erosion.
+Metamorphic rocks are important rocks because 
+they contain information about temperatures and pressures
+   experienced by a particular part of the crust in the past, 
+from them we can learn about the evolution of the crust
+   through time, 
+some of the oldest rocks on Earth are metamorphic in origin,
+   
+many metal deposits are
+   hosted by metamorphic rocks, 
+important industrial mineral deposits (e.g. marble or slate)
+   are the result of metamorphism, and 
+some fossil records are found in metamorphic rocks.
+As previously noted out, the mineralogy and texture of a
+metamorphic rock will depend on the original composition of the rock
+and the pressure-temperature-fluid conditions that the rock has been
+subjected to. Thus metamorphic rocks have been named partly after
+their texture and also partly after their mineral assemblage. A
+simplified approach in dealing with metamorphic rocks is to look at
+the metamorphism of individual parent rock types under various P-T
+conditions.
+
+
+===== metrx_02b.html =====
+
+
+GeoI Metamorphic Rocks
+Compositional Rock Types
+We can divide most rocks into four general categories:
+Pelitic
+high in Al
+clay-rich rocks such as mudstones and shales
+when metamorphosed they turn into rocks that have a high mica
+   content and, at intermediate to high grade metamorphism,
+   frequently contain aluminosilicate (andalusite, kyanite and
+   sillimanite - Al2SiO5).
+Basic
+high in Fe, Mg and Ca
+basalts and gabbros containing primarily pyroxene and
+   plagioclase.
+when metamorphosed they retain their dark colour, and will
+   contain plagioclase with chlorite, amphibole or pyroxene,
+   depending on the metamorphic grade.
+Quartzo-feldspathic
+high in Si
+sandstones, arkose, granitoids, rhyolites with a high quartz
+   and/or feldspar content
+when metamorphosed, they retain their high percentage of
+   quartz and feldspar. The major change is a change of texture.
+Calcareous
+high in Ca and Mg
+limestones and dolomites
+when metamorphosed, contain minerals that are Ca-rich, such as
+   calcite, wollastonite (CaSiO3), grossularite
+   (Ca-garnet), and diopside (Ca-pyroxene).
+Each of these compositional types can be subjected to varying
+grades of each of the above types of metamorphism to form metamorphic
+rock.
+
+
+===== metrx_02c.html =====
+
+
+GeoI Metamorphic Rocks
+Regional Metamorphism of Pelitic Rocks
+Pelitic rocks are fine grained mudstones, siltstones and shales
+that contain a high percentage of clays, with lesser quartz and
+variable amounts of calcite. Their high Al content leads to a high
+percentage of micas in the resulting metamorphic rock.
+Differential stress aligns the micas, so a pronounced
+foliation is developed. The following rock types are developed
+from low grade to high grade (i.e. increasing P-T conditions). 
+Textural Subdivision of Foliated Metamorphic Rocks.
+ Name
+  Foliation & Cleavage
+ Grain Size
+ SLATE
+ Very fine foliation and excellent cleavage 
+    that produces very smooth, lustrous surfaces
+ Aphanitic
+ PHYLLITE
+ Very fine foliation and good cleavage; surfaces may
+    be wrinkled and usually have a silky sheen
+ Aphanitic
+    to very fine grained
+phaneritic
+ SCHIST
+ Finely foliated; moderately good cleavage
+ Phaneritic
+    fine to medium grained
+ GNEISS
+ Coarsely foliated or banded poor cleavage
+  Phaneritic
+    fine to 
+    coarse grained
+Slate
+Under low-grade metamorphism, fine grains of chlorite and/or
+muscovite crystallise, with their cleavage directions parallel to the
+direction of least stress. The alignment of the fine micas gives the
+rock a foliation known as "slaty cleavage".  Note that the term
+cleavage here refers to the breakage of the rock between mineral
+grains, rather than a mineral cleavage which is the breakage of a
+mineral between planes of atoms within the crystal. The slaty cleavage
+allows the rock to be split into smooth slabs that are suitable for
+roofing tiles, floor tiles and high quality billiard tables. The
+recrystallisation of the grains makes slate harder than shale, and so a
+better building material, and is relatively impermeable perpendicular
+to the foliation. Individual grains are too fine to see giving it a
+dull lustre.  The rock is commonly dark grey, but may be red,
+indicating the presence of iron oxide, green if significant chlorite is
+present, and black if it contains organic material.
+Slate
+Slate in-situ
+Phyllite
+With low to intermediate grade metamorphism, the micas become
+larger, such that they are just visible and the rock develops a sheen
+as light reflects off the aligned micas. Biotite may start to
+crystallise. The rock has a distinct foliation. Colours are similar
+to those of slates.
+Schist
+With increasing metamorphic grade, further significant growth of
+micas is achieved which are now big enough to be recognised with the
+unaided eye. With the coarsening of the micas, the rock becomes quite
+shiny as light reflects off the larger, aligned micas. Under these
+higher P-T conditions, chlorite is unstable and breaks down to
+produce new minerals. New, large minerals that crystallise due to
+metamorphism are known as "porphyroblasts". These include the
+aluminosilicates (andalusite, kyanite and sillimanite -
+Al2SiO5). Aluminosilicates are common in
+metamorphosed pelitic rocks, due to the release of Al as the lower
+grade micas, such as chlorite, break down. Other porphyroblasts
+include cordierite, staurolite, biotite, garnet and K-feldspar. As
+particular minerals are stable at particular P-T conditions, mineral
+assemblages help to define the P-T conditions to which the rock has
+been subjected. The porphyroblasts tend to disrupt the foliation,
+which is known as a schistosity.
+Schist
+Talc Schist
+Mica Schist With Garnets
+Schist Outcrop in Southeast Vermont
+Gneiss
+Under high grade metamorphism, the porphyroblasts grow larger,
+disrupting the schistosity. At these P-T conditions, muscovite reacts
+with quartz to produce K-feldspar and one of the aluminosilicates
+(depending on the P-T conditions). Temperatures are around
+600C. The proportion of micas to granular minerals is thus
+reduced, and so the foliation is less pronounced. The micaceous
+layers become segregated from the quartz-feldspar rich layers,
+leading to the development of light and dark coloured bands, known as
+"compositional layering". The separation of the light coloured
+quartz and feldspar from the dark coloured biotite and pyroxenes is a
+form of metamorphic differentiation.
+GNEISS
+GNEISS Outcrop in Big Horn Mtns, Wyoming
+Gneiss (pronounced "nice") is typically found in the eroded
+remnants of the cores of ancient mountain ranges. At he highest
+grades, with temperatures around 700 - 800C, the felsic layers
+may be partially melted, whereas the mafic layers, which have a
+higher melting point, remain solid. Such rocks are called
+migmatites. With increasing grade, the entire rock may melt,
+and an igneous granite will form.
+MIGMATITE Outcrop in Big Falls, Wisconsin
+
+
+===== metrx_02d.html =====
+
+
+GeoI Metamorphic Rocks
+Contact Metamorphism of Pelitic Rocks
+Hornfels
+Because there is no directional stress applied during contact
+metamorphism, contact metamorphic rocks do not develop a foliation.
+Recrystallisation, however, produces fused, interlocking grains,
+leading to a hard, fine-grained, massive rock called a hornfels . The
+name may be modified by the presence of various porphyroblasts, such
+as, in order of increasing metamorphic grade,
+cordierite hornfels
+andalusite hornfels and
+garnet hornfels.
+Andluscite Hornfels
+Note that andalusite is the only aluminosilicate that is formed by
+contact metamorphism - kyanite and sillimanite require higher
+pressure conditions. The highest grade hornfels are found in contact
+with the intrusive body that supplied the heat for the
+metamorphism.
+
+
+===== metrx_02e.html =====
+
+
+GeoI Metamorphic Rocks
+Regional Metamorphism of Basalts
+Basaltic rocks (basalt lava & pyroclastics, dolerite, gabbro)
+are rich in Fe, Mg and Ca and are composed essentially of
+plagioclase, pyroxene and olivine, which are all anhydrous minerals.
+Under conditions where H2O is present, basaltic rocks show
+a progression of associated minerals with increasing metamorphic
+grade.
+Metabasalt
+The lowest grade rocks contain a variety of zeolite minerals
+formed by the alteration of volcanic glass. There is some development
+of chlorite, epidote and calcite as the mafic minerals recrystallise,
+but at this early stage of metamorphism, they retain much of their
+original characteristics and are named by the addition of the prefix
+meta-, such as meta-basalt, meta-dolerite, etc.
+Chlorite altered basalt of the Cromwell Metabasalt within the Eastern creek Volcanics, Australia.
+Greenschist
+Under low grade regional metamorphism, the high-temperature
+Ca-plagioclase is converted to the low-temperature Na-plagioclase,
+albite, while the anhydrous pyroxene and olivine are replaced by the
+hydrous minerals chlorite, epidote and actinolite (an amphibole). The
+mafic minerals gives the rock a green colour and the rock develops a
+foliation - hence the name "greenschist". 
+Photograph of a handsample representing the greenschist facies. This
+sample contains actinolite, chlorite, epidote, and sphene.
+Amphibolite
+During intermediate grade metamorphism, chlorite and epidote break
+down and hornblende crystallises. There is a foliation defined by the
+alignment of the elongate amphiboles, but this foliation is not as
+pronounced as that developed by mica rich schists. the rock is
+composed essentially of plagioclase and hornblende, but may have
+minor calcite and garnet.
+Photograph of a handsample representing the amphibolite facies. This sample contains plagioclase, hornblende, and quartz.
+Granulite
+During high grade metamorphism, amphiboles are replaced by
+pyroxene, as water is expelled. The foliation is indistinct, defined
+by alignment of pyroxenes. Granulites are essentially composed of
+plagioclase and pyroxene with some garnet. Note that this composition
+is not much different from that of an intrusive igneous rock, the
+gabbro, although the textures are different and garnet is present as
+a minor mineral in granulites rather than olivine in gabbros.
+Granulite facies rocks from Namaqualand, South Africa.
+Hand sample of a Granulite.
+Eclogite
+At extreme P-T conditions such as those experienced at the base of
+the crust, basaltic rocks react to form garnet and a distinctive
+green pyroxene called omphacite.
+Photograph of a hand sample representing the eclogite facies. This sample contains garnet, quartz, omphacite, and orthopyroxene.
+A microphotograph of an eclogite sample. 
+Black is garnet and the colored crystals are omphacite.
+Blueschist
+Under conditions of high pressure but low temperature, a sodic
+amphibole called glaucophane crystallises. This is a blue
+colour and rocks formed under these conditions are called
+blueschists. These low temperature - high pressure conditions are
+indicative of subduction zones, where cold surface rocks are rapidly
+dragged down the subduction zone to regions of high pressure.
+GLAUCOPHANE 
+Blueschist; 
+Siphnos, Greece
+Blue is the natural color of glaucophane in plane-polarized light. You
+can see that individual crystals vary from blue to lavender to colorless
+depending on their orientation. The crystals have a zillion orientations in
+the three-dimensional world of the rock, but keep in mind that the thin
+section is only a two-dimensional slice. Plane polarized light interacts in
+specific ways with grains that are positioned differently to the light path.
+The slight color variations that result serve to identify glaucophane
+because only two other very rare minerals show comparable color.
+Rocks that contain abundant glaucophane are called blueschists.
+
+
+===== metrx_02f.html =====
+
+
+GeoI Metamorphic Rocks
+Contact Metamorphism of Basalts
+In a similar manner to the contact metamorphism of a sedimentary
+rock, basaltic rocks will also recrystallise to massive rocks with no
+foliation, producing a hornfels. Again, the name may be
+modified by the presence of indicator minerals such as, in order of
+increasing metamorphic grade
+epidote hornfels
+hornblende hornfels
+pyroxene hornfels.
+In general, hornfelses may be prefixed by their characteristic
+minerals (as above), or by compositional terms such as a
+calc-silicate hornfels, basic hornfels, etc.
+
+
+===== metrx_02g.html =====
+
+
+GeoI Metamorphic Rocks
+Metamorphism of Quartzo-Feldspathic Rocks
+Quartzite
+Quartz sandstones do not contain the necessary elements to form
+platy minerals, so they commonly form with no outstanding preferred
+orientation or foliation. Metamorphism of pure quartz sandstones leads
+to the development of an interlocking mosaic of crystals. Such a
+texture is called granoblastic. The recrystallisation of the
+cement surrounding the original grains is as strong as the bonds within
+the quartz crystals, so quartzites tend to break through both the
+original grains and the recrystallised cement.  The lack of index
+minerals makes it difficult to determine the metamorphic grade that the
+rock was subjected to.
+Gneissic Granite / Granitic Gneiss
+Granites do not show much change with metamorphism, as the
+minerals are already stable at high pressures and temperatures due to
+their formation under similar conditions. Differential stress,
+however, will produce some recrystallisation and the rock will
+develop a foliation. As the rock is still essentially an igneous
+rock, it is called a "foliated granite". Under high grade
+metamorphism, any muscovite present will break down to produce
+K-feldspar, and the rock may develop some compositional layering.
+Such a rock is generally called a gneissic granite if it looks more
+like a granite than a gneiss, or a granitic gneiss if it looks more
+like a gneiss.
+Granitic gneiss from the Smoky Mtns with foliation defined by bands of black biotite mica and white plagioclase feldspar is exposed near Cherokee.  At 1 billion years old they are the oldest rocks in the Smokies.
+
+
+===== metrx_02h.html =====
+
+
+GeoI Metamorphic Rocks
+Metamorphism of Calcareous Rocks
+Marble
+Pure limestone is composed predominantly of calcite. When this is
+metamorphosed, the calcite recrystallises, but remains as calcite.
+There are no other elements to combine with the  calcite to produce
+new minerals. The resulting rock is a marble. Because there are no
+new minerals growing with increasing metamorphic grade, it is
+difficult to determine the conditions that the rock was subjected to.
+As marble is not a platy mineral, it may not display a distinct
+foliation, but there is generally some indication of alignment of
+minerals in a regionally metamorphosed marble.
+Byzantium carving in marble
+Calc-silicate Rocks
+Where clays and silica is also present in the limestone, such as
+will occur in muddy limestones and sandy limestones respectively, the
+addition of different elements allows the crystallisation of new
+minerals. Quartz and calcite will react to form wollastonite,
+whereas if clays are present vesuvianite (idiocrase) may be formed.
+WOLLASTONITE
+VESUVIANITE
+Wollastonite has long, white tabular crystals. Vesuvianite has brown
+to green prismatic crystals. Other minerals present carbonates,
+chlorite, epidote, Ca-amphiboles, Ca-garnet (grossularite), and
+plagioclase, all of which contain Ca. Recall these minerals are
+created with limestone
+is metasomatized in the presence of a hot intrusion to produce a
+scarn.
+GROSSULARITE
+The lack of platy minerals means that any foliation developed
+during regional metamorphism may be weak.  
+
+
+===== metrx_02i.html =====
+
+
+GeoI Metamorphic Rocks
+Summaries of the more common Metamorphic Rocks
+Metamorphic Rocks Produced by Regional Metamorphism
+ Material & Composition
+ Increasing Metamorphic Grade
+ Limestone 
+    CA+2, Co-2
+ ___________________Marble_______________>
+    (Crystalline Calcite)
+ Quartz Sandstone
+SiO2
+ __________________Quartzite________________>
+    (Recrystallized Quartz)
+ Mudstone or Shale
+    SiO-44, Al+3, Fe+2, Mg+2,
+    Ca+2, H+, O-2
+  __Slate_____>Phyllite_____>Schist_____>Gneiss
+    Chlorite_____ Muscovite_____ Garnet_____
+    Sillimanite
+ Basalt 
+    Fe+2, 
+    Mg+2,Ca+2,SiO-44
+Metabasalt____>
+Greenschist____>
+Amphibolite__>
+Granulite__>
+Ecologite
+ Granite
+    Na+, K+,SiO-44, Ca+2,
+    Al+3
+ _________________ No Change________>Granite Gneiss 
+    (Granite originally 
+    formed at high 
+    temperature/pressure)
+Classification of Metamorphic Rocks
+ Texture
+ Composition
+ Rock Name
+ F
+    O
+    L
+    I
+    A
+    T
+    E
+    D
+ VERY FINE
+ 
+ C
+    h
+    l
+    o
+    r
+    i
+    t
+    e
+
+ M
+    i
+    c
+    a
+
+
+ Q
+    u
+    a
+    r
+    t
+    z
+ 
+
+
+F
+    e
+    l
+    d
+    s
+    p
+    a
+    r
+ 
+
+
+A
+    m
+    p
+    h
+    i
+    b
+    o
+    l
+    e
+ 
+
+
+P
+    y
+    r
+    o
+    x
+    e
+    n
+    e
+ SLATE
+ FINE
+  PHYLLITE
+ MEDIUM
+  SCHIST
+ COARSE
+ GNEISS
+ Foliated to nonfoliated, medium to coarse grained
+ Variable but fine quartz and micas are common
+ AMPHIBOLITE
+ N
+    O
+    N
+    F
+    O
+    L
+    I
+    A
+    T
+    E
+    D
+ COARSE GRAINED
+ Deformed fragments of any rock type
+ METACONGLOMERATE
+ FINE TO MEDIUM GRAINED
+ Quartz
+  QUARTZITE
+ Calcite & dolomite
+  MARBLE
+ FINE GRAINED
+ Hornblende & plagioclase
+  HORNFELS
+ Carbonaceous material
+ BITUMINOUS COAL
+
+ANTHRACITE COAL
+
+
+===== metrx_03.html =====
+
+
+GeoI Metamorphic Rocks
+Metamorphic Facies, Zones, and Environments
+The study of metamorphic rocks can provide a wealth of information about the
+tectonic history of a region, because the minerals that form, combined with 
+radiometric dating, allow us to construct a Pressure-Temperature-Time (PTT)
+path from which we can infer a region's history.
+We already discussed index minerals that form in a certain range of
+P-T conditions.  However, more precise definition of P-T can be determined
+by looking at groups or assemblages of minerals that coexist in
+a narrowly determined range of P and T.  These assemblages, and by extention
+the P-T conditions that create them, are called Metamorphic Facies.
+The following diagram shows metamorphic facies in
+relation to Pressure and Temperature.
+
+Key reactions include the out going of chlorite marking the
+greenschist - amphibolite boundary in the reaction chlorite +
+muscovite + quartz -> cordierite + aluminosilicate + biotite +
+H2O.
+A key reaction marking the amphibolite - granulite boundary is the
+out going of muscovite in the reaction of muscovite + quartz ->
+K-feldspar + aluminosilicate + H2O.
+That is, amphibolite facies rocks do not contain chlorite and
+granulite facies rocks do not contain muscovite.
+The following is a summary of mineral characteristics in some of the different facies:
+Zeolite Facies 
+Zeolites are groups of white to colourless hydrous alumina silicates, analogous in
+composition to feldspars. 
+Laumontite, heulandite and analcine are common, the assemblage Quartz + Laumontite +
+Chlorite is diagnostic.
+Prehnite - Pumpellyite 
+Prehnite +/- Pumpellyite + Quartz is typical. 
+Prehnite - Ca2Al2Si3O10(OH)2;
+ Pumpellyite -
+ Ca2MgAl2(SiO4)(Si2O7)(OH)2H2O 
+Glaucophane - Lawsonite Schist or Blueschist
+High P Low T 
+Glaucophane (Na2MgAl2Si8O22(OH)2) (alkali-rich amphibole) + Lawsonite
+(CaAl2Si2O7(OH)2H2O) are characteristic
+            also 
+Jadiete (NaAlSi2O6) + Quartz + Aragonite 
+Greenschist 
+ 
+Albite + Epidote + Actinolite + Chlorite + Calcite in mafic rocks 
+ pyrophyllite in pelitic rocks 
+Amphibolite 
+ Hornblende + Plagioclase (An > 20) 
+Kyanite (Al2SiO5) in pelites 
+Granulite
+lower crustal lithology 
+clinopyroxene + orthopyroxine + plagioclase + Fe - Mg garnet 
+Eclogite 
+lower crust or upper mantle lithology 
+Feldspar-free assemblages, with jadiete-rich clinopyroxene + pyrope (Mg-rich garnet) 
+Metamorphic Zones
+As rocks of the same chemical composition have different mineral
+assemblages, and rocks with the same mineral assemblages represent
+similar metamorphic facies, then by selecting characteristic index
+minerals, regions of similar metamorphic grade can be mapped in the
+field. The line that indicates where these index minerals first
+appear is known as an isograd . The region between
+isograds is a metamorphic zone . Thus the first
+appearance of biotite in a metamorphic rock defines the biotite
+isograd, and the biotite zone continues until the in coming of the
+next highest index mineral. Note that biotite may continue to occur
+in the higher metamorphic zones.
+The concept of metamorphic zones was pioneered by a Scottish
+geologist, Barrows, in the Sottish highlands, where the index
+minerals, in order of increasing metamorphic grade, are chlorite -
+biotite - garnet - staurolite - kyanite - sillimanite. This
+characteristic metamorphic facies series is now known as Barrovian
+series metamorphism.
+Plate Tectonics, Metamorphism and Time
+Certain metamorphic facies are indicative of particular
+structural, or plate tectonic settings. Microstructural examination
+of metamorphic rocks often allows you to see relationships between
+past metamorphic events that allow an interpretation of the tectonic
+history of the rock. 
+In the above Curve A represents a probable geothermal gradient which would
+extend outward (including upward) from an intrusive igneous rock during
+cooling of the magmatic intrusive. Heat transfer would induce contact
+metamorphism within the surrounding rocks. Curve B is a normal
+geothermal gradient. Curve C is the geothermal gradient of a typical
+subduction zone. Note that subduction brings cool rocks from the
+Earth's surface down into a high-pressure regime.
+These histories can be plotted on a P-T diagram,
+with an indication of a time (t) component. Two examples are shown
+below.
+P-T-t Paths of Blueschist Metamorphism
+Blueschists are indicative of subduction zones. Cold, crustal
+   rocks (at t1) are dragged down by the rapidly
+   subducting plate. They are thus subjected to a rapid increase in
+   pressure, but are still relatively cool. These are the conditions
+   of blueschist metamorphism, shown below on the diagram at time
+   t2. It is known as blueschist due to the presence of
+   the amphibole glaucophane, which gives the rock a characteristic
+   blue colour. Buoyancy of the low density, crustal rocks stabilises
+   their position in the crust, or may lead to a release of pressure,
+   but the temperature of the rocks rises in keeping with their deep
+   burial (time t3). As the rocks rise to the surface,
+   pressures and temperatures decrease in keeping with the geothermal
+   gradient. Retrograde metamorphism may occur (time t4).
+   The P-T-t path of such a tectonic history delineates a clockwise
+   path on a P-T diagram, as shown below.
+   
+P-T-t Paths of Collision Zone Regional Metamorphism
+On the landward or volcanic arc side of a subduction zone,
+   magmas formed by the wet partial melting of the subducting plate
+   rise through the overriding plate to high levels in the crust and
+   heat the crustal rocks (t1) to t2). Note
+   that the volume of melt involved leads to regional scale heating.
+   Contact metamorphism would also occur adjacent to each intrusion.
+   As the continents collide and the lithosphere thickens, pressure
+   increases for the deeper rocks, with an increase in temperature,
+   but at a lesser rate (t3). As later uplift and erosion
+   progressively exposes the deeply buried rocks, pressures and
+   temperatures subside and retrograde metamorphism may take place
+   (t4). The P-T-t path of such a tectonic history
+   delineates an anti-clockwise path on a P-T diagram, as shown
+   below.
+   
+The above provides an explantion for metamorphism commonly found near
+old plate boundaries.  In 1961, Akiho Miyashiro noted that in the
+cicumpacific region, belts of  high pressure, low temperature
+metamorphism on the oceanic side were associated with belts of high
+pressure, high temperature metamorphism on the continent side.  He
+termed such an occurrence Paired Metamorphic Belts.  The two examples
+he cited are:
+Japan, where the Sanbagawa Belt represents the high pressure, low
+temperature belt, and an adjacent belt, called
+the Ryoke-Abukuma Belt, represents the high pressure, high
+temperature belt.  Here the Ryoke-Abukuma belt consists of
+Barrovian and Buchan Facies series metamorphic rocks.
+The western U.S., where the Franciscan complex contains rocks
+metamorphosed at high pressure and low temperature, and rocks exposed
+in the Klamath Mountains and Sierra Nevada Mountains have remnants of
+Barrovian and Buchan Facies Series metamorphic rocks.   Since most of
+the Sierra Nevada mountains now consist of batholiths, as discussed
+previously, one had to look at the roof pendants above the batholiths
+and in the western foothills of the Sierra Nevada to see the high
+pressure - high temperature metamorphic rocks.
+In the case of the Japanese paired belts, the two belts are adjacent to
+one another likely because subduction has moved
+ farther off the coast. Compressional tectonics between the Pacific and
+ Eurasian Plate has accreted the island arc and trench complex to Japan
+ at the end of the Mesozoic.
+ In the case of the western U.S., the paired belts are separated from
+one another.  This is because the oceanic ridge that
+ was off the western coast of North America was subducted, and the
+ margin changed from one dominated by compression and subduction to a
+ transform fault margin dominated by strike slip faulting.  Isostatic
+ rebound of the highly deformed Franciscan Complex has resulted in its
+ exposure at the surface.
+
+

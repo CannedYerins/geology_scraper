@@ -1,0 +1,490 @@
+===== eq1_1.html =====
+
+
+Earthquake Lecture
+All About Earthquakes
+What is an earthquake?
+
+Two distinct parts that are easily (and often) confused:
+The motion of the earth (what you feel and what knocks things
+over); usually the generic definition. Example: Mexico City Earthquake Damage
+The source of the motion, a brittle failure of rock; usually
+the seismologist's definition, and what the most people mean when referring
+to "prediction".
+Naturally these are related, but it's easier to think about
+what happens in a an earthquake if we make this distinction, and discuss
+them separately.
+Let's begin with the earthquake source: these are the
+processes that put energy into the Earth and cause the shaking (the effects).
+
+
+
+===== eq1_2.html =====
+
+
+Earthquake Lecture 
+
+How do we know about earthquake sources?
+A very brief history:
+Aristotle and friends: Winds in caverns; explosive gases
+Japan: Giant Catfish
+Late 1800's in Japan - a direct association of the earthquake source with a prominent fault scarp was made.
+1906 - H. Reid publishes "elastic rebound" model that directly blames the fault for the source of trouble. This model has withstood intense observation and basic idea is still used today. (for shallow earthquakes, anyway).
+Simple Application to Izmit, Turkey
+More Sophisitcated Application to Izmit, Turkey
+Today - instruments recording ground motion and knowledge of Earth response to energy input over last 10-20 years allow us to model large earthquake sources in great detail.
+
+ 
+ 
+ 
+ 
+
+
+===== eq1_3.html =====
+
+
+Earthquake Lecture
+Brittle Failure:
+The Key to the Earthquake Source
+When rocks are stressed, they strain (deform). If they
+deform elastically, this strain constitutes an energy stored in the rock.
+If the energy is too great, the internal bonds break and the rock fails
+(cracks; breaks). We say that the strength of the rock is exceeded. Generally,
+the more strain (displacement, actually) built up before failure, the greater
+the energy release upon failure.
+Some details:
+ Stress, strain and confining pressure 
+ Tangential and Normal Stress 
+ Mohr's Circle 
+ Mohr-Columb Failure Criteria 
+Effects of Internal Friction
+Induced Seismicity
+So what affects the strength of a rock?
+Material properties (lithology), in particular the shear
+modulus. Stain can't build up in incompetent material, so no significant
+earthquake can occur. Differences in strength also can control where earthquakes
+start and stop.
+Differential stress - the definition of strength - is the
+largest difference between maximum and minimum stress that a rock can endure
+(s1 - s2).
+Confining or "effective" pressure (a consequence of
+(2)). Pore pressure lowers effective pressure.
+Existence of previous fractures.
+Strain Rate: Generally, if we deform rocks slowly,
+they tend to deform in a ductile way.
+Temperature.
+750 C is about the limit for brittle failure
+in olivine, 600 C for quartz. This has important implications for
+how the lithosphere works (it's mechanical properties). It also controls
+the maximum depth of earthquakes. (Why do we have deep earthquakes, then?)
+
+
+===== eq1_4.html =====
+
+
+Earthquake Lecture
+
+What happens when rock fails in the earth?
+What size rock are we talking about? Anywhere from a square
+meter to many square kilometers (more on this later). Note: earthquakes
+sources are not points!
+Usually failure occurs on a fault plane (related to the maximum
+shear stress), often on preexisting fault planes. The creation of new faults
+is a question of minimum energy (e.g. Himalayas).
+The plane doesn't fail all at once. Instead, failure nucleates
+at a point and spreads across the fault (at shear wave velocity) and then
+eventually stops because of some barrier (geometrical or lithological).
+The time it takes to do this is called the "Rupture Time". Generally, the
+bigger the earthquake, the deeper the nucleation point (the contrary is
+not true, due to "weak patches").Example of Northridge Earthquake Rupture
+Also, each point doesn't fail instantaneously, but takes
+a certain amount of time to do so. This time is called the "Rise Time".
+Rupture and Rise times have very important consequences
+for how seismic waves are generated. In particular, the longer a source
+takes to rupture, the less high frequencies are generated. This has important
+consequences for how we estimate magnitude.
+We can characterize the physics of a rupture by force couples,
+or "moments" across the fault plane. This is the preferred method used
+by seismologists.
+This brings us to the next topic ->
+
+
+
+
+===== eq1_5.html =====
+
+
+Earthquake Lecture
+How Big are Earthquakes?
+Richter Magnitude: Based on records of local shaking,
+not on the physics of the earthquake source, but you can see that the two
+are connected. In fact this isn't such a bad system, but it has some limitations.
+A system based on earthquake physics is the Moment scale,
+and is the one seismologists use. The moment is defined as
+Mo = Ad
+ = shear modulus
+A = area of fault that ruptured
+d = average displacement that occurred
+ doesn't change much (factor of two at most) so (relatively
+speaking) isn't that important. What really counts are A and d.
+How do we measure Mo?
+Field observation: d, A can be estimated (d from surface
+break, A from 
+aftershocks).
+Amplitude of waves at "zero" frequency. Spectrum is flat
+at long periods, so we can estimate it reliably from seismograms. Also,
+long period waves are not very sensitive to earth structure. This is what
+is usually done by seismologists.
+Earthquakes vary over several orders of magnitude in terms
+of how much energy they release and the kinds of areas and displacements
+are involved.
+RichterMagnitude
+TNT for Seismic 
+Energy Yield
+Example (approximate)
+-1.5             6 ounces   Breaking a rock on a lab table
+ 1.0            30 pounds   Large Blast at a Construction Site
+ 1.5           320 pounds
+ 2.0             1 ton      Large Quarry or Mine Blast
+ 2.5           4.6 tons
+ 3.0            29 tons
+ 3.5            73 tons
+ 4.0         1,000 tons     Small Nuclear Weapon
+ 4.5         5,100 tons     Average Tornado (total energy)
+ 5.0        32,000 tons
+ 5.5        80,000 tons     Little Skull Mtn., NV Quake, 1992
+ 6.0     1 million tons     Double Spring Flat, NV Quake, 1994
+ 6.5     5 million tons     Northridge, CA Quake, 1994
+ 7.0    32 million tons     Hyogo-Ken Nanbu, Japan Quake, 1995; Largest Thermonuclear Weapon
+ 7.5   160 million tons     Landers, CA Quake, 1992
+ 8.0     1 billion tons    San Francisco, CA Quake, 1906
+ 8.5     5 billion tons     Anchorage, AK Quake, 1964
+ 9.0    32 billion tons     Chilean Quake, 1960
+10.0    1 trillion tons     (San-Andreas type fault circling Earth)
+12.0  160 trillion tons     (Fault Earth in half through center,
+OR Earth's daily receipt of solar energy)
+160 trillion tons of dynamite seems like an incredible amount of energy. Consider, however, that the Earth receives that amount in sunlight 
+every day.  Of course, in the case of an earthquake all this energy is released in a matter of minutes.
+
+
+
+
+===== eq1_6.html =====
+
+
+Earthquake Lecture
+
+Note that changes in stress and strain resulting from
+an earthquake are about same for all magnitudes. This implies that earthquakes
+are "self-similar".
+The problem with the Richter scale is that it is not based
+on the zero-frequency limit. Body wave M (Mb) is measured at
+about 1 second (1Hz), surface wave M (Ms) at 20 seconds (.05
+Hz). Because larger earthquakes generate (relatively) less energy at high
+frequencies, Mb saturates at about and Ms at about
+8.3.
+Because the Richter scale is so ingrained, we try to come
+up with a "modified" scale based on moment so that phenomenological problems
+are eliminated. A useful relationship is:
+M = 2/3 log Mo - 10.7
+The earthquake frequency relationship is:
+log N = bM + C
+where N is the number of earthquakes of a given magnitude
+(M) in a certain period of time. The slope is called the "b-value". It
+usually equals 1, which also implies a self-similarity and a kind of randomness
+in earthquake occurrence.
+
+
+
+
+===== eq1_7.html =====
+
+
+Earthquake Lecture
+
+Where is earthquake-producing strain accumulating in
+the earth?
+Mainly at plate boundaries - a plate is a plate because
+it doesn't deform very easily, so the strain is concentrated at the boundaries
+(but note what happens in the continents!).
+World's Major Plates
+World Earthquake Distribution
+There are general relationships between earthquake size
+and type of boundary - they are all a question of temperature mostly, but
+also of stress.
+To 1st order:
+
+
+
+
+===== eq1_8.html =====
+
+
+Earthquake Lecture
+Transforms or Strike Slip:
+smallest, because of vertical dip ("A" is limited). Not much
+activity on fracture zones in the oceans. Exceptions: some transforms can
+be very long (several 100's of km) so total "A" can still be appreciable.
+Also, sometimes strain waves can cause motion on other types of faults.
+Examples:  California, Mongolia, Turkey, Ocean Transforms 
+Can we calculate the largest possible EQ in California?
+
+
+===== eq1_9.html =====
+
+
+Earthquake Lecture
+Normal:
+Larger, because shallower dip makes for larger surface area.
+The maximum stress is due to gravity, so only relatively weak material,
+or high plateaus, will fail in this way. Exceptions: Throughgoing fault
+in bending plates (but this is because of plate flexure). Examples: Sumba,
+Basin and Range.
+
+
+===== eq1_10.html =====
+
+
+Earthquake lecture
+
+Thrust:
+Examples: S. America, Alaska, Japan, Philippines, Caribbean
+Generally these are the most dangerous, for several reasons:
+Large areas produced by shallow dip angles and cold temperatures
+from surface derived materials.
+Large confining pressures due to depth, overburden caused
+by mountains, and tectonic forces Rocks are stronger and able to store
+more strain.
+Long, homogeneous boundary (fault plane) caused by relatively
+smooth ocean floor.
+Earthquakes Define Benioff Zones
+Upper Part of Benioff Zone
+Comparison of Moment Release
+2nd order: the relation between earthquake size and convergence
+rate and age of lithosphere, both of which encourage "coupling" between
+plates.
+Blind thrusts: the ultimate in seismo-anxiety.
+Now, we know something about where they will happen, and
+about how big they can be.
+
+
+===== eq1_11.html =====
+
+
+Earthquake Lecture
+
+What about when? (the prediction problem)
+First concept: Earthquakes tend to happen in the same
+places (along the same faults), and if you need to build up strain for
+them to occur you can't have a big one every day. So, there must be some
+"rest period" in between the earthquakes at a given segment. Is this "rest
+period" periodic? Can we determine this "recurrence interval"?
+How fast does strain build up?
+SA - 3 cm/year (fast) or 1 meter/33 years; 3.5 meters/117
+years
+So, M=7 every 33 years, or 8 every 117 years
+NA-PAC - 5.5 cm/year - where does the rest of it go? (B&R
+is some; other is distributed on other faults in area).
+
+
+===== eq1_12.html =====
+
+
+Earthquake Lecture
+If plate motions are more or less constant, one may expect
+a periodicity, but:
+What evidence is there that earthquakes are periodic?
+Historical - not a long record of activity, particularly
+for M>7. Chinese records are valuable, but "New World" activity is a mystery.
+A lot of interest in historical accounts (newspapers, diaries, etc.)
+Geological - Trenching along faults reveals disturbed seds
+that sometimes can be dated. This is a popular area of research now. Only
+problem is diminished resolution, but is useful for "long-term" prediction.
+ Trench Cross-section.
+ Recurrance interval.
+So it seems that they are, approximately: Example from 
+Parkfield
+is rather interesting.
+
+
+===== eq1_13.html =====
+
+
+Earthquake Lecture
+
+What about precursory information
+(more short term)?
+This is the "pot at the end of the rainbow" for seismology,
+it's biggest prize and it's biggest problem.
+The reward is so obvious that the approach has been willy-nilly,
+a bit like a gold rush. "Look under every rock and maybe something will
+turn up" philosophy, as opposed to trying to understand what it is you
+should be looking for. A lot of "non-science" comes out of this.
+A wide variety of phenomena has been studied, but nothing
+yet is "sure fire". Dilatency seemed to hold some promise for a while, but is
+inconclusive. A review of some of the more "popular" finds.
+Uplift or Subsidence - Niigata vs. Palmdale vs. Shumagin.
+Seismic Gaps - strain accumulating where slip should take
+place - a pretty good medium term estimator. Eg. Map of CA seismicity
+prior to Loma.
+Resistivity - one of the big unknowns. Hard to do correctly
+(get rid of noise). My personal favorite. MT and Loma P.
+Radon emissions - increased amounts in water in deep wells.
+Foreshocks: well, sometimes. Problem is you don't really
+know it's a foreshock until you have a mainshock. Haicheng vs Tengshan
+earthquakes good example.
+Anomalous animal behavior Dogs barking, snakes come out of
+ground, fish jump out of water. Difficult to evaluate. Eg. Helmut Tribitsch.
+Geodetic monitoring of strain - a new approach.
+
+
+===== eq1_14.html =====
+
+
+Earthquake Lecture
+
+So, there are no good short term ways to do this yet. It's not an easy problem.
+
+A better way for now: talk in terms of probabilities versus actual occurrence. For one thing, it's more representative of the true state of information. A bit like weather or fire forecasting, but a lot of people (real estate developers) don't like this at all. Lately, however, the methods of computing these probabilities have been brought into question.
+
+Some recent progress on the hazard front: We may be able to appreciate the hazards involved by
+investigating the perturbations to stress caused by sequences of earthquakes:
+Izmet model again
+Simplified North Anatolian Fault
+Realistic North Anatolian Fault
+Istanbul/Sea of Marmara
+Southern California
+ 
+ 
+ 
+ 
+ 
+
+
+===== eq1_15.html =====
+
+
+Earthquake Lecture
+
+Now, what about THE MOTIONS
+(the other part)?
+When a fault ruptures, some fraction of the energy leaves
+the area as seismic waves. There are two main types:
+Body Waves: Compressional (P) and Shear (S)
+Surface Waves: Raleigh (R) and Love (L)
+Wave Velocities:
+Vp = 6 km/s in the crust, 8 km/s in Mantle
+Vp = 1.7* Vs
+Vs = VL, but takes a shorter path
+VR = 0.9 VL
+We can use the differences in P and S wave speed to determine
+locations by triangulation, although the actual process is more sophisticated.
+Wave Amplitudes:
+As> Ap
+AR, AL > As
+Also, a lot of scattered energy in between the main phases.
+This makes for a more or less continuous signal. Also, R, L are dispersive,
+with long wavelengths arriving first.
+As the waves leave the source area, two things happen:
+The wave train gets longer because of differing velocities.
+The amplitudes decay through geometric spreading and finite
+Q (earth is not perfectly elastic - an important consideration for risk
+assessment - e.g. US intensity map).
+So, the farther away you are from the earthquake source,
+the less shaking you will feel, right?
+
+
+===== eq1_16.html =====
+
+
+Earthquake Lecture
+WRONG!
+One of the most important elements in shaking is the local
+geology. In particular, sediment filled valleys cause resonance phenomena.
+Good examples: Mexico City, Marina District, Bay Muds.
+Build your house on bedrock!
+Relation of source to shaking: Intensity maps - much more
+useful in hazard analysis (closer to the end product). Also, good for historical
+documentation.
+
+
+
+
+===== eq1_17.html =====
+
+
+Earthquake Lecture
+NOT SO NICE EFFECTS OF SHAKING,
+besides the shaking itself:
+Liquefaction - structures that once looked solid are now
+without strength. Buildings tilt, sink. Tanks rise.
+Causes:
+Rearrangement of grains, especially in water saturated
+areas (no shear strength!).
+Vibration of particles.
+Landslides: Can be extremely dangerous in mountainous areas
+e.g.,1970 Hytapayana Peru 70,000 persons died
+1950 Hyite, Tadjikistan 50,000 persons died.
+Fires: 1906, caused most of the damage (disrupted power lines,
+etc.)
+Tsunamis: 800 km/hr in open ocean/ 1 meter amplitude
+60 km/hr near shore, 15 meters amplitude.
+Horrific stories, but a lot of progress has been made
+in early warning. Good rule: If you see the shoreline receding suddenly,
+head for the high ground!
+Generation of Tsunamis
+Tsunami Damage in Alaskan Earthquake
+Propagation of Tsunami
+Ground warping and disruption.
+Ground Displacement
+Ground Tearing
+Compression of Concrete Freeway
+Disruption of life-supports systems (water lines, aqueducts,
+roads, drainage pipes, etc.)
+Release of toxins into the ground water from buried tanks.
+
+
+===== eq1_18.html =====
+
+
+Earthquake Lecture
+What kinds of structures are dangerous?
+Anything relying on gravity to keep it together (e.g., Armenia)
+Unreinforced masonry - not flexible enough to be shaken,
+it just falls apart.
+Resonant frequency matches that of the local geology.
+Wooden structures not bolted to foundations.
+Heavy roofs.
+Gas powered appliances not properly secured (e.g., hot water
+heater)
+Shelves, TV's other "loose" objects that could tip over or
+be thrown around.
+
+
+===== eq1_19.html =====
+
+
+Earthquake Lecture
+
+INDUCED SEISMICITY
+Water or waste injection (increasing the pore pressure).
+Colorado is the classic example, earthquakes also associated with dams
+filling up.
+Bomb tests. Stain waves provide a trigger for events on the
+edge. Cf. Imperial valley and Brawley faults.
+
+
+===== eq1_20.html =====
+
+
+Earthquake Lecture
+WHAT CAN WE DO ABOUT IT?
+Evaluate and publicize the risk. Increase public awareness.
+Develop and enforce reasonable building codes.
+Have a relief plan thought out and practiced.
+Don't build sensitive structures (homes, hospitals, schools,
+waste receptacles) near active faults.
+Earthquake prevention by preemptive strikes? No way! This
+is like asking someone to control a natural gas hazard by lighting matches!
+
+

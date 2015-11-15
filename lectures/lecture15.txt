@@ -1,0 +1,255 @@
+===== interior_01.html =====
+
+
+GeoI Lecture Notes on Earth's Interior
+Geo I
+The Earth's Interior:
+Way Down Inside
+How do we know what is below the Earth's surface?  We get clues from 
+Extrusive igneous rocks
+Drilling
+Geological section of the Kola Super Deep Borehole derived from nearly continuous core extraction. 
+One of the most widespread urban legends is the story of the
+  Russian scientists who drilled so deeply into the earth's crust that they
+  accidentally broke through into hell. 
+The SAFOD Drilling project, which will monitor the San Andreas Fault at Depth. 
+Meterorites
+Part of the Allende Meteorite, a carbonaceous chrondrite
+All are helpful, but the best evidence we have comes from analysis of
+the physical properties of the Earth, which is the realm of
+Geophysics, and subdisciplines like seismology, potential field
+geophysics (gravity and magnetics), geoelectricity, and heat flow.
+Because rocks are "opaque" we learn deduce all we know by inference, but is this
+any different from what we have been discussing so far (time vs. space)?
+
+
+===== interior_02.html =====
+
+
+GeoI Lecture Notes on Earth's Interior
+Interpreting Seismograms:  The Wonder Wiggles
+The best pictures we have of the Earth's interior come from the field of SEISMOLOGY, in
+which we analyze the way in which vibrations propogate through the Earth.
+Some definitions:
+Seismogram:  A record of ground motion.  Could be analog 
+or digital
+A foreshock-mainshock-aftershock sequence
+Seismometer:  A sensor that converts ground motion into 
+an electrical signal.  Also called a Geophone.
+Simplified Diagram
+Examples of Geophones
+Modern Seismometers in China
+Seismograph:  The instrument used to record the electrical 
+signals.
+This model of an ancient Chinese Seismograph
+is in the shape of a watchtower in a Han period frontier village.
+Helicorders, or Drum Recorders, which have been the standard for many years.
+A RefTek Data Acquistion System installed in Kyrgyzstan
+Seismometers work just like a phonograph needle; or, if 
+you like, a speaker in reverse:  Inertial mass on a spring 
+with a magnet moving through a coil of wire.
+The waves produced by an earthquake arrive at a point as 
+distinct "phases".  We can use these phases to tell us a lot 
+about the earthquake source and the earth structure.
+Example:  location of an epicenter can be accomplished by 
+the S-P time.
+Aside:  We know now that most earthquakes are shallow 
+(
+More sophisticated processing can reveal the nature of the 
+rupture process.
+
+
+===== interior_03.html =====
+
+
+GeoI Lecture Notes on Earth's Interior
+Earth Structure
+We can use arrival times and amplitudes of phases to 
+determine the interior structure of the Earth.  In fact, most 
+of what we know about the interior of the Earth comes from 
+this kind of information.  Seismic waves are like the X rays 
+of the Earth.  We can CAT-scan the Earth.
+Here are the basic steps:
+Identification of a phase as a coherent arrival.
+Explanation of this phase in the context of an Earth 
+model.
+There are two basic ways to do this:
+Active source seismology, in which you create your own energy souce (an explosion or 
+a weight drop, for example).
+Accelerated Weight Drop Source
+Passive source seismology, in which you rely on natural sources of energy (like earthquakes). 
+There are real advantages to using active sources, such as high resolution image production, but
+the energies involved only allow us to investigate crustal depth stucture (at most).
+Details:
+Changes in structure cause waves to bend and refract.  
+Smooth variations cause bending, sharp variations cause 
+new kinds of phases to be generated, including some reflections.
+Reflected Wave
+Critically Refracted Wave
+Refracted Wave
+Curved Ray in a Gradually increasing Velocity Medium
+We start by constructing a one-dimensional model of the 
+Earth.  Main features are:
+	Crust, Mantle, Outer Core, Inner Core
+Secondary Features:
+Lithosphere, Low Velocity Zone (asthenosphere), Phase Transitions in Upper 
+Mantle, Variations in Crustal thickness.
+Details of the crust:
+The crust is thicker beneath continents (10-70 km) than it is beneath oceans (5-8 km).  
+Vp in oceans is
+about 7.0 km/s and in continents is about 6.0 km/s.  Composition:  basalt vs. granite.
+Continental crust is complicated, oceanic crust is simple.
+ The boundary between the crust and mantle is called the Mohorovicic Discontinuity after
+the seismologist who first discovered it.
+Details of the mantle:
+ Vp in upper mantle about 8 km/s; should be ultramafic (no feldspar; lots of olivene and pyroxene).
+ Velocity increases until about 125 -200 km depth, then reverses in the asthenosphere, where rocks
+flow easily and may be partially melted.  The asthenosphere extends to depths of about 200 km, and may
+or may not exist beneath all continents.
+ Phase changes at 400 and 670 km depth.  Olivene -> Spinel -> Perovskite.
+Same composition; different structure.
+ Composition is more or less homogeneous due to convection, but some lateral variations exist.
+ We can determine anistropy from shear wave splitting.
+Details of the core:
+ We know the outer core is liquid because of the shadow zone for shear waves and strong refraction for
+P waves.
+ Other phases show that the inner core is solid.  Looking at changes in anistropy over time show that
+the inner core is rotating.
+ The core is dense ( 10-13 gr/cc) and appears to be composed of Fe and Ni, along with some sulpher.
+Fe and Ni are consistent with wave velocities and with meteorites.  Existence of magnetic field provides
+more evidence.
+As we become more sophisticated in imaging, we produce 3D 
+structures (laterally varying).  Main features:
+	Hot and cold areas of the interior related to mantle 
+convection.
+	Variations in the depth of the Core-Mantle boundary.
+	Local and regional variations in structure.
+
+
+===== interior_04.html =====
+
+
+GeoI Lecture Notes on Earth's Interior
+Active Source Seismology (Exploration)
+Seismic imaging works so well that oil companies spend 
+about 90% of their exploration budget collecting data from 
+artificial sources (explosions or vibrators).
+Techniques are REFLECTION and REFRACTION.
+At a small scale, a sledge hammer can produce nice 
+pictures of the near-surface.
+Techniques works well in a variety of environments.  
+Particularly good on water (easier to move equipment 
+around).
+
+
+===== interior_05.html =====
+
+
+GeoI Lecture Notes on Earth's Interior
+The Attractions of Gravity
+In the beginning, Newton said:
+F = GM1M2/R2
+Which means that if there are two masses (whatever that means)
+M1 and M2 separated by a distance R, they will
+exert a mutually attractive force on each other that is proportional to
+the product of the masses and inversely proportional to the square of
+the distance between them.
+This is a weak force; you don't have to worry about walking past a building and
+becoming bonded to it.  However, if a body has a lot of mass, like for example
+a planet, gravity becomes noticeable.  
+Let's assign one of the masses to be the mass of Earth (Me),
+and remember that Newton also pointed out that:
+F = MA
+where A is an acceleration.  If M1 is some mass at the surface of the Earth, we
+can write:
+F = M1 (GMe/Re2) = M1g
+where "g" is the acceleration due to gravity at the surface (Re = Radius of the
+Earth).  Then
+g = F/M1 = GMe/Re2 ~ 9.8 m/s2
+Now, IF the density of the Earth were radially symmetric and the Earth did not
+spin, g would be the same everywhere on the surface.  But density does vary, and
+in fact being able to map out variations in density provides some important clues
+about the nature of the subsurface.  
+The measurement of g, or at least variations of g, is not difficult to do.  The
+trick is knowing how to interpret your measurements as evidence of variations in
+density.  Why is this difficult?  Because we know that the following items also
+cause g to change:
+Changes in Latitude, because the Earth is spinning.
+Changes in Elevation, because gravity changes like 1/R2
+Changes in Time, because of tidal attractions of the Sun and Moon.
+Changes in Terrain, because solid rock is replaced by air in valleys (or
+	air by rock in mountains).
+Despite all these corrections you have to make, you can still come up with
+	a pretty good idea of what part of the change in g is due to density
+	variations.
+
+
+===== interior_06.html =====
+
+
+GeoI Lecture Notes on Earth's Interior
+What can we learn from Gravity studies?  
+Many things, but here are a couple
+of the most important ideas:
+LARGE SCALE:
+As a result of gravity measurements, we know that, to first order, the
+Earth's crust "floats" on the mantle just like ice cubes in water.
+This idea is called "Isostacy" (= "equal standing").  Thus, like the
+tip of an iceberg, a mountain is just the tip of a much greater
+thickness of crust below it (by a factor of about 5;  thus, a 2 km high
+mountain is compensated by an extra 10 km of crust beneath it).  Thus,
+we can use elevations as well as gravity anomalies to estimate the thickness of the crust.
+The first person to detect this was Pierre Bouguer, although he thought
+the explanation for the mass deficit was "hollow mountains".  The real
+reason was proposed by Airy, a British scientist, about 100 years ago.
+Loads on the lithosphere cause it to bend, which also makes for a lateral
+variation in density.  Thus, long wavelength variations in gravity have been
+used to determine the strength of the lithosphere in different parts of the world.
+Isostacy also explains why some mountains (like the Appalacians) can persist despite
+millions of years of erosion, and why places like Norway and Canada are shooting up
+out of the water (post glacial rebound).
+SMALL SCALE:
+Gravity observations are very useful in mapping out areas of low density, such
+as sediment filled basins.  This can be useful for groundwater exploration, for
+example.  In New York, gravity data can be used to map out old river channels where
+water resources are likely to be found.
+
+
+===== interior_07.html =====
+
+
+GeoI Lecture Notes on Earth's Interior
+Magnetic Appeal
+It has been known for about 500 years the the Earth has its own magnetic field.
+For the most part, the Earth's magnetic field looks like one that would be
+generated from a dipolar magnetic source located at the center of the
+Earth. The strength of the magnetic field at the poles is about
+50,000 NanoTeslas (gammas), and probably is generated mostly by convection in
+the outer core.
+This description  was first given by Sir William Gilbert in 1600.
+If the dipole were aligned with the rotation axis of the Earth, a description of the
+field would be simple.  Unfortunately it is not, so we must worry about the inclination
+and declination (i.e., direction) of the field at any point on Earth.
+Also the field changes with time in an unpredictable way!
+Thus, we generally interpret relative fields rather than the absolute field.  Still,
+it can get pretty complicated.  Fortunately, the measurements are made very easily.
+Rocks have a "magnetic susceptibility" which means that they can produce a secondary field when
+in the presence of a primary field.  What we measure is the total field.  
+When some minerals cool below the Curie point (about 600oC) they can
+retain an induced magnetism. Because the magnetic field has been know
+to reverse polarity several times in the past.  This gives us another
+time scale to use in determining Earth history (paleomagnetics).
+
+
+===== interior_08.html =====
+
+
+GeoI Lecture Notes on Earth's Interior
+Heat Flow
+Measurements of heat flow tell us about temperature gradients within the Earth (geothermal gradients).
+We know that near surface, this gradient is about 25oC/km but decreases to 1oC/km in the mantle.  Temperatures
+at the center of the Earth approach 7000oC.
+Heat flow measurements can tell us if anomalously hot bodies are near the surface.  On average, heat flow
+beneath oceans and continents is about the same.
+
+
